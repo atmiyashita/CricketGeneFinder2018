@@ -1,0 +1,108 @@
+Hit_def (fasta name in db) = c221272_g4_i5 len=1056 path=[5458:0-132 905:133-324 1097:325-330 1103:331-359 1132:360-361 1134:362-495 10733:496-498 10736:499-640 10818:641-782 1555:783-865 1638:866-892 1665:893-956 1729:957-1055]
+itr with hit = 10
+Query name = XM_024095288.1 PREDICTED: Bicyclus anynana phenoloxidase subunit 2-like (LOC112055263), mRNA
+Query length = 2207
+E-value = 5.91496e-12
+=============================
+Hit_def (fasta name in db) = c221272_g4_i4 len=1246 path=[8354:0-22 605:23-53 10436:54-54 9479:55-73 10454:74-97 10479:98-104 687:105-118 10498:119-322 905:323-514 8348:515-520 1103:521-549 8496:550-551 1134:552-685 10733:686-688 10736:689-830 10818:831-972 1555:973-1055 1638:1056-1082 1665:1083-1146 1729:1147-1245]
+itr with hit = 10
+Query name = XM_024095288.1 PREDICTED: Bicyclus anynana phenoloxidase subunit 2-like (LOC112055263), mRNA
+Query length = 2207
+E-value = 5.91496e-12
+=============================
+Hit_def (fasta name in db) = c221272_g4_i2 len=602 path=[8397:0-44 10736:45-186 10818:187-328 1555:329-411 1638:412-438 1665:439-502 1729:503-601]
+itr with hit = 10
+Query name = XM_024095288.1 PREDICTED: Bicyclus anynana phenoloxidase subunit 2-like (LOC112055263), mRNA
+Query length = 2207
+E-value = 5.91496e-12
+=============================
+Hit_def (fasta name in db) = GAIZ01003467.1 TSA: Gryllus firmus Locus_6378_Transcript_3/5_Confidence_0.636_Length_2324 transcribed RNA sequence
+itr with hit = 10
+Query name = XM_024095288.1 PREDICTED: Bicyclus anynana phenoloxidase subunit 2-like (LOC112055263), mRNA
+Query length = 2207
+E-value = 2.75196e-10
+=============================
+Hit_def (fasta name in db) = c214853_g2_i5 len=1619 path=[4532:0-31 1379:32-768 7883:769-782 1109:783-841 1168:842-858 7981:859-868 5375:869-1011 2301:1012-1115 5618:1116-1299 1014:1300-1300 1015:1301-1324 8390:1325-1348 582:1349-1509 3965:1510-1519 8321:1520-1543 6358:1544-1577 6066:1578-1604 8415:1605-1617 3604:1618-1618]
+itr with hit = 20
+Query name = XM_014382423.2 PREDICTED: Trichogramma pretiosum phenoloxidase subunit 1-like (LOC106659744), mRNA
+Query length = 2198
+E-value = 9.44727e-40
+=============================
+Hit_def (fasta name in db) = c214853_g2_i1 len=1079 path=[4532:0-31 1379:32-768 7883:769-782 1109:783-841 1168:842-858 7981:859-868 6155:869-948 2552:949-961 2565:962-985 8076:986-1036 8109:1037-1078]
+itr with hit = 20
+Query name = XM_014382423.2 PREDICTED: Trichogramma pretiosum phenoloxidase subunit 1-like (LOC106659744), mRNA
+Query length = 2198
+E-value = 1.58086e-37
+=============================
+Hit_def (fasta name in db) = c214853_g2_i6 len=821 path=[4532:0-31 1379:32-768 7883:769-782 7897:783-787 7902:788-792 6831:793-820]
+itr with hit = 20
+Query name = XM_014382423.2 PREDICTED: Trichogramma pretiosum phenoloxidase subunit 1-like (LOC106659744), mRNA
+Query length = 2198
+E-value = 2.08884e-21
+=============================
+Hit_def (fasta name in db) = GAIZ01003467.1 TSA: Gryllus firmus Locus_6378_Transcript_3/5_Confidence_0.636_Length_2324 transcribed RNA sequence
+itr with hit = 20
+Query name = XM_014382423.2 PREDICTED: Trichogramma pretiosum phenoloxidase subunit 1-like (LOC106659744), mRNA
+Query length = 2198
+E-value = 1.63778e-12
+=============================
+Hit_def (fasta name in db) = c221272_g4_i5 len=1056 path=[5458:0-132 905:133-324 1097:325-330 1103:331-359 1132:360-361 1134:362-495 10733:496-498 10736:499-640 10818:641-782 1555:783-865 1638:866-892 1665:893-956 1729:957-1055]
+itr with hit = 20
+Query name = XM_014382423.2 PREDICTED: Trichogramma pretiosum phenoloxidase subunit 1-like (LOC106659744), mRNA
+Query length = 2198
+E-value = 5.93234e-07
+=============================
+Hit_def (fasta name in db) = c221272_g4_i4 len=1246 path=[8354:0-22 605:23-53 10436:54-54 9479:55-73 10454:74-97 10479:98-104 687:105-118 10498:119-322 905:323-514 8348:515-520 1103:521-549 8496:550-551 1134:552-685 10733:686-688 10736:689-830 10818:831-972 1555:973-1055 1638:1056-1082 1665:1083-1146 1729:1147-1245]
+itr with hit = 20
+Query name = XM_014382423.2 PREDICTED: Trichogramma pretiosum phenoloxidase subunit 1-like (LOC106659744), mRNA
+Query length = 2198
+E-value = 5.93234e-07
+=============================
+Hit_def (fasta name in db) = c221272_g4_i2 len=602 path=[8397:0-44 10736:45-186 10818:187-328 1555:329-411 1638:412-438 1665:439-502 1729:503-601]
+itr with hit = 20
+Query name = XM_014382423.2 PREDICTED: Trichogramma pretiosum phenoloxidase subunit 1-like (LOC106659744), mRNA
+Query length = 2198
+E-value = 5.93234e-07
+=============================
+Hit_def (fasta name in db) = c205705_g5_i1 len=202 path=[1210:0-167 1376:168-201]
+itr with hit = 20
+Query name = XM_014382423.2 PREDICTED: Trichogramma pretiosum phenoloxidase subunit 1-like (LOC106659744), mRNA
+Query length = 2198
+E-value = 7.67396e-06
+=============================
+Hit_def (fasta name in db) = c205705_g5_i1 len=202 path=[1210:0-167 1376:168-201]
+itr with hit = 21
+Query name = XM_023457847.1 PREDICTED: Trichogramma pretiosum phenoloxidase subunit 1-like (LOC106659743), mRNA
+Query length = 2109
+E-value = 1.58173e-07
+=============================
+Hit_def (fasta name in db) = c214853_g2_i5 len=1619 path=[4532:0-31 1379:32-768 7883:769-782 1109:783-841 1168:842-858 7981:859-868 5375:869-1011 2301:1012-1115 5618:1116-1299 1014:1300-1300 1015:1301-1324 8390:1325-1348 582:1349-1509 3965:1510-1519 8321:1520-1543 6358:1544-1577 6066:1578-1604 8415:1605-1617 3604:1618-1618]
+itr with hit = 59
+Query name = NM_001043870.1 Bombyx mori phenoloxidase subunit 1 (PPO1), mRNA
+Query length = 3612
+E-value = 9.32623e-42
+=============================
+Hit_def (fasta name in db) = c214853_g2_i1 len=1079 path=[4532:0-31 1379:32-768 7883:769-782 1109:783-841 1168:842-858 7981:859-868 6155:869-948 2552:949-961 2565:962-985 8076:986-1036 8109:1037-1078]
+itr with hit = 59
+Query name = NM_001043870.1 Bombyx mori phenoloxidase subunit 1 (PPO1), mRNA
+Query length = 3612
+E-value = 3.35431e-41
+=============================
+Hit_def (fasta name in db) = c213700_g2_i1 len=1590 path=[3601:0-93 5454:94-164 1714:165-165 1715:166-189 1739:190-321 5666:322-329 602:330-365 638:366-371 5762:372-389 1933:390-517 2061:518-527 797:528-558 6009:559-633 6056:634-645 2185:646-681 2221:682-699 6095:700-718 2258:719-723 2263:724-792 6173:793-797 6178:798-800 6181:801-813 6194:814-817 6198:818-821 2360:822-833 1388:834-867 6249:868-868 1096:869-871 2406:872-897 2432:898-903 6274:904-997 6338:998-999 6340:1000-1123 2651:1124-1172 426:1173-1215 6472:1216-1221 6478:1222-1295 1571:1296-1296 543:1297-1335 2854:1336-1336 1618:1337-1376 2893:1377-1406 2923:1407-1432 341:1433-1502 3018:1503-1548 3064:1549-1589]
+itr with hit = 59
+Query name = NM_001043870.1 Bombyx mori phenoloxidase subunit 1 (PPO1), mRNA
+Query length = 3612
+E-value = 1.62828e-09
+=============================
+Hit_def (fasta name in db) = c206930_g1_i1 len=808 path=[1:0-53 1529:54-62 55:63-163 156:164-164 157:165-188 3704:189-294 3735:295-316 3757:317-320 3761:321-347 3788:348-428 421:429-476 4004:477-487 916:488-490 919:491-506 4021:507-523 4038:524-524 4039:525-531 4046:532-541 970:542-589 3397:590-590 1019:591-650 4145:651-662 4157:663-668 4163:669-676 4189:677-677 1106:678-807]
+itr with hit = 66
+Query name = XM_022332348.1 PREDICTED: Nilaparvata lugens phenoloxidase 2-like (LOC111046735), mRNA
+Query length = 1431
+E-value = 1.05372e-17
+=============================
+Hit_def (fasta name in db) = c206930_g1_i1 len=808 path=[1:0-53 1529:54-62 55:63-163 156:164-164 157:165-188 3704:189-294 3735:295-316 3757:317-320 3761:321-347 3788:348-428 421:429-476 4004:477-487 916:488-490 919:491-506 4021:507-523 4038:524-524 4039:525-531 4046:532-541 970:542-589 3397:590-590 1019:591-650 4145:651-662 4157:663-668 4163:669-676 4189:677-677 1106:678-807]
+itr with hit = 67
+Query name = XM_022335446.1 PREDICTED: Nilaparvata lugens phenoloxidase subunit 1-like (LOC111049394), mRNA
+Query length = 1764
+E-value = 6.06607e-16
+=============================

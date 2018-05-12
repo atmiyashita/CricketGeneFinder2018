@@ -1,0 +1,6 @@
+Hit_def (fasta name in db) = c144902_g1_i1 len=247 path=[214:0-127 120:128-246]
+itr with hit = 124
+Query name = NW_016180783.1 Rhagoletis zephyria isolate East Lansing unplaced genomic scaffold, Rhagoletis_zephyria_1.0 Rzeph_scaffold_23725, whole genome shotgun sequence
+Query length = 6589
+E-value = 1.75324e-21
+=============================

@@ -1,0 +1,144 @@
+Hit_def (fasta name in db) = c204253_g4_i11 len=987 path=[1:0-248 250:249-352 6436:353-353 355:354-403 6737:404-406 441:407-500 535:501-573 608:574-578 613:579-986]
+itr with hit = 380
+Query name = NM_001312632.1 Papilio xuthus elongation factor 1-beta' (LOC106126800), mRNA
+Query length = 773
+E-value = 9.45818e-11
+=============================
+Hit_def (fasta name in db) = c204253_g4_i10 len=1120 path=[1:0-248 3987:249-347 4084:348-369 4105:370-370 2308:371-432 250:433-536 6737:537-539 441:540-633 535:634-706 608:707-711 613:712-1119]
+itr with hit = 380
+Query name = NM_001312632.1 Papilio xuthus elongation factor 1-beta' (LOC106126800), mRNA
+Query length = 773
+E-value = 9.45818e-11
+=============================
+Hit_def (fasta name in db) = c204253_g4_i8 len=742 path=[441:0-93 2448:94-255 535:256-328 608:329-333 613:334-741]
+itr with hit = 380
+Query name = NM_001312632.1 Papilio xuthus elongation factor 1-beta' (LOC106126800), mRNA
+Query length = 773
+E-value = 9.45818e-11
+=============================
+Hit_def (fasta name in db) = c204253_g4_i6 len=1020 path=[1:0-248 250:249-352 6436:353-353 355:354-403 6737:404-406 408:407-439 441:440-533 535:534-606 608:607-611 613:612-1019]
+itr with hit = 380
+Query name = NM_001312632.1 Papilio xuthus elongation factor 1-beta' (LOC106126800), mRNA
+Query length = 773
+E-value = 9.45818e-11
+=============================
+Hit_def (fasta name in db) = c204253_g4_i2 len=936 path=[1:0-248 250:249-352 6737:353-355 441:356-449 535:450-522 608:523-527 613:528-935]
+itr with hit = 380
+Query name = NM_001312632.1 Papilio xuthus elongation factor 1-beta' (LOC106126800), mRNA
+Query length = 773
+E-value = 9.45818e-11
+=============================
+Hit_def (fasta name in db) = GAIZ01005303.1 TSA: Gryllus firmus Locus_5559_Transcript_1/3_Confidence_0.714_Length_1128 transcribed RNA sequence
+itr with hit = 380
+Query name = NM_001312632.1 Papilio xuthus elongation factor 1-beta' (LOC106126800), mRNA
+Query length = 773
+E-value = 9.45818e-11
+=============================
+Hit_def (fasta name in db) = GAIZ01005303.1 TSA: Gryllus firmus Locus_5559_Transcript_1/3_Confidence_0.714_Length_1128 transcribed RNA sequence
+itr with hit = 443
+Query name = XM_021334087.1 PREDICTED: Helicoverpa armigera elongation factor 1-beta' (LOC110375824), mRNA
+Query length = 812
+E-value = 1.28362e-09
+=============================
+Hit_def (fasta name in db) = c204253_g4_i11 len=987 path=[1:0-248 250:249-352 6436:353-353 355:354-403 6737:404-406 441:407-500 535:501-573 608:574-578 613:579-986]
+itr with hit = 443
+Query name = XM_021334087.1 PREDICTED: Helicoverpa armigera elongation factor 1-beta' (LOC110375824), mRNA
+Query length = 812
+E-value = 5.97211e-08
+=============================
+Hit_def (fasta name in db) = c204253_g4_i10 len=1120 path=[1:0-248 3987:249-347 4084:348-369 4105:370-370 2308:371-432 250:433-536 6737:537-539 441:540-633 535:634-706 608:707-711 613:712-1119]
+itr with hit = 443
+Query name = XM_021334087.1 PREDICTED: Helicoverpa armigera elongation factor 1-beta' (LOC110375824), mRNA
+Query length = 812
+E-value = 5.97211e-08
+=============================
+Hit_def (fasta name in db) = c204253_g4_i8 len=742 path=[441:0-93 2448:94-255 535:256-328 608:329-333 613:334-741]
+itr with hit = 443
+Query name = XM_021334087.1 PREDICTED: Helicoverpa armigera elongation factor 1-beta' (LOC110375824), mRNA
+Query length = 812
+E-value = 5.97211e-08
+=============================
+Hit_def (fasta name in db) = c204253_g4_i6 len=1020 path=[1:0-248 250:249-352 6436:353-353 355:354-403 6737:404-406 408:407-439 441:440-533 535:534-606 608:607-611 613:612-1019]
+itr with hit = 443
+Query name = XM_021334087.1 PREDICTED: Helicoverpa armigera elongation factor 1-beta' (LOC110375824), mRNA
+Query length = 812
+E-value = 5.97211e-08
+=============================
+Hit_def (fasta name in db) = c204253_g4_i2 len=936 path=[1:0-248 250:249-352 6737:353-355 441:356-449 535:450-522 608:523-527 613:528-935]
+itr with hit = 443
+Query name = XM_021334087.1 PREDICTED: Helicoverpa armigera elongation factor 1-beta' (LOC110375824), mRNA
+Query length = 812
+E-value = 5.97211e-08
+=============================
+Hit_def (fasta name in db) = c212640_g1_i1 len=5722 path=[7595:0-430 @2582@!:431-1064 2301:1065-1331 @8914@!:1332-3046 7546:3047-3335 7415:3336-3454 7002:3455-3478 43:3479-5074 1639:5075-5077 1642:5078-5721]
+itr with hit = 879
+Query name = XM_011337333.2 PREDICTED: Cerapachys biroi failed axon connections (LOC105278321), transcript variant X4, mRNA
+Query length = 1667
+E-value = 6.95151e-60
+=============================
+Hit_def (fasta name in db) = c212640_g1_i3 len=5737 path=[7595:0-430 @2582@!:431-1064 2286:1065-1079 2301:1080-1346 @8914@!:1347-3061 7546:3062-3350 7415:3351-3469 7002:3470-3493 43:3494-5089 1639:5090-5092 1642:5093-5736]
+itr with hit = 879
+Query name = XM_011337333.2 PREDICTED: Cerapachys biroi failed axon connections (LOC105278321), transcript variant X4, mRNA
+Query length = 1667
+E-value = 1.9465e-55
+=============================
+Hit_def (fasta name in db) = GAIZ01022151.1 TSA: Gryllus firmus Locus_5701_Transcript_1/1_Confidence_1.000_Length_301 transcribed RNA sequence
+itr with hit = 879
+Query name = XM_011337333.2 PREDICTED: Cerapachys biroi failed axon connections (LOC105278321), transcript variant X4, mRNA
+Query length = 1667
+E-value = 5.52809e-41
+=============================
+Hit_def (fasta name in db) = c212640_g1_i1 len=5722 path=[7595:0-430 @2582@!:431-1064 2301:1065-1331 @8914@!:1332-3046 7546:3047-3335 7415:3336-3454 7002:3455-3478 43:3479-5074 1639:5075-5077 1642:5078-5721]
+itr with hit = 880
+Query name = XM_020031318.1 PREDICTED: Cerapachys biroi failed axon connections (LOC105278321), transcript variant X3, mRNA
+Query length = 1712
+E-value = 1.59043e-36
+=============================
+Hit_def (fasta name in db) = c212640_g1_i3 len=5737 path=[7595:0-430 @2582@!:431-1064 2286:1065-1079 2301:1080-1346 @8914@!:1347-3061 7546:3062-3350 7415:3351-3469 7002:3470-3493 43:3494-5089 1639:5090-5092 1642:5093-5736]
+itr with hit = 880
+Query name = XM_020031318.1 PREDICTED: Cerapachys biroi failed axon connections (LOC105278321), transcript variant X3, mRNA
+Query length = 1712
+E-value = 4.45337e-32
+=============================
+Hit_def (fasta name in db) = GAIZ01022151.1 TSA: Gryllus firmus Locus_5701_Transcript_1/1_Confidence_1.000_Length_301 transcribed RNA sequence
+itr with hit = 880
+Query name = XM_020031318.1 PREDICTED: Cerapachys biroi failed axon connections (LOC105278321), transcript variant X3, mRNA
+Query length = 1712
+E-value = 4.45337e-32
+=============================
+Hit_def (fasta name in db) = c212640_g1_i3 len=5737 path=[7595:0-430 @2582@!:431-1064 2286:1065-1079 2301:1080-1346 @8914@!:1347-3061 7546:3062-3350 7415:3351-3469 7002:3470-3493 43:3494-5089 1639:5090-5092 1642:5093-5736]
+itr with hit = 881
+Query name = XM_020031316.1 PREDICTED: Cerapachys biroi failed axon connections (LOC105278321), transcript variant X2, mRNA
+Query length = 1643
+E-value = 4.2709e-32
+=============================
+Hit_def (fasta name in db) = c212640_g1_i1 len=5722 path=[7595:0-430 @2582@!:431-1064 2301:1065-1331 @8914@!:1332-3046 7546:3047-3335 7415:3336-3454 7002:3455-3478 43:3479-5074 1639:5075-5077 1642:5078-5721]
+itr with hit = 881
+Query name = XM_020031316.1 PREDICTED: Cerapachys biroi failed axon connections (LOC105278321), transcript variant X2, mRNA
+Query length = 1643
+E-value = 4.2709e-32
+=============================
+Hit_def (fasta name in db) = GAIZ01022151.1 TSA: Gryllus firmus Locus_5701_Transcript_1/1_Confidence_1.000_Length_301 transcribed RNA sequence
+itr with hit = 881
+Query name = XM_020031316.1 PREDICTED: Cerapachys biroi failed axon connections (LOC105278321), transcript variant X2, mRNA
+Query length = 1643
+E-value = 4.2709e-32
+=============================
+Hit_def (fasta name in db) = c221068_g1_i2 len=5659 path=[1608:0-563 2165:564-570 @1022@!:571-1051 655:1052-1075 8867:1076-1323 8958:1324-1327 2914:1328-1328 1413:1329-1473 @3057@!:1474-1694 3275:1695-1695 8310:1696-1719 9042:1720-1731 9054:1732-1743 9066:1744-1925 3501:1926-1926 449:1927-1955 1166:1956-2006 1047:2007-2819 1150:2820-3280 834:3281-3645 5201:3646-3742 9406:3743-3743 9407:3744-3752 9416:3753-3765 10050:3766-3766 10051:3767-3785 1607:3786-3862 9482:3863-3864 9484:3865-4062 9607:4063-4340 323:4341-4445 9660:4446-4724 6248:4725-4891 1462:4892-5036 10098:5037-5046 9817:5047-5048 9819:5049-5197 9892:5198-5198 9893:5199-5215 6745:5216-5658]
+itr with hit = 903
+Query name = XM_011265901.2 PREDICTED: Camponotus floridanus chloride intracellular channel exc-4 (LOC105256182), mRNA
+Query length = 1542
+E-value = 1.29504e-106
+=============================
+Hit_def (fasta name in db) = c221068_g1_i1 len=5683 path=[1608:0-563 2165:564-570 @1022@!:571-1051 360:1052-1052 655:1053-1076 8867:1077-1324 8958:1325-1328 7772:1329-1329 2914:1330-1330 1413:1331-1475 @3057@!:1476-1696 3275:1697-1697 3276:1698-1721 9042:1722-1733 9054:1734-1745 9066:1746-1927 3501:1928-1928 449:1929-1957 1166:1958-2008 1047:2009-2821 1150:2822-3282 834:3283-3647 5201:3648-3744 9406:3745-3745 9407:3746-3754 9416:3755-3767 10050:3768-3768 10051:3769-3787 1607:3788-3864 1295:3865-3865 9484:3866-4063 9607:4064-4341 323:4342-4446 9660:4447-4725 6248:4726-4892 6410:4893-4915 1462:4916-5060 10098:5061-5070 9817:5071-5072 9819:5073-5221 9892:5222-5222 9893:5223-5239 6745:5240-5682]
+itr with hit = 903
+Query name = XM_011265901.2 PREDICTED: Camponotus floridanus chloride intracellular channel exc-4 (LOC105256182), mRNA
+Query length = 1542
+E-value = 1.29504e-106
+=============================
+Hit_def (fasta name in db) = isotig15047  gene=isogroup11271  length=729  numContigs=1
+itr with hit = 903
+Query name = XM_011265901.2 PREDICTED: Camponotus floridanus chloride intracellular channel exc-4 (LOC105256182), mRNA
+Query length = 1542
+E-value = 4.79148e-86
+=============================

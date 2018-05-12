@@ -1,0 +1,48 @@
+Hit_def (fasta name in db) = GAIZ01013692.1 TSA: Gryllus firmus Locus_6568_Transcript_1/1_Confidence_1.000_Length_942 transcribed RNA sequence
+itr with hit = 202
+Query name = GFJQ02004852.1 TSA: Ornithodoros moubata GFJQ01005132.1 transcribed RNA sequence
+Query length = 525
+E-value = 2.67946e-74
+=============================
+Hit_def (fasta name in db) = isotig09661  gene=isogroup05885  length=1991  numContigs=1
+itr with hit = 202
+Query name = GFJQ02004852.1 TSA: Ornithodoros moubata GFJQ01005132.1 transcribed RNA sequence
+Query length = 525
+E-value = 1.24663e-72
+=============================
+Hit_def (fasta name in db) = c209290_g1_i1 len=1983 path=[237:0-895 1133:896-896 1134:897-920 2815:921-994 1230:995-995 1231:996-1143 2909:1144-1168 159:1169-1247 1478:1248-1254 @58@!:1255-1784 2674:1785-1793 3232:1794-1814 3273:1815-1857 2082:1858-1859 2084:1860-1982]
+itr with hit = 202
+Query name = GFJQ02004852.1 TSA: Ornithodoros moubata GFJQ01005132.1 transcribed RNA sequence
+Query length = 525
+E-value = 6.18131e-26
+=============================
+Hit_def (fasta name in db) = GAIZ01021360.1 TSA: Gryllus firmus Locus_27820_Transcript_1/1_Confidence_1.000_Length_277 transcribed RNA sequence
+itr with hit = 773
+Query name = GDIP01002398.1 TSA: Daphnia magna Dapma6txEVm016941t1 transcribed RNA sequence
+Query length = 747
+E-value = 2.89064e-100
+=============================
+Hit_def (fasta name in db) = c205605_g2_i1 len=1308 path=[688:0-124 6845:125-165 854:166-288 977:289-740 1429:741-762 1451:763-1307]
+itr with hit = 939
+Query name = GDIP01145253.1 TSA: Daphnia magna Dapma6txEVm012089t53 transcribed RNA sequence
+Query length = 3089
+E-value = 4.96624e-14
+=============================
+Hit_def (fasta name in db) = GFCP6CO01ES2FY length=376
+itr with hit = 939
+Query name = GDIP01145253.1 TSA: Daphnia magna Dapma6txEVm012089t53 transcribed RNA sequence
+Query length = 3089
+E-value = 8.31027e-12
+=============================
+Hit_def (fasta name in db) = GE8SX9M02GQ4TQ length=533
+itr with hit = 939
+Query name = GDIP01145253.1 TSA: Daphnia magna Dapma6txEVm012089t53 transcribed RNA sequence
+Query length = 3089
+E-value = 3.86639e-10
+=============================
+Hit_def (fasta name in db) = GE8SX9M02J16EN length=55
+itr with hit = 939
+Query name = GDIP01145253.1 TSA: Daphnia magna Dapma6txEVm012089t53 transcribed RNA sequence
+Query length = 3089
+E-value = 6.46984e-08
+=============================

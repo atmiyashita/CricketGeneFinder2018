@@ -1,0 +1,1530 @@
+Hit_def (fasta name in db) = isotig08706  gene=isogroup04930  length=2703  numContigs=1
+itr with hit = 82
+Query name = XM_022099636.1 PREDICTED: Folsomia candida eukaryotic translation initiation factor 3 subunit B-like (LOC110851744), mRNA
+Query length = 2736
+E-value = 3.3015e-35
+=============================
+Hit_def (fasta name in db) = GAIZ01000008.1 TSA: Gryllus firmus Locus_5316_Transcript_1/1_Confidence_1.000_Length_2635 transcribed RNA sequence
+itr with hit = 82
+Query name = XM_022099636.1 PREDICTED: Folsomia candida eukaryotic translation initiation factor 3 subunit B-like (LOC110851744), mRNA
+Query length = 2736
+E-value = 1.53604e-33
+=============================
+Hit_def (fasta name in db) = c174970_g1_i2 len=2770 path=[294:0-792 187:793-2541 293:2542-2769]
+itr with hit = 82
+Query name = XM_022099636.1 PREDICTED: Folsomia candida eukaryotic translation initiation factor 3 subunit B-like (LOC110851744), mRNA
+Query length = 2736
+E-value = 7.14648e-32
+=============================
+Hit_def (fasta name in db) = c174970_g1_i1 len=2163 path=[1:0-185 187:186-1934 293:1935-2162]
+itr with hit = 82
+Query name = XM_022099636.1 PREDICTED: Folsomia candida eukaryotic translation initiation factor 3 subunit B-like (LOC110851744), mRNA
+Query length = 2736
+E-value = 7.14648e-32
+=============================
+Hit_def (fasta name in db) = GE8SX9M01AO61Y length=509
+itr with hit = 82
+Query name = XM_022099636.1 PREDICTED: Folsomia candida eukaryotic translation initiation factor 3 subunit B-like (LOC110851744), mRNA
+Query length = 2736
+E-value = 5.60329e-23
+=============================
+Hit_def (fasta name in db) = GE8SX9M01CH4HV length=432
+itr with hit = 82
+Query name = XM_022099636.1 PREDICTED: Folsomia candida eukaryotic translation initiation factor 3 subunit B-like (LOC110851744), mRNA
+Query length = 2736
+E-value = 5.60329e-23
+=============================
+Hit_def (fasta name in db) = GAIZ01017574.1 TSA: Gryllus firmus Locus_3775_Transcript_1/1_Confidence_1.000_Length_1347 transcribed RNA sequence
+itr with hit = 88
+Query name = XM_022088337.1 PREDICTED: Folsomia candida eukaryotic translation initiation factor 2 subunit 1-like (LOC110842565), mRNA
+Query length = 1247
+E-value = 2.33832e-78
+=============================
+Hit_def (fasta name in db) = isotig09743  gene=isogroup05967  length=1930  numContigs=1
+itr with hit = 88
+Query name = XM_022088337.1 PREDICTED: Folsomia candida eukaryotic translation initiation factor 2 subunit 1-like (LOC110842565), mRNA
+Query length = 1247
+E-value = 1.08792e-76
+=============================
+Hit_def (fasta name in db) = c188107_g1_i2 len=1548 path=[79:0-633 713:634-1547]
+itr with hit = 88
+Query name = XM_022088337.1 PREDICTED: Folsomia candida eukaryotic translation initiation factor 2 subunit 1-like (LOC110842565), mRNA
+Query length = 1247
+E-value = 5.06158e-75
+=============================
+Hit_def (fasta name in db) = c219544_g2_i3 len=1455 path=[1:0-194 12661:195-388 11407:389-391 393:392-511 7424:512-531 513:532-536 518:537-652 634:653-653 11532:654-967 955:968-1454]
+itr with hit = 105
+Query name = XM_022076045.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X5, mRNA
+Query length = 3924
+E-value = 7.61874e-63
+=============================
+Hit_def (fasta name in db) = c219544_g2_i1 len=1435 path=[1:0-194 12661:195-388 11407:389-391 393:392-511 513:512-516 518:517-632 634:633-633 11532:634-947 955:948-1434]
+itr with hit = 105
+Query name = XM_022076045.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X5, mRNA
+Query length = 3924
+E-value = 7.61874e-63
+=============================
+Hit_def (fasta name in db) = c219544_g2_i6 len=1144 path=[10764:0-60 10825:61-84 11328:85-93 11337:94-94 8279:95-225 518:226-341 634:342-342 11532:343-656 955:657-1143]
+itr with hit = 105
+Query name = XM_022076045.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X5, mRNA
+Query length = 3924
+E-value = 2.74019e-62
+=============================
+Hit_def (fasta name in db) = c219544_g2_i5 len=4025 path=[9563:0-204 11337:205-205 8279:206-336 518:337-452 634:453-453 11532:454-767 11559:768-773 955:774-1260 1442:1261-1276 1458:1277-1332 12726:1333-1339 12733:1340-1394 1576:1395-1840 @2022@!:1841-2361 2543:2362-2365 2547:2366-2391 @2573@!:2392-2701 2883:2702-2726 2908:2727-2914 3096:2915-2939 @12163@!:2940-3603 12290:3604-3605 8052:3606-3621 @3807@!:3622-4024]
+itr with hit = 105
+Query name = XM_022076045.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X5, mRNA
+Query length = 3924
+E-value = 2.74019e-62
+=============================
+Hit_def (fasta name in db) = GAIZ01015253.1 TSA: Gryllus firmus Locus_5841_Transcript_1/1_Confidence_1.000_Length_377 transcribed RNA sequence
+itr with hit = 105
+Query name = XM_022076045.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X5, mRNA
+Query length = 3924
+E-value = 2.74019e-62
+=============================
+Hit_def (fasta name in db) = c219544_g2_i9 len=4077 path=[9563:0-204 11337:205-205 8279:206-336 518:337-452 7982:453-505 11532:506-819 11559:820-825 955:826-1312 1442:1313-1328 1458:1329-1384 12726:1385-1391 12733:1392-1446 1576:1447-1892 @2022@!:1893-2413 2543:2414-2417 2547:2418-2443 @2573@!:2444-2753 2883:2754-2778 2908:2779-2966 3096:2967-2991 @12163@!:2992-3655 12290:3656-3657 8052:3658-3673 @3807@!:3674-4076]
+itr with hit = 105
+Query name = XM_022076045.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X5, mRNA
+Query length = 3924
+E-value = 1.32079e-35
+=============================
+Hit_def (fasta name in db) = GAIZ01021004.1 TSA: Gryllus firmus Locus_2149_Transcript_1/2_Confidence_0.750_Length_2945 transcribed RNA sequence
+itr with hit = 105
+Query name = XM_022076045.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X5, mRNA
+Query length = 3924
+E-value = 2.21014e-33
+=============================
+Hit_def (fasta name in db) = isotig15185  gene=isogroup11409  length=719  numContigs=1
+itr with hit = 105
+Query name = XM_022076045.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X5, mRNA
+Query length = 3924
+E-value = 6.23259e-24
+=============================
+Hit_def (fasta name in db) = c219544_g2_i2 len=443 path=[9563:0-204 11337:205-205 8279:206-336 9942:337-442]
+itr with hit = 105
+Query name = XM_022076045.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X5, mRNA
+Query length = 3924
+E-value = 8.1196e-18
+=============================
+Hit_def (fasta name in db) = c219544_g2_i4 len=3237 path=[8652:0-910 7982:911-963 11532:964-1277 11559:1278-1283 955:1284-1770 1442:1771-1786 1458:1787-1842 12726:1843-1849 12733:1850-1904 1576:1905-2350 @2022@!:2351-2871 2543:2872-2875 2547:2876-2901 @2573@!:2902-3211 2883:3212-3236]
+itr with hit = 105
+Query name = XM_022076045.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X5, mRNA
+Query length = 3924
+E-value = 2.92033e-17
+=============================
+Hit_def (fasta name in db) = c219544_g2_i8 len=240 path=[8170:0-108 8279:109-239]
+itr with hit = 105
+Query name = XM_022076045.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X5, mRNA
+Query length = 3924
+E-value = 1.05034e-16
+=============================
+Hit_def (fasta name in db) = c219544_g2_i3 len=1455 path=[1:0-194 12661:195-388 11407:389-391 393:392-511 7424:512-531 513:532-536 518:537-652 634:653-653 11532:654-967 955:968-1454]
+itr with hit = 106
+Query name = XM_022076044.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X4, mRNA
+Query length = 3631
+E-value = 7.04562e-63
+=============================
+Hit_def (fasta name in db) = c219544_g2_i1 len=1435 path=[1:0-194 12661:195-388 11407:389-391 393:392-511 513:512-516 518:517-632 634:633-633 11532:634-947 955:948-1434]
+itr with hit = 106
+Query name = XM_022076044.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X4, mRNA
+Query length = 3631
+E-value = 7.04562e-63
+=============================
+Hit_def (fasta name in db) = c219544_g2_i6 len=1144 path=[10764:0-60 10825:61-84 11328:85-93 11337:94-94 8279:95-225 518:226-341 634:342-342 11532:343-656 955:657-1143]
+itr with hit = 106
+Query name = XM_022076044.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X4, mRNA
+Query length = 3631
+E-value = 2.53406e-62
+=============================
+Hit_def (fasta name in db) = c219544_g2_i5 len=4025 path=[9563:0-204 11337:205-205 8279:206-336 518:337-452 634:453-453 11532:454-767 11559:768-773 955:774-1260 1442:1261-1276 1458:1277-1332 12726:1333-1339 12733:1340-1394 1576:1395-1840 @2022@!:1841-2361 2543:2362-2365 2547:2366-2391 @2573@!:2392-2701 2883:2702-2726 2908:2727-2914 3096:2915-2939 @12163@!:2940-3603 12290:3604-3605 8052:3606-3621 @3807@!:3622-4024]
+itr with hit = 106
+Query name = XM_022076044.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X4, mRNA
+Query length = 3631
+E-value = 2.53406e-62
+=============================
+Hit_def (fasta name in db) = GAIZ01015253.1 TSA: Gryllus firmus Locus_5841_Transcript_1/1_Confidence_1.000_Length_377 transcribed RNA sequence
+itr with hit = 106
+Query name = XM_022076044.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X4, mRNA
+Query length = 3631
+E-value = 2.53406e-62
+=============================
+Hit_def (fasta name in db) = GAIZ01021004.1 TSA: Gryllus firmus Locus_2149_Transcript_1/2_Confidence_0.750_Length_2945 transcribed RNA sequence
+itr with hit = 106
+Query name = XM_022076044.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X4, mRNA
+Query length = 3631
+E-value = 4.3008e-50
+=============================
+Hit_def (fasta name in db) = c219544_g2_i9 len=4077 path=[9563:0-204 11337:205-205 8279:206-336 518:337-452 7982:453-505 11532:506-819 11559:820-825 955:826-1312 1442:1313-1328 1458:1329-1384 12726:1385-1391 12733:1392-1446 1576:1447-1892 @2022@!:1893-2413 2543:2414-2417 2547:2418-2443 @2573@!:2444-2753 2883:2754-2778 2908:2779-2966 3096:2967-2991 @12163@!:2992-3655 12290:3656-3657 8052:3658-3673 @3807@!:3674-4076]
+itr with hit = 106
+Query name = XM_022076044.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X4, mRNA
+Query length = 3631
+E-value = 1.22143e-35
+=============================
+Hit_def (fasta name in db) = isotig15185  gene=isogroup11409  length=719  numContigs=1
+itr with hit = 106
+Query name = XM_022076044.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X4, mRNA
+Query length = 3631
+E-value = 5.76375e-24
+=============================
+Hit_def (fasta name in db) = c219544_g2_i4 len=3237 path=[8652:0-910 7982:911-963 11532:964-1277 11559:1278-1283 955:1284-1770 1442:1771-1786 1458:1787-1842 12726:1843-1849 12733:1850-1904 1576:1905-2350 @2022@!:2351-2871 2543:2872-2875 2547:2876-2901 @2573@!:2902-3211 2883:3212-3236]
+itr with hit = 106
+Query name = XM_022076044.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X4, mRNA
+Query length = 3631
+E-value = 2.70065e-17
+=============================
+Hit_def (fasta name in db) = c219544_g2_i3 len=1455 path=[1:0-194 12661:195-388 11407:389-391 393:392-511 7424:512-531 513:532-536 518:537-652 634:653-653 11532:654-967 955:968-1454]
+itr with hit = 107
+Query name = XM_022076043.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X3, mRNA
+Query length = 3637
+E-value = 7.05736e-63
+=============================
+Hit_def (fasta name in db) = c219544_g2_i1 len=1435 path=[1:0-194 12661:195-388 11407:389-391 393:392-511 513:512-516 518:517-632 634:633-633 11532:634-947 955:948-1434]
+itr with hit = 107
+Query name = XM_022076043.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X3, mRNA
+Query length = 3637
+E-value = 7.05736e-63
+=============================
+Hit_def (fasta name in db) = c219544_g2_i6 len=1144 path=[10764:0-60 10825:61-84 11328:85-93 11337:94-94 8279:95-225 518:226-341 634:342-342 11532:343-656 955:657-1143]
+itr with hit = 107
+Query name = XM_022076043.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X3, mRNA
+Query length = 3637
+E-value = 2.53828e-62
+=============================
+Hit_def (fasta name in db) = c219544_g2_i5 len=4025 path=[9563:0-204 11337:205-205 8279:206-336 518:337-452 634:453-453 11532:454-767 11559:768-773 955:774-1260 1442:1261-1276 1458:1277-1332 12726:1333-1339 12733:1340-1394 1576:1395-1840 @2022@!:1841-2361 2543:2362-2365 2547:2366-2391 @2573@!:2392-2701 2883:2702-2726 2908:2727-2914 3096:2915-2939 @12163@!:2940-3603 12290:3604-3605 8052:3606-3621 @3807@!:3622-4024]
+itr with hit = 107
+Query name = XM_022076043.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X3, mRNA
+Query length = 3637
+E-value = 2.53828e-62
+=============================
+Hit_def (fasta name in db) = GAIZ01015253.1 TSA: Gryllus firmus Locus_5841_Transcript_1/1_Confidence_1.000_Length_377 transcribed RNA sequence
+itr with hit = 107
+Query name = XM_022076043.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X3, mRNA
+Query length = 3637
+E-value = 2.53828e-62
+=============================
+Hit_def (fasta name in db) = GAIZ01021004.1 TSA: Gryllus firmus Locus_2149_Transcript_1/2_Confidence_0.750_Length_2945 transcribed RNA sequence
+itr with hit = 107
+Query name = XM_022076043.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X3, mRNA
+Query length = 3637
+E-value = 4.30796e-50
+=============================
+Hit_def (fasta name in db) = c219544_g2_i9 len=4077 path=[9563:0-204 11337:205-205 8279:206-336 518:337-452 7982:453-505 11532:506-819 11559:820-825 955:826-1312 1442:1313-1328 1458:1329-1384 12726:1385-1391 12733:1392-1446 1576:1447-1892 @2022@!:1893-2413 2543:2414-2417 2547:2418-2443 @2573@!:2444-2753 2883:2754-2778 2908:2779-2966 3096:2967-2991 @12163@!:2992-3655 12290:3656-3657 8052:3658-3673 @3807@!:3674-4076]
+itr with hit = 107
+Query name = XM_022076043.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X3, mRNA
+Query length = 3637
+E-value = 1.22347e-35
+=============================
+Hit_def (fasta name in db) = isotig15185  gene=isogroup11409  length=719  numContigs=1
+itr with hit = 107
+Query name = XM_022076043.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X3, mRNA
+Query length = 3637
+E-value = 5.77335e-24
+=============================
+Hit_def (fasta name in db) = c219544_g2_i4 len=3237 path=[8652:0-910 7982:911-963 11532:964-1277 11559:1278-1283 955:1284-1770 1442:1771-1786 1458:1787-1842 12726:1843-1849 12733:1850-1904 1576:1905-2350 @2022@!:2351-2871 2543:2872-2875 2547:2876-2901 @2573@!:2902-3211 2883:3212-3236]
+itr with hit = 107
+Query name = XM_022076043.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X3, mRNA
+Query length = 3637
+E-value = 2.70515e-17
+=============================
+Hit_def (fasta name in db) = c219544_g2_i6 len=1144 path=[10764:0-60 10825:61-84 11328:85-93 11337:94-94 8279:95-225 518:226-341 634:342-342 11532:343-656 955:657-1143]
+itr with hit = 108
+Query name = XM_022076042.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X2, mRNA
+Query length = 3822
+E-value = 4.27965e-90
+=============================
+Hit_def (fasta name in db) = c219544_g2_i5 len=4025 path=[9563:0-204 11337:205-205 8279:206-336 518:337-452 634:453-453 11532:454-767 11559:768-773 955:774-1260 1442:1261-1276 1458:1277-1332 12726:1333-1339 12733:1340-1394 1576:1395-1840 @2022@!:1841-2361 2543:2362-2365 2547:2366-2391 @2573@!:2392-2701 2883:2702-2726 2908:2727-2914 3096:2915-2939 @12163@!:2940-3603 12290:3604-3605 8052:3606-3621 @3807@!:3622-4024]
+itr with hit = 108
+Query name = XM_022076042.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X2, mRNA
+Query length = 3822
+E-value = 4.27965e-90
+=============================
+Hit_def (fasta name in db) = GAIZ01015253.1 TSA: Gryllus firmus Locus_5841_Transcript_1/1_Confidence_1.000_Length_377 transcribed RNA sequence
+itr with hit = 108
+Query name = XM_022076042.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X2, mRNA
+Query length = 3822
+E-value = 4.27965e-90
+=============================
+Hit_def (fasta name in db) = c219544_g2_i9 len=4077 path=[9563:0-204 11337:205-205 8279:206-336 518:337-452 7982:453-505 11532:506-819 11559:820-825 955:826-1312 1442:1313-1328 1458:1329-1384 12726:1385-1391 12733:1392-1446 1576:1447-1892 @2022@!:1893-2413 2543:2414-2417 2547:2418-2443 @2573@!:2444-2753 2883:2754-2778 2908:2779-2966 3096:2967-2991 @12163@!:2992-3655 12290:3656-3657 8052:3658-3673 @3807@!:3674-4076]
+itr with hit = 108
+Query name = XM_022076042.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X2, mRNA
+Query length = 3822
+E-value = 2.06282e-63
+=============================
+Hit_def (fasta name in db) = c219544_g2_i3 len=1455 path=[1:0-194 12661:195-388 11407:389-391 393:392-511 7424:512-531 513:532-536 518:537-652 634:653-653 11532:654-967 955:968-1454]
+itr with hit = 108
+Query name = XM_022076042.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X2, mRNA
+Query length = 3822
+E-value = 2.66843e-62
+=============================
+Hit_def (fasta name in db) = c219544_g2_i1 len=1435 path=[1:0-194 12661:195-388 11407:389-391 393:392-511 513:512-516 518:517-632 634:633-633 11532:634-947 955:948-1434]
+itr with hit = 108
+Query name = XM_022076042.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X2, mRNA
+Query length = 3822
+E-value = 2.66843e-62
+=============================
+Hit_def (fasta name in db) = GAIZ01021004.1 TSA: Gryllus firmus Locus_2149_Transcript_1/2_Confidence_0.750_Length_2945 transcribed RNA sequence
+itr with hit = 108
+Query name = XM_022076042.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X2, mRNA
+Query length = 3822
+E-value = 4.52885e-50
+=============================
+Hit_def (fasta name in db) = isotig15185  gene=isogroup11409  length=719  numContigs=1
+itr with hit = 108
+Query name = XM_022076042.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X2, mRNA
+Query length = 3822
+E-value = 6.06937e-24
+=============================
+Hit_def (fasta name in db) = c219544_g2_i2 len=443 path=[9563:0-204 11337:205-205 8279:206-336 9942:337-442]
+itr with hit = 108
+Query name = XM_022076042.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X2, mRNA
+Query length = 3822
+E-value = 1.69949e-19
+=============================
+Hit_def (fasta name in db) = c219544_g2_i4 len=3237 path=[8652:0-910 7982:911-963 11532:964-1277 11559:1278-1283 955:1284-1770 1442:1771-1786 1458:1787-1842 12726:1843-1849 12733:1850-1904 1576:1905-2350 @2022@!:2351-2871 2543:2872-2875 2547:2876-2901 @2573@!:2902-3211 2883:3212-3236]
+itr with hit = 108
+Query name = XM_022076042.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X2, mRNA
+Query length = 3822
+E-value = 2.84385e-17
+=============================
+Hit_def (fasta name in db) = c219544_g2_i8 len=240 path=[8170:0-108 8279:109-239]
+itr with hit = 108
+Query name = XM_022076042.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X2, mRNA
+Query length = 3822
+E-value = 1.02283e-16
+=============================
+Hit_def (fasta name in db) = c219544_g2_i3 len=1455 path=[1:0-194 12661:195-388 11407:389-391 393:392-511 7424:512-531 513:532-536 518:537-652 634:653-653 11532:654-967 955:968-1454]
+itr with hit = 109
+Query name = XM_022076041.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X1, mRNA
+Query length = 3904
+E-value = 7.57962e-63
+=============================
+Hit_def (fasta name in db) = c219544_g2_i1 len=1435 path=[1:0-194 12661:195-388 11407:389-391 393:392-511 513:512-516 518:517-632 634:633-633 11532:634-947 955:948-1434]
+itr with hit = 109
+Query name = XM_022076041.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X1, mRNA
+Query length = 3904
+E-value = 7.57962e-63
+=============================
+Hit_def (fasta name in db) = c219544_g2_i6 len=1144 path=[10764:0-60 10825:61-84 11328:85-93 11337:94-94 8279:95-225 518:226-341 634:342-342 11532:343-656 955:657-1143]
+itr with hit = 109
+Query name = XM_022076041.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X1, mRNA
+Query length = 3904
+E-value = 2.72612e-62
+=============================
+Hit_def (fasta name in db) = c219544_g2_i5 len=4025 path=[9563:0-204 11337:205-205 8279:206-336 518:337-452 634:453-453 11532:454-767 11559:768-773 955:774-1260 1442:1261-1276 1458:1277-1332 12726:1333-1339 12733:1340-1394 1576:1395-1840 @2022@!:1841-2361 2543:2362-2365 2547:2366-2391 @2573@!:2392-2701 2883:2702-2726 2908:2727-2914 3096:2915-2939 @12163@!:2940-3603 12290:3604-3605 8052:3606-3621 @3807@!:3622-4024]
+itr with hit = 109
+Query name = XM_022076041.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X1, mRNA
+Query length = 3904
+E-value = 2.72612e-62
+=============================
+Hit_def (fasta name in db) = GAIZ01015253.1 TSA: Gryllus firmus Locus_5841_Transcript_1/1_Confidence_1.000_Length_377 transcribed RNA sequence
+itr with hit = 109
+Query name = XM_022076041.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X1, mRNA
+Query length = 3904
+E-value = 2.72612e-62
+=============================
+Hit_def (fasta name in db) = GAIZ01021004.1 TSA: Gryllus firmus Locus_2149_Transcript_1/2_Confidence_0.750_Length_2945 transcribed RNA sequence
+itr with hit = 109
+Query name = XM_022076041.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X1, mRNA
+Query length = 3904
+E-value = 4.62676e-50
+=============================
+Hit_def (fasta name in db) = c219544_g2_i9 len=4077 path=[9563:0-204 11337:205-205 8279:206-336 518:337-452 7982:453-505 11532:506-819 11559:820-825 955:826-1312 1442:1313-1328 1458:1329-1384 12726:1385-1391 12733:1392-1446 1576:1447-1892 @2022@!:1893-2413 2543:2414-2417 2547:2418-2443 @2573@!:2444-2753 2883:2754-2778 2908:2779-2966 3096:2967-2991 @12163@!:2992-3655 12290:3656-3657 8052:3658-3673 @3807@!:3674-4076]
+itr with hit = 109
+Query name = XM_022076041.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X1, mRNA
+Query length = 3904
+E-value = 1.31401e-35
+=============================
+Hit_def (fasta name in db) = isotig15185  gene=isogroup11409  length=719  numContigs=1
+itr with hit = 109
+Query name = XM_022076041.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X1, mRNA
+Query length = 3904
+E-value = 6.20059e-24
+=============================
+Hit_def (fasta name in db) = c219544_g2_i2 len=443 path=[9563:0-204 11337:205-205 8279:206-336 9942:337-442]
+itr with hit = 109
+Query name = XM_022076041.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X1, mRNA
+Query length = 3904
+E-value = 8.07791e-18
+=============================
+Hit_def (fasta name in db) = c219544_g2_i4 len=3237 path=[8652:0-910 7982:911-963 11532:964-1277 11559:1278-1283 955:1284-1770 1442:1771-1786 1458:1787-1842 12726:1843-1849 12733:1850-1904 1576:1905-2350 @2022@!:2351-2871 2543:2872-2875 2547:2876-2901 @2573@!:2902-3211 2883:3212-3236]
+itr with hit = 109
+Query name = XM_022076041.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X1, mRNA
+Query length = 3904
+E-value = 2.90533e-17
+=============================
+Hit_def (fasta name in db) = c219544_g2_i8 len=240 path=[8170:0-108 8279:109-239]
+itr with hit = 109
+Query name = XM_022076041.1 PREDICTED: Zootermopsis nevadensis eukaryotic translation initiation factor 5 (LOC110835629), transcript variant X1, mRNA
+Query length = 3904
+E-value = 1.04494e-16
+=============================
+Hit_def (fasta name in db) = c174970_g1_i2 len=2770 path=[294:0-792 187:793-2541 293:2542-2769]
+itr with hit = 116
+Query name = XM_001652797.2 PREDICTED: Aedes aegypti eukaryotic translation initiation factor 3 subunit B (LOC5569547), mRNA
+Query length = 2420
+E-value = 1.36636e-28
+=============================
+Hit_def (fasta name in db) = c174970_g1_i1 len=2163 path=[1:0-185 187:186-1934 293:1935-2162]
+itr with hit = 116
+Query name = XM_001652797.2 PREDICTED: Aedes aegypti eukaryotic translation initiation factor 3 subunit B (LOC5569547), mRNA
+Query length = 2420
+E-value = 1.36636e-28
+=============================
+Hit_def (fasta name in db) = GAIZ01000008.1 TSA: Gryllus firmus Locus_5316_Transcript_1/1_Confidence_1.000_Length_2635 transcribed RNA sequence
+itr with hit = 116
+Query name = XM_001652797.2 PREDICTED: Aedes aegypti eukaryotic translation initiation factor 3 subunit B (LOC5569547), mRNA
+Query length = 2420
+E-value = 1.36636e-28
+=============================
+Hit_def (fasta name in db) = isotig08706  gene=isogroup04930  length=2703  numContigs=1
+itr with hit = 164
+Query name = XM_021328549.1 PREDICTED: Helicoverpa armigera eukaryotic translation initiation factor 3 subunit B (LOC110372039), mRNA
+Query length = 2412
+E-value = 2.82525e-55
+=============================
+Hit_def (fasta name in db) = GFCP6CO02JDL7D length=409
+itr with hit = 164
+Query name = XM_021328549.1 PREDICTED: Helicoverpa armigera eukaryotic translation initiation factor 3 subunit B (LOC110372039), mRNA
+Query length = 2412
+E-value = 8.08071e-36
+=============================
+Hit_def (fasta name in db) = GFCP6CO01AS3K3 length=407
+itr with hit = 164
+Query name = XM_021328549.1 PREDICTED: Helicoverpa armigera eukaryotic translation initiation factor 3 subunit B (LOC110372039), mRNA
+Query length = 2412
+E-value = 3.75959e-34
+=============================
+Hit_def (fasta name in db) = GAIZ01009757.1 TSA: Gryllus firmus Locus_32109_Transcript_1/1_Confidence_1.000_Length_259 transcribed RNA sequence
+itr with hit = 281
+Query name = XM_012409526.2 PREDICTED: Athalia rosae eukaryotic translation initiation factor 3 subunit D (LOC105691198), mRNA
+Query length = 1958
+E-value = 6.82484e-06
+=============================
+Hit_def (fasta name in db) = c221395_g2_i6 len=6695 path=[3813:0-288 12231:289-289 4099:290-556 2929:557-561 4369:562-668 462:669-696 12418:697-859 4663:860-884 11856:885-888 4692:889-1079 4883:1080-1256 13171:1257-1259 12503:1260-1356 1687:1357-1384 1449:1385-1492 2216:1493-1768 5560:1769-1802 5594:1803-1833 12589:1834-1835 12591:1836-1926 5715:1927-2358 12674:2359-2359 12675:2360-2650 3262:2651-2655 6430:2656-2676 6451:2677-2920 6692:2921-3025 2650:3026-3280 13223:3281-4252 8012:4253-4354 8113:4355-4865 2972:4866-4940 1712:4941-5090 512:5091-5309 @2576@!:5310-6181 9928:6182-6694]
+itr with hit = 416
+Query name = XM_011297467.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X37, mRNA
+Query length = 6248
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i5 len=6463 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 9928:5950-6462]
+itr with hit = 416
+Query name = XM_011297467.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X37, mRNA
+Query length = 6248
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i2 len=5972 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 13102:5950-5971]
+itr with hit = 416
+Query name = XM_011297467.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X37, mRNA
+Query length = 6248
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i1 len=6660 path=[204:0-56 12231:57-57 4099:58-324 11376:325-464 608:465-521 2929:522-526 4369:527-633 462:634-661 12418:662-824 4663:825-849 11856:850-853 4692:854-1044 4883:1045-1221 13171:1222-1224 12503:1225-1321 1687:1322-1349 1449:1350-1457 2216:1458-1733 5560:1734-1767 5594:1768-1798 12589:1799-1800 12591:1801-1891 5715:1892-2323 12674:2324-2324 12675:2325-2615 3262:2616-2620 6430:2621-2641 6451:2642-2885 6692:2886-2990 2650:2991-3245 13223:3246-4217 8012:4218-4319 8113:4320-4830 2972:4831-4905 1712:4906-5055 512:5056-5274 @2576@!:5275-6146 9928:6147-6659]
+itr with hit = 416
+Query name = XM_011297467.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X37, mRNA
+Query length = 6248
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i3 len=4110 path=[2082:0-29 2112:30-53 10469:54-106 10521:107-116 2753:117-335 6692:336-440 2650:441-695 13223:696-1667 8012:1668-1769 8113:1770-2280 2972:2281-2355 1712:2356-2505 512:2506-2724 @2576@!:2725-3596 9928:3597-4109]
+itr with hit = 416
+Query name = XM_011297467.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X37, mRNA
+Query length = 6248
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i6 len=6695 path=[3813:0-288 12231:289-289 4099:290-556 2929:557-561 4369:562-668 462:669-696 12418:697-859 4663:860-884 11856:885-888 4692:889-1079 4883:1080-1256 13171:1257-1259 12503:1260-1356 1687:1357-1384 1449:1385-1492 2216:1493-1768 5560:1769-1802 5594:1803-1833 12589:1834-1835 12591:1836-1926 5715:1927-2358 12674:2359-2359 12675:2360-2650 3262:2651-2655 6430:2656-2676 6451:2677-2920 6692:2921-3025 2650:3026-3280 13223:3281-4252 8012:4253-4354 8113:4355-4865 2972:4866-4940 1712:4941-5090 512:5091-5309 @2576@!:5310-6181 9928:6182-6694]
+itr with hit = 417
+Query name = XM_011297464.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X36, mRNA
+Query length = 6244
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i5 len=6463 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 9928:5950-6462]
+itr with hit = 417
+Query name = XM_011297464.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X36, mRNA
+Query length = 6244
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i2 len=5972 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 13102:5950-5971]
+itr with hit = 417
+Query name = XM_011297464.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X36, mRNA
+Query length = 6244
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i1 len=6660 path=[204:0-56 12231:57-57 4099:58-324 11376:325-464 608:465-521 2929:522-526 4369:527-633 462:634-661 12418:662-824 4663:825-849 11856:850-853 4692:854-1044 4883:1045-1221 13171:1222-1224 12503:1225-1321 1687:1322-1349 1449:1350-1457 2216:1458-1733 5560:1734-1767 5594:1768-1798 12589:1799-1800 12591:1801-1891 5715:1892-2323 12674:2324-2324 12675:2325-2615 3262:2616-2620 6430:2621-2641 6451:2642-2885 6692:2886-2990 2650:2991-3245 13223:3246-4217 8012:4218-4319 8113:4320-4830 2972:4831-4905 1712:4906-5055 512:5056-5274 @2576@!:5275-6146 9928:6147-6659]
+itr with hit = 417
+Query name = XM_011297464.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X36, mRNA
+Query length = 6244
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i3 len=4110 path=[2082:0-29 2112:30-53 10469:54-106 10521:107-116 2753:117-335 6692:336-440 2650:441-695 13223:696-1667 8012:1668-1769 8113:1770-2280 2972:2281-2355 1712:2356-2505 512:2506-2724 @2576@!:2725-3596 9928:3597-4109]
+itr with hit = 417
+Query name = XM_011297464.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X36, mRNA
+Query length = 6244
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i6 len=6695 path=[3813:0-288 12231:289-289 4099:290-556 2929:557-561 4369:562-668 462:669-696 12418:697-859 4663:860-884 11856:885-888 4692:889-1079 4883:1080-1256 13171:1257-1259 12503:1260-1356 1687:1357-1384 1449:1385-1492 2216:1493-1768 5560:1769-1802 5594:1803-1833 12589:1834-1835 12591:1836-1926 5715:1927-2358 12674:2359-2359 12675:2360-2650 3262:2651-2655 6430:2656-2676 6451:2677-2920 6692:2921-3025 2650:3026-3280 13223:3281-4252 8012:4253-4354 8113:4355-4865 2972:4866-4940 1712:4941-5090 512:5091-5309 @2576@!:5310-6181 9928:6182-6694]
+itr with hit = 418
+Query name = XM_005176250.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X35, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i5 len=6463 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 9928:5950-6462]
+itr with hit = 418
+Query name = XM_005176250.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X35, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i2 len=5972 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 13102:5950-5971]
+itr with hit = 418
+Query name = XM_005176250.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X35, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i1 len=6660 path=[204:0-56 12231:57-57 4099:58-324 11376:325-464 608:465-521 2929:522-526 4369:527-633 462:634-661 12418:662-824 4663:825-849 11856:850-853 4692:854-1044 4883:1045-1221 13171:1222-1224 12503:1225-1321 1687:1322-1349 1449:1350-1457 2216:1458-1733 5560:1734-1767 5594:1768-1798 12589:1799-1800 12591:1801-1891 5715:1892-2323 12674:2324-2324 12675:2325-2615 3262:2616-2620 6430:2621-2641 6451:2642-2885 6692:2886-2990 2650:2991-3245 13223:3246-4217 8012:4218-4319 8113:4320-4830 2972:4831-4905 1712:4906-5055 512:5056-5274 @2576@!:5275-6146 9928:6147-6659]
+itr with hit = 418
+Query name = XM_005176250.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X35, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i3 len=4110 path=[2082:0-29 2112:30-53 10469:54-106 10521:107-116 2753:117-335 6692:336-440 2650:441-695 13223:696-1667 8012:1668-1769 8113:1770-2280 2972:2281-2355 1712:2356-2505 512:2506-2724 @2576@!:2725-3596 9928:3597-4109]
+itr with hit = 418
+Query name = XM_005176250.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X35, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i6 len=6695 path=[3813:0-288 12231:289-289 4099:290-556 2929:557-561 4369:562-668 462:669-696 12418:697-859 4663:860-884 11856:885-888 4692:889-1079 4883:1080-1256 13171:1257-1259 12503:1260-1356 1687:1357-1384 1449:1385-1492 2216:1493-1768 5560:1769-1802 5594:1803-1833 12589:1834-1835 12591:1836-1926 5715:1927-2358 12674:2359-2359 12675:2360-2650 3262:2651-2655 6430:2656-2676 6451:2677-2920 6692:2921-3025 2650:3026-3280 13223:3281-4252 8012:4253-4354 8113:4355-4865 2972:4866-4940 1712:4941-5090 512:5091-5309 @2576@!:5310-6181 9928:6182-6694]
+itr with hit = 419
+Query name = XM_005176248.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X34, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i5 len=6463 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 9928:5950-6462]
+itr with hit = 419
+Query name = XM_005176248.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X34, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i2 len=5972 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 13102:5950-5971]
+itr with hit = 419
+Query name = XM_005176248.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X34, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i1 len=6660 path=[204:0-56 12231:57-57 4099:58-324 11376:325-464 608:465-521 2929:522-526 4369:527-633 462:634-661 12418:662-824 4663:825-849 11856:850-853 4692:854-1044 4883:1045-1221 13171:1222-1224 12503:1225-1321 1687:1322-1349 1449:1350-1457 2216:1458-1733 5560:1734-1767 5594:1768-1798 12589:1799-1800 12591:1801-1891 5715:1892-2323 12674:2324-2324 12675:2325-2615 3262:2616-2620 6430:2621-2641 6451:2642-2885 6692:2886-2990 2650:2991-3245 13223:3246-4217 8012:4218-4319 8113:4320-4830 2972:4831-4905 1712:4906-5055 512:5056-5274 @2576@!:5275-6146 9928:6147-6659]
+itr with hit = 419
+Query name = XM_005176248.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X34, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i3 len=4110 path=[2082:0-29 2112:30-53 10469:54-106 10521:107-116 2753:117-335 6692:336-440 2650:441-695 13223:696-1667 8012:1668-1769 8113:1770-2280 2972:2281-2355 1712:2356-2505 512:2506-2724 @2576@!:2725-3596 9928:3597-4109]
+itr with hit = 419
+Query name = XM_005176248.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X34, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i6 len=6695 path=[3813:0-288 12231:289-289 4099:290-556 2929:557-561 4369:562-668 462:669-696 12418:697-859 4663:860-884 11856:885-888 4692:889-1079 4883:1080-1256 13171:1257-1259 12503:1260-1356 1687:1357-1384 1449:1385-1492 2216:1493-1768 5560:1769-1802 5594:1803-1833 12589:1834-1835 12591:1836-1926 5715:1927-2358 12674:2359-2359 12675:2360-2650 3262:2651-2655 6430:2656-2676 6451:2677-2920 6692:2921-3025 2650:3026-3280 13223:3281-4252 8012:4253-4354 8113:4355-4865 2972:4866-4940 1712:4941-5090 512:5091-5309 @2576@!:5310-6181 9928:6182-6694]
+itr with hit = 420
+Query name = XM_005176247.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X33, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i5 len=6463 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 9928:5950-6462]
+itr with hit = 420
+Query name = XM_005176247.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X33, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i2 len=5972 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 13102:5950-5971]
+itr with hit = 420
+Query name = XM_005176247.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X33, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i1 len=6660 path=[204:0-56 12231:57-57 4099:58-324 11376:325-464 608:465-521 2929:522-526 4369:527-633 462:634-661 12418:662-824 4663:825-849 11856:850-853 4692:854-1044 4883:1045-1221 13171:1222-1224 12503:1225-1321 1687:1322-1349 1449:1350-1457 2216:1458-1733 5560:1734-1767 5594:1768-1798 12589:1799-1800 12591:1801-1891 5715:1892-2323 12674:2324-2324 12675:2325-2615 3262:2616-2620 6430:2621-2641 6451:2642-2885 6692:2886-2990 2650:2991-3245 13223:3246-4217 8012:4218-4319 8113:4320-4830 2972:4831-4905 1712:4906-5055 512:5056-5274 @2576@!:5275-6146 9928:6147-6659]
+itr with hit = 420
+Query name = XM_005176247.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X33, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i3 len=4110 path=[2082:0-29 2112:30-53 10469:54-106 10521:107-116 2753:117-335 6692:336-440 2650:441-695 13223:696-1667 8012:1668-1769 8113:1770-2280 2972:2281-2355 1712:2356-2505 512:2506-2724 @2576@!:2725-3596 9928:3597-4109]
+itr with hit = 420
+Query name = XM_005176247.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X33, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i6 len=6695 path=[3813:0-288 12231:289-289 4099:290-556 2929:557-561 4369:562-668 462:669-696 12418:697-859 4663:860-884 11856:885-888 4692:889-1079 4883:1080-1256 13171:1257-1259 12503:1260-1356 1687:1357-1384 1449:1385-1492 2216:1493-1768 5560:1769-1802 5594:1803-1833 12589:1834-1835 12591:1836-1926 5715:1927-2358 12674:2359-2359 12675:2360-2650 3262:2651-2655 6430:2656-2676 6451:2677-2920 6692:2921-3025 2650:3026-3280 13223:3281-4252 8012:4253-4354 8113:4355-4865 2972:4866-4940 1712:4941-5090 512:5091-5309 @2576@!:5310-6181 9928:6182-6694]
+itr with hit = 421
+Query name = XM_005176243.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X32, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i5 len=6463 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 9928:5950-6462]
+itr with hit = 421
+Query name = XM_005176243.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X32, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i2 len=5972 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 13102:5950-5971]
+itr with hit = 421
+Query name = XM_005176243.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X32, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i1 len=6660 path=[204:0-56 12231:57-57 4099:58-324 11376:325-464 608:465-521 2929:522-526 4369:527-633 462:634-661 12418:662-824 4663:825-849 11856:850-853 4692:854-1044 4883:1045-1221 13171:1222-1224 12503:1225-1321 1687:1322-1349 1449:1350-1457 2216:1458-1733 5560:1734-1767 5594:1768-1798 12589:1799-1800 12591:1801-1891 5715:1892-2323 12674:2324-2324 12675:2325-2615 3262:2616-2620 6430:2621-2641 6451:2642-2885 6692:2886-2990 2650:2991-3245 13223:3246-4217 8012:4218-4319 8113:4320-4830 2972:4831-4905 1712:4906-5055 512:5056-5274 @2576@!:5275-6146 9928:6147-6659]
+itr with hit = 421
+Query name = XM_005176243.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X32, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i3 len=4110 path=[2082:0-29 2112:30-53 10469:54-106 10521:107-116 2753:117-335 6692:336-440 2650:441-695 13223:696-1667 8012:1668-1769 8113:1770-2280 2972:2281-2355 1712:2356-2505 512:2506-2724 @2576@!:2725-3596 9928:3597-4109]
+itr with hit = 421
+Query name = XM_005176243.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X32, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i6 len=6695 path=[3813:0-288 12231:289-289 4099:290-556 2929:557-561 4369:562-668 462:669-696 12418:697-859 4663:860-884 11856:885-888 4692:889-1079 4883:1080-1256 13171:1257-1259 12503:1260-1356 1687:1357-1384 1449:1385-1492 2216:1493-1768 5560:1769-1802 5594:1803-1833 12589:1834-1835 12591:1836-1926 5715:1927-2358 12674:2359-2359 12675:2360-2650 3262:2651-2655 6430:2656-2676 6451:2677-2920 6692:2921-3025 2650:3026-3280 13223:3281-4252 8012:4253-4354 8113:4355-4865 2972:4866-4940 1712:4941-5090 512:5091-5309 @2576@!:5310-6181 9928:6182-6694]
+itr with hit = 422
+Query name = XM_011297457.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X31, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i5 len=6463 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 9928:5950-6462]
+itr with hit = 422
+Query name = XM_011297457.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X31, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i2 len=5972 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 13102:5950-5971]
+itr with hit = 422
+Query name = XM_011297457.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X31, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i1 len=6660 path=[204:0-56 12231:57-57 4099:58-324 11376:325-464 608:465-521 2929:522-526 4369:527-633 462:634-661 12418:662-824 4663:825-849 11856:850-853 4692:854-1044 4883:1045-1221 13171:1222-1224 12503:1225-1321 1687:1322-1349 1449:1350-1457 2216:1458-1733 5560:1734-1767 5594:1768-1798 12589:1799-1800 12591:1801-1891 5715:1892-2323 12674:2324-2324 12675:2325-2615 3262:2616-2620 6430:2621-2641 6451:2642-2885 6692:2886-2990 2650:2991-3245 13223:3246-4217 8012:4218-4319 8113:4320-4830 2972:4831-4905 1712:4906-5055 512:5056-5274 @2576@!:5275-6146 9928:6147-6659]
+itr with hit = 422
+Query name = XM_011297457.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X31, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i3 len=4110 path=[2082:0-29 2112:30-53 10469:54-106 10521:107-116 2753:117-335 6692:336-440 2650:441-695 13223:696-1667 8012:1668-1769 8113:1770-2280 2972:2281-2355 1712:2356-2505 512:2506-2724 @2576@!:2725-3596 9928:3597-4109]
+itr with hit = 422
+Query name = XM_011297457.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X31, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i6 len=6695 path=[3813:0-288 12231:289-289 4099:290-556 2929:557-561 4369:562-668 462:669-696 12418:697-859 4663:860-884 11856:885-888 4692:889-1079 4883:1080-1256 13171:1257-1259 12503:1260-1356 1687:1357-1384 1449:1385-1492 2216:1493-1768 5560:1769-1802 5594:1803-1833 12589:1834-1835 12591:1836-1926 5715:1927-2358 12674:2359-2359 12675:2360-2650 3262:2651-2655 6430:2656-2676 6451:2677-2920 6692:2921-3025 2650:3026-3280 13223:3281-4252 8012:4253-4354 8113:4355-4865 2972:4866-4940 1712:4941-5090 512:5091-5309 @2576@!:5310-6181 9928:6182-6694]
+itr with hit = 423
+Query name = XM_005176241.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X30, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i5 len=6463 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 9928:5950-6462]
+itr with hit = 423
+Query name = XM_005176241.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X30, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i2 len=5972 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 13102:5950-5971]
+itr with hit = 423
+Query name = XM_005176241.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X30, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i1 len=6660 path=[204:0-56 12231:57-57 4099:58-324 11376:325-464 608:465-521 2929:522-526 4369:527-633 462:634-661 12418:662-824 4663:825-849 11856:850-853 4692:854-1044 4883:1045-1221 13171:1222-1224 12503:1225-1321 1687:1322-1349 1449:1350-1457 2216:1458-1733 5560:1734-1767 5594:1768-1798 12589:1799-1800 12591:1801-1891 5715:1892-2323 12674:2324-2324 12675:2325-2615 3262:2616-2620 6430:2621-2641 6451:2642-2885 6692:2886-2990 2650:2991-3245 13223:3246-4217 8012:4218-4319 8113:4320-4830 2972:4831-4905 1712:4906-5055 512:5056-5274 @2576@!:5275-6146 9928:6147-6659]
+itr with hit = 423
+Query name = XM_005176241.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X30, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i3 len=4110 path=[2082:0-29 2112:30-53 10469:54-106 10521:107-116 2753:117-335 6692:336-440 2650:441-695 13223:696-1667 8012:1668-1769 8113:1770-2280 2972:2281-2355 1712:2356-2505 512:2506-2724 @2576@!:2725-3596 9928:3597-4109]
+itr with hit = 423
+Query name = XM_005176241.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X30, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i6 len=6695 path=[3813:0-288 12231:289-289 4099:290-556 2929:557-561 4369:562-668 462:669-696 12418:697-859 4663:860-884 11856:885-888 4692:889-1079 4883:1080-1256 13171:1257-1259 12503:1260-1356 1687:1357-1384 1449:1385-1492 2216:1493-1768 5560:1769-1802 5594:1803-1833 12589:1834-1835 12591:1836-1926 5715:1927-2358 12674:2359-2359 12675:2360-2650 3262:2651-2655 6430:2656-2676 6451:2677-2920 6692:2921-3025 2650:3026-3280 13223:3281-4252 8012:4253-4354 8113:4355-4865 2972:4866-4940 1712:4941-5090 512:5091-5309 @2576@!:5310-6181 9928:6182-6694]
+itr with hit = 424
+Query name = XM_005176245.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X27, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i5 len=6463 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 9928:5950-6462]
+itr with hit = 424
+Query name = XM_005176245.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X27, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i2 len=5972 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 13102:5950-5971]
+itr with hit = 424
+Query name = XM_005176245.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X27, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i1 len=6660 path=[204:0-56 12231:57-57 4099:58-324 11376:325-464 608:465-521 2929:522-526 4369:527-633 462:634-661 12418:662-824 4663:825-849 11856:850-853 4692:854-1044 4883:1045-1221 13171:1222-1224 12503:1225-1321 1687:1322-1349 1449:1350-1457 2216:1458-1733 5560:1734-1767 5594:1768-1798 12589:1799-1800 12591:1801-1891 5715:1892-2323 12674:2324-2324 12675:2325-2615 3262:2616-2620 6430:2621-2641 6451:2642-2885 6692:2886-2990 2650:2991-3245 13223:3246-4217 8012:4218-4319 8113:4320-4830 2972:4831-4905 1712:4906-5055 512:5056-5274 @2576@!:5275-6146 9928:6147-6659]
+itr with hit = 424
+Query name = XM_005176245.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X27, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i3 len=4110 path=[2082:0-29 2112:30-53 10469:54-106 10521:107-116 2753:117-335 6692:336-440 2650:441-695 13223:696-1667 8012:1668-1769 8113:1770-2280 2972:2281-2355 1712:2356-2505 512:2506-2724 @2576@!:2725-3596 9928:3597-4109]
+itr with hit = 424
+Query name = XM_005176245.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X27, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i6 len=6695 path=[3813:0-288 12231:289-289 4099:290-556 2929:557-561 4369:562-668 462:669-696 12418:697-859 4663:860-884 11856:885-888 4692:889-1079 4883:1080-1256 13171:1257-1259 12503:1260-1356 1687:1357-1384 1449:1385-1492 2216:1493-1768 5560:1769-1802 5594:1803-1833 12589:1834-1835 12591:1836-1926 5715:1927-2358 12674:2359-2359 12675:2360-2650 3262:2651-2655 6430:2656-2676 6451:2677-2920 6692:2921-3025 2650:3026-3280 13223:3281-4252 8012:4253-4354 8113:4355-4865 2972:4866-4940 1712:4941-5090 512:5091-5309 @2576@!:5310-6181 9928:6182-6694]
+itr with hit = 425
+Query name = XM_005176249.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X26, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i5 len=6463 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 9928:5950-6462]
+itr with hit = 425
+Query name = XM_005176249.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X26, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i2 len=5972 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 13102:5950-5971]
+itr with hit = 425
+Query name = XM_005176249.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X26, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i1 len=6660 path=[204:0-56 12231:57-57 4099:58-324 11376:325-464 608:465-521 2929:522-526 4369:527-633 462:634-661 12418:662-824 4663:825-849 11856:850-853 4692:854-1044 4883:1045-1221 13171:1222-1224 12503:1225-1321 1687:1322-1349 1449:1350-1457 2216:1458-1733 5560:1734-1767 5594:1768-1798 12589:1799-1800 12591:1801-1891 5715:1892-2323 12674:2324-2324 12675:2325-2615 3262:2616-2620 6430:2621-2641 6451:2642-2885 6692:2886-2990 2650:2991-3245 13223:3246-4217 8012:4218-4319 8113:4320-4830 2972:4831-4905 1712:4906-5055 512:5056-5274 @2576@!:5275-6146 9928:6147-6659]
+itr with hit = 425
+Query name = XM_005176249.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X26, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i3 len=4110 path=[2082:0-29 2112:30-53 10469:54-106 10521:107-116 2753:117-335 6692:336-440 2650:441-695 13223:696-1667 8012:1668-1769 8113:1770-2280 2972:2281-2355 1712:2356-2505 512:2506-2724 @2576@!:2725-3596 9928:3597-4109]
+itr with hit = 425
+Query name = XM_005176249.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X26, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i6 len=6695 path=[3813:0-288 12231:289-289 4099:290-556 2929:557-561 4369:562-668 462:669-696 12418:697-859 4663:860-884 11856:885-888 4692:889-1079 4883:1080-1256 13171:1257-1259 12503:1260-1356 1687:1357-1384 1449:1385-1492 2216:1493-1768 5560:1769-1802 5594:1803-1833 12589:1834-1835 12591:1836-1926 5715:1927-2358 12674:2359-2359 12675:2360-2650 3262:2651-2655 6430:2656-2676 6451:2677-2920 6692:2921-3025 2650:3026-3280 13223:3281-4252 8012:4253-4354 8113:4355-4865 2972:4866-4940 1712:4941-5090 512:5091-5309 @2576@!:5310-6181 9928:6182-6694]
+itr with hit = 426
+Query name = XM_005176246.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X24, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i5 len=6463 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 9928:5950-6462]
+itr with hit = 426
+Query name = XM_005176246.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X24, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i2 len=5972 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 13102:5950-5971]
+itr with hit = 426
+Query name = XM_005176246.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X24, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i1 len=6660 path=[204:0-56 12231:57-57 4099:58-324 11376:325-464 608:465-521 2929:522-526 4369:527-633 462:634-661 12418:662-824 4663:825-849 11856:850-853 4692:854-1044 4883:1045-1221 13171:1222-1224 12503:1225-1321 1687:1322-1349 1449:1350-1457 2216:1458-1733 5560:1734-1767 5594:1768-1798 12589:1799-1800 12591:1801-1891 5715:1892-2323 12674:2324-2324 12675:2325-2615 3262:2616-2620 6430:2621-2641 6451:2642-2885 6692:2886-2990 2650:2991-3245 13223:3246-4217 8012:4218-4319 8113:4320-4830 2972:4831-4905 1712:4906-5055 512:5056-5274 @2576@!:5275-6146 9928:6147-6659]
+itr with hit = 426
+Query name = XM_005176246.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X24, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i3 len=4110 path=[2082:0-29 2112:30-53 10469:54-106 10521:107-116 2753:117-335 6692:336-440 2650:441-695 13223:696-1667 8012:1668-1769 8113:1770-2280 2972:2281-2355 1712:2356-2505 512:2506-2724 @2576@!:2725-3596 9928:3597-4109]
+itr with hit = 426
+Query name = XM_005176246.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X24, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i6 len=6695 path=[3813:0-288 12231:289-289 4099:290-556 2929:557-561 4369:562-668 462:669-696 12418:697-859 4663:860-884 11856:885-888 4692:889-1079 4883:1080-1256 13171:1257-1259 12503:1260-1356 1687:1357-1384 1449:1385-1492 2216:1493-1768 5560:1769-1802 5594:1803-1833 12589:1834-1835 12591:1836-1926 5715:1927-2358 12674:2359-2359 12675:2360-2650 3262:2651-2655 6430:2656-2676 6451:2677-2920 6692:2921-3025 2650:3026-3280 13223:3281-4252 8012:4253-4354 8113:4355-4865 2972:4866-4940 1712:4941-5090 512:5091-5309 @2576@!:5310-6181 9928:6182-6694]
+itr with hit = 427
+Query name = XM_005176244.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X23, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i5 len=6463 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 9928:5950-6462]
+itr with hit = 427
+Query name = XM_005176244.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X23, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i2 len=5972 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 13102:5950-5971]
+itr with hit = 427
+Query name = XM_005176244.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X23, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i1 len=6660 path=[204:0-56 12231:57-57 4099:58-324 11376:325-464 608:465-521 2929:522-526 4369:527-633 462:634-661 12418:662-824 4663:825-849 11856:850-853 4692:854-1044 4883:1045-1221 13171:1222-1224 12503:1225-1321 1687:1322-1349 1449:1350-1457 2216:1458-1733 5560:1734-1767 5594:1768-1798 12589:1799-1800 12591:1801-1891 5715:1892-2323 12674:2324-2324 12675:2325-2615 3262:2616-2620 6430:2621-2641 6451:2642-2885 6692:2886-2990 2650:2991-3245 13223:3246-4217 8012:4218-4319 8113:4320-4830 2972:4831-4905 1712:4906-5055 512:5056-5274 @2576@!:5275-6146 9928:6147-6659]
+itr with hit = 427
+Query name = XM_005176244.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X23, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i3 len=4110 path=[2082:0-29 2112:30-53 10469:54-106 10521:107-116 2753:117-335 6692:336-440 2650:441-695 13223:696-1667 8012:1668-1769 8113:1770-2280 2972:2281-2355 1712:2356-2505 512:2506-2724 @2576@!:2725-3596 9928:3597-4109]
+itr with hit = 427
+Query name = XM_005176244.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X23, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i6 len=6695 path=[3813:0-288 12231:289-289 4099:290-556 2929:557-561 4369:562-668 462:669-696 12418:697-859 4663:860-884 11856:885-888 4692:889-1079 4883:1080-1256 13171:1257-1259 12503:1260-1356 1687:1357-1384 1449:1385-1492 2216:1493-1768 5560:1769-1802 5594:1803-1833 12589:1834-1835 12591:1836-1926 5715:1927-2358 12674:2359-2359 12675:2360-2650 3262:2651-2655 6430:2656-2676 6451:2677-2920 6692:2921-3025 2650:3026-3280 13223:3281-4252 8012:4253-4354 8113:4355-4865 2972:4866-4940 1712:4941-5090 512:5091-5309 @2576@!:5310-6181 9928:6182-6694]
+itr with hit = 428
+Query name = XM_005176235.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X22, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i5 len=6463 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 9928:5950-6462]
+itr with hit = 428
+Query name = XM_005176235.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X22, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i2 len=5972 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 13102:5950-5971]
+itr with hit = 428
+Query name = XM_005176235.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X22, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i1 len=6660 path=[204:0-56 12231:57-57 4099:58-324 11376:325-464 608:465-521 2929:522-526 4369:527-633 462:634-661 12418:662-824 4663:825-849 11856:850-853 4692:854-1044 4883:1045-1221 13171:1222-1224 12503:1225-1321 1687:1322-1349 1449:1350-1457 2216:1458-1733 5560:1734-1767 5594:1768-1798 12589:1799-1800 12591:1801-1891 5715:1892-2323 12674:2324-2324 12675:2325-2615 3262:2616-2620 6430:2621-2641 6451:2642-2885 6692:2886-2990 2650:2991-3245 13223:3246-4217 8012:4218-4319 8113:4320-4830 2972:4831-4905 1712:4906-5055 512:5056-5274 @2576@!:5275-6146 9928:6147-6659]
+itr with hit = 428
+Query name = XM_005176235.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X22, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i3 len=4110 path=[2082:0-29 2112:30-53 10469:54-106 10521:107-116 2753:117-335 6692:336-440 2650:441-695 13223:696-1667 8012:1668-1769 8113:1770-2280 2972:2281-2355 1712:2356-2505 512:2506-2724 @2576@!:2725-3596 9928:3597-4109]
+itr with hit = 428
+Query name = XM_005176235.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X22, mRNA
+Query length = 6726
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i6 len=6695 path=[3813:0-288 12231:289-289 4099:290-556 2929:557-561 4369:562-668 462:669-696 12418:697-859 4663:860-884 11856:885-888 4692:889-1079 4883:1080-1256 13171:1257-1259 12503:1260-1356 1687:1357-1384 1449:1385-1492 2216:1493-1768 5560:1769-1802 5594:1803-1833 12589:1834-1835 12591:1836-1926 5715:1927-2358 12674:2359-2359 12675:2360-2650 3262:2651-2655 6430:2656-2676 6451:2677-2920 6692:2921-3025 2650:3026-3280 13223:3281-4252 8012:4253-4354 8113:4355-4865 2972:4866-4940 1712:4941-5090 512:5091-5309 @2576@!:5310-6181 9928:6182-6694]
+itr with hit = 429
+Query name = XM_005176242.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X20, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i5 len=6463 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 9928:5950-6462]
+itr with hit = 429
+Query name = XM_005176242.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X20, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i2 len=5972 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 13102:5950-5971]
+itr with hit = 429
+Query name = XM_005176242.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X20, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i1 len=6660 path=[204:0-56 12231:57-57 4099:58-324 11376:325-464 608:465-521 2929:522-526 4369:527-633 462:634-661 12418:662-824 4663:825-849 11856:850-853 4692:854-1044 4883:1045-1221 13171:1222-1224 12503:1225-1321 1687:1322-1349 1449:1350-1457 2216:1458-1733 5560:1734-1767 5594:1768-1798 12589:1799-1800 12591:1801-1891 5715:1892-2323 12674:2324-2324 12675:2325-2615 3262:2616-2620 6430:2621-2641 6451:2642-2885 6692:2886-2990 2650:2991-3245 13223:3246-4217 8012:4218-4319 8113:4320-4830 2972:4831-4905 1712:4906-5055 512:5056-5274 @2576@!:5275-6146 9928:6147-6659]
+itr with hit = 429
+Query name = XM_005176242.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X20, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i3 len=4110 path=[2082:0-29 2112:30-53 10469:54-106 10521:107-116 2753:117-335 6692:336-440 2650:441-695 13223:696-1667 8012:1668-1769 8113:1770-2280 2972:2281-2355 1712:2356-2505 512:2506-2724 @2576@!:2725-3596 9928:3597-4109]
+itr with hit = 429
+Query name = XM_005176242.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X20, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i6 len=6695 path=[3813:0-288 12231:289-289 4099:290-556 2929:557-561 4369:562-668 462:669-696 12418:697-859 4663:860-884 11856:885-888 4692:889-1079 4883:1080-1256 13171:1257-1259 12503:1260-1356 1687:1357-1384 1449:1385-1492 2216:1493-1768 5560:1769-1802 5594:1803-1833 12589:1834-1835 12591:1836-1926 5715:1927-2358 12674:2359-2359 12675:2360-2650 3262:2651-2655 6430:2656-2676 6451:2677-2920 6692:2921-3025 2650:3026-3280 13223:3281-4252 8012:4253-4354 8113:4355-4865 2972:4866-4940 1712:4941-5090 512:5091-5309 @2576@!:5310-6181 9928:6182-6694]
+itr with hit = 430
+Query name = XM_005176240.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X19, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i5 len=6463 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 9928:5950-6462]
+itr with hit = 430
+Query name = XM_005176240.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X19, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i2 len=5972 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 13102:5950-5971]
+itr with hit = 430
+Query name = XM_005176240.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X19, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i1 len=6660 path=[204:0-56 12231:57-57 4099:58-324 11376:325-464 608:465-521 2929:522-526 4369:527-633 462:634-661 12418:662-824 4663:825-849 11856:850-853 4692:854-1044 4883:1045-1221 13171:1222-1224 12503:1225-1321 1687:1322-1349 1449:1350-1457 2216:1458-1733 5560:1734-1767 5594:1768-1798 12589:1799-1800 12591:1801-1891 5715:1892-2323 12674:2324-2324 12675:2325-2615 3262:2616-2620 6430:2621-2641 6451:2642-2885 6692:2886-2990 2650:2991-3245 13223:3246-4217 8012:4218-4319 8113:4320-4830 2972:4831-4905 1712:4906-5055 512:5056-5274 @2576@!:5275-6146 9928:6147-6659]
+itr with hit = 430
+Query name = XM_005176240.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X19, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i3 len=4110 path=[2082:0-29 2112:30-53 10469:54-106 10521:107-116 2753:117-335 6692:336-440 2650:441-695 13223:696-1667 8012:1668-1769 8113:1770-2280 2972:2281-2355 1712:2356-2505 512:2506-2724 @2576@!:2725-3596 9928:3597-4109]
+itr with hit = 430
+Query name = XM_005176240.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X19, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i6 len=6695 path=[3813:0-288 12231:289-289 4099:290-556 2929:557-561 4369:562-668 462:669-696 12418:697-859 4663:860-884 11856:885-888 4692:889-1079 4883:1080-1256 13171:1257-1259 12503:1260-1356 1687:1357-1384 1449:1385-1492 2216:1493-1768 5560:1769-1802 5594:1803-1833 12589:1834-1835 12591:1836-1926 5715:1927-2358 12674:2359-2359 12675:2360-2650 3262:2651-2655 6430:2656-2676 6451:2677-2920 6692:2921-3025 2650:3026-3280 13223:3281-4252 8012:4253-4354 8113:4355-4865 2972:4866-4940 1712:4941-5090 512:5091-5309 @2576@!:5310-6181 9928:6182-6694]
+itr with hit = 431
+Query name = XM_005176239.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X18, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i5 len=6463 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 9928:5950-6462]
+itr with hit = 431
+Query name = XM_005176239.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X18, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i2 len=5972 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 13102:5950-5971]
+itr with hit = 431
+Query name = XM_005176239.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X18, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i1 len=6660 path=[204:0-56 12231:57-57 4099:58-324 11376:325-464 608:465-521 2929:522-526 4369:527-633 462:634-661 12418:662-824 4663:825-849 11856:850-853 4692:854-1044 4883:1045-1221 13171:1222-1224 12503:1225-1321 1687:1322-1349 1449:1350-1457 2216:1458-1733 5560:1734-1767 5594:1768-1798 12589:1799-1800 12591:1801-1891 5715:1892-2323 12674:2324-2324 12675:2325-2615 3262:2616-2620 6430:2621-2641 6451:2642-2885 6692:2886-2990 2650:2991-3245 13223:3246-4217 8012:4218-4319 8113:4320-4830 2972:4831-4905 1712:4906-5055 512:5056-5274 @2576@!:5275-6146 9928:6147-6659]
+itr with hit = 431
+Query name = XM_005176239.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X18, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i3 len=4110 path=[2082:0-29 2112:30-53 10469:54-106 10521:107-116 2753:117-335 6692:336-440 2650:441-695 13223:696-1667 8012:1668-1769 8113:1770-2280 2972:2281-2355 1712:2356-2505 512:2506-2724 @2576@!:2725-3596 9928:3597-4109]
+itr with hit = 431
+Query name = XM_005176239.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X18, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i6 len=6695 path=[3813:0-288 12231:289-289 4099:290-556 2929:557-561 4369:562-668 462:669-696 12418:697-859 4663:860-884 11856:885-888 4692:889-1079 4883:1080-1256 13171:1257-1259 12503:1260-1356 1687:1357-1384 1449:1385-1492 2216:1493-1768 5560:1769-1802 5594:1803-1833 12589:1834-1835 12591:1836-1926 5715:1927-2358 12674:2359-2359 12675:2360-2650 3262:2651-2655 6430:2656-2676 6451:2677-2920 6692:2921-3025 2650:3026-3280 13223:3281-4252 8012:4253-4354 8113:4355-4865 2972:4866-4940 1712:4941-5090 512:5091-5309 @2576@!:5310-6181 9928:6182-6694]
+itr with hit = 432
+Query name = XM_011297437.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X17, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i5 len=6463 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 9928:5950-6462]
+itr with hit = 432
+Query name = XM_011297437.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X17, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i2 len=5972 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 13102:5950-5971]
+itr with hit = 432
+Query name = XM_011297437.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X17, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i1 len=6660 path=[204:0-56 12231:57-57 4099:58-324 11376:325-464 608:465-521 2929:522-526 4369:527-633 462:634-661 12418:662-824 4663:825-849 11856:850-853 4692:854-1044 4883:1045-1221 13171:1222-1224 12503:1225-1321 1687:1322-1349 1449:1350-1457 2216:1458-1733 5560:1734-1767 5594:1768-1798 12589:1799-1800 12591:1801-1891 5715:1892-2323 12674:2324-2324 12675:2325-2615 3262:2616-2620 6430:2621-2641 6451:2642-2885 6692:2886-2990 2650:2991-3245 13223:3246-4217 8012:4218-4319 8113:4320-4830 2972:4831-4905 1712:4906-5055 512:5056-5274 @2576@!:5275-6146 9928:6147-6659]
+itr with hit = 432
+Query name = XM_011297437.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X17, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i3 len=4110 path=[2082:0-29 2112:30-53 10469:54-106 10521:107-116 2753:117-335 6692:336-440 2650:441-695 13223:696-1667 8012:1668-1769 8113:1770-2280 2972:2281-2355 1712:2356-2505 512:2506-2724 @2576@!:2725-3596 9928:3597-4109]
+itr with hit = 432
+Query name = XM_011297437.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X17, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i6 len=6695 path=[3813:0-288 12231:289-289 4099:290-556 2929:557-561 4369:562-668 462:669-696 12418:697-859 4663:860-884 11856:885-888 4692:889-1079 4883:1080-1256 13171:1257-1259 12503:1260-1356 1687:1357-1384 1449:1385-1492 2216:1493-1768 5560:1769-1802 5594:1803-1833 12589:1834-1835 12591:1836-1926 5715:1927-2358 12674:2359-2359 12675:2360-2650 3262:2651-2655 6430:2656-2676 6451:2677-2920 6692:2921-3025 2650:3026-3280 13223:3281-4252 8012:4253-4354 8113:4355-4865 2972:4866-4940 1712:4941-5090 512:5091-5309 @2576@!:5310-6181 9928:6182-6694]
+itr with hit = 433
+Query name = XM_005176237.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X14, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i5 len=6463 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 9928:5950-6462]
+itr with hit = 433
+Query name = XM_005176237.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X14, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i2 len=5972 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 13102:5950-5971]
+itr with hit = 433
+Query name = XM_005176237.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X14, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i1 len=6660 path=[204:0-56 12231:57-57 4099:58-324 11376:325-464 608:465-521 2929:522-526 4369:527-633 462:634-661 12418:662-824 4663:825-849 11856:850-853 4692:854-1044 4883:1045-1221 13171:1222-1224 12503:1225-1321 1687:1322-1349 1449:1350-1457 2216:1458-1733 5560:1734-1767 5594:1768-1798 12589:1799-1800 12591:1801-1891 5715:1892-2323 12674:2324-2324 12675:2325-2615 3262:2616-2620 6430:2621-2641 6451:2642-2885 6692:2886-2990 2650:2991-3245 13223:3246-4217 8012:4218-4319 8113:4320-4830 2972:4831-4905 1712:4906-5055 512:5056-5274 @2576@!:5275-6146 9928:6147-6659]
+itr with hit = 433
+Query name = XM_005176237.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X14, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i3 len=4110 path=[2082:0-29 2112:30-53 10469:54-106 10521:107-116 2753:117-335 6692:336-440 2650:441-695 13223:696-1667 8012:1668-1769 8113:1770-2280 2972:2281-2355 1712:2356-2505 512:2506-2724 @2576@!:2725-3596 9928:3597-4109]
+itr with hit = 433
+Query name = XM_005176237.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X14, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i6 len=6695 path=[3813:0-288 12231:289-289 4099:290-556 2929:557-561 4369:562-668 462:669-696 12418:697-859 4663:860-884 11856:885-888 4692:889-1079 4883:1080-1256 13171:1257-1259 12503:1260-1356 1687:1357-1384 1449:1385-1492 2216:1493-1768 5560:1769-1802 5594:1803-1833 12589:1834-1835 12591:1836-1926 5715:1927-2358 12674:2359-2359 12675:2360-2650 3262:2651-2655 6430:2656-2676 6451:2677-2920 6692:2921-3025 2650:3026-3280 13223:3281-4252 8012:4253-4354 8113:4355-4865 2972:4866-4940 1712:4941-5090 512:5091-5309 @2576@!:5310-6181 9928:6182-6694]
+itr with hit = 434
+Query name = XM_011297419.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X13, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i5 len=6463 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 9928:5950-6462]
+itr with hit = 434
+Query name = XM_011297419.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X13, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i2 len=5972 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 13102:5950-5971]
+itr with hit = 434
+Query name = XM_011297419.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X13, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i1 len=6660 path=[204:0-56 12231:57-57 4099:58-324 11376:325-464 608:465-521 2929:522-526 4369:527-633 462:634-661 12418:662-824 4663:825-849 11856:850-853 4692:854-1044 4883:1045-1221 13171:1222-1224 12503:1225-1321 1687:1322-1349 1449:1350-1457 2216:1458-1733 5560:1734-1767 5594:1768-1798 12589:1799-1800 12591:1801-1891 5715:1892-2323 12674:2324-2324 12675:2325-2615 3262:2616-2620 6430:2621-2641 6451:2642-2885 6692:2886-2990 2650:2991-3245 13223:3246-4217 8012:4218-4319 8113:4320-4830 2972:4831-4905 1712:4906-5055 512:5056-5274 @2576@!:5275-6146 9928:6147-6659]
+itr with hit = 434
+Query name = XM_011297419.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X13, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i3 len=4110 path=[2082:0-29 2112:30-53 10469:54-106 10521:107-116 2753:117-335 6692:336-440 2650:441-695 13223:696-1667 8012:1668-1769 8113:1770-2280 2972:2281-2355 1712:2356-2505 512:2506-2724 @2576@!:2725-3596 9928:3597-4109]
+itr with hit = 434
+Query name = XM_011297419.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X13, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i6 len=6695 path=[3813:0-288 12231:289-289 4099:290-556 2929:557-561 4369:562-668 462:669-696 12418:697-859 4663:860-884 11856:885-888 4692:889-1079 4883:1080-1256 13171:1257-1259 12503:1260-1356 1687:1357-1384 1449:1385-1492 2216:1493-1768 5560:1769-1802 5594:1803-1833 12589:1834-1835 12591:1836-1926 5715:1927-2358 12674:2359-2359 12675:2360-2650 3262:2651-2655 6430:2656-2676 6451:2677-2920 6692:2921-3025 2650:3026-3280 13223:3281-4252 8012:4253-4354 8113:4355-4865 2972:4866-4940 1712:4941-5090 512:5091-5309 @2576@!:5310-6181 9928:6182-6694]
+itr with hit = 435
+Query name = XM_011297411.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X12, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i5 len=6463 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 9928:5950-6462]
+itr with hit = 435
+Query name = XM_011297411.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X12, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i2 len=5972 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 13102:5950-5971]
+itr with hit = 435
+Query name = XM_011297411.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X12, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i1 len=6660 path=[204:0-56 12231:57-57 4099:58-324 11376:325-464 608:465-521 2929:522-526 4369:527-633 462:634-661 12418:662-824 4663:825-849 11856:850-853 4692:854-1044 4883:1045-1221 13171:1222-1224 12503:1225-1321 1687:1322-1349 1449:1350-1457 2216:1458-1733 5560:1734-1767 5594:1768-1798 12589:1799-1800 12591:1801-1891 5715:1892-2323 12674:2324-2324 12675:2325-2615 3262:2616-2620 6430:2621-2641 6451:2642-2885 6692:2886-2990 2650:2991-3245 13223:3246-4217 8012:4218-4319 8113:4320-4830 2972:4831-4905 1712:4906-5055 512:5056-5274 @2576@!:5275-6146 9928:6147-6659]
+itr with hit = 435
+Query name = XM_011297411.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X12, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i3 len=4110 path=[2082:0-29 2112:30-53 10469:54-106 10521:107-116 2753:117-335 6692:336-440 2650:441-695 13223:696-1667 8012:1668-1769 8113:1770-2280 2972:2281-2355 1712:2356-2505 512:2506-2724 @2576@!:2725-3596 9928:3597-4109]
+itr with hit = 435
+Query name = XM_011297411.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X12, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i6 len=6695 path=[3813:0-288 12231:289-289 4099:290-556 2929:557-561 4369:562-668 462:669-696 12418:697-859 4663:860-884 11856:885-888 4692:889-1079 4883:1080-1256 13171:1257-1259 12503:1260-1356 1687:1357-1384 1449:1385-1492 2216:1493-1768 5560:1769-1802 5594:1803-1833 12589:1834-1835 12591:1836-1926 5715:1927-2358 12674:2359-2359 12675:2360-2650 3262:2651-2655 6430:2656-2676 6451:2677-2920 6692:2921-3025 2650:3026-3280 13223:3281-4252 8012:4253-4354 8113:4355-4865 2972:4866-4940 1712:4941-5090 512:5091-5309 @2576@!:5310-6181 9928:6182-6694]
+itr with hit = 436
+Query name = XM_005176238.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X11, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i5 len=6463 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 9928:5950-6462]
+itr with hit = 436
+Query name = XM_005176238.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X11, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i2 len=5972 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 13102:5950-5971]
+itr with hit = 436
+Query name = XM_005176238.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X11, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i1 len=6660 path=[204:0-56 12231:57-57 4099:58-324 11376:325-464 608:465-521 2929:522-526 4369:527-633 462:634-661 12418:662-824 4663:825-849 11856:850-853 4692:854-1044 4883:1045-1221 13171:1222-1224 12503:1225-1321 1687:1322-1349 1449:1350-1457 2216:1458-1733 5560:1734-1767 5594:1768-1798 12589:1799-1800 12591:1801-1891 5715:1892-2323 12674:2324-2324 12675:2325-2615 3262:2616-2620 6430:2621-2641 6451:2642-2885 6692:2886-2990 2650:2991-3245 13223:3246-4217 8012:4218-4319 8113:4320-4830 2972:4831-4905 1712:4906-5055 512:5056-5274 @2576@!:5275-6146 9928:6147-6659]
+itr with hit = 436
+Query name = XM_005176238.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X11, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i3 len=4110 path=[2082:0-29 2112:30-53 10469:54-106 10521:107-116 2753:117-335 6692:336-440 2650:441-695 13223:696-1667 8012:1668-1769 8113:1770-2280 2972:2281-2355 1712:2356-2505 512:2506-2724 @2576@!:2725-3596 9928:3597-4109]
+itr with hit = 436
+Query name = XM_005176238.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X11, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i6 len=6695 path=[3813:0-288 12231:289-289 4099:290-556 2929:557-561 4369:562-668 462:669-696 12418:697-859 4663:860-884 11856:885-888 4692:889-1079 4883:1080-1256 13171:1257-1259 12503:1260-1356 1687:1357-1384 1449:1385-1492 2216:1493-1768 5560:1769-1802 5594:1803-1833 12589:1834-1835 12591:1836-1926 5715:1927-2358 12674:2359-2359 12675:2360-2650 3262:2651-2655 6430:2656-2676 6451:2677-2920 6692:2921-3025 2650:3026-3280 13223:3281-4252 8012:4253-4354 8113:4355-4865 2972:4866-4940 1712:4941-5090 512:5091-5309 @2576@!:5310-6181 9928:6182-6694]
+itr with hit = 437
+Query name = XM_011297415.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X9, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i5 len=6463 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 9928:5950-6462]
+itr with hit = 437
+Query name = XM_011297415.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X9, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i2 len=5972 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 13102:5950-5971]
+itr with hit = 437
+Query name = XM_011297415.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X9, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i1 len=6660 path=[204:0-56 12231:57-57 4099:58-324 11376:325-464 608:465-521 2929:522-526 4369:527-633 462:634-661 12418:662-824 4663:825-849 11856:850-853 4692:854-1044 4883:1045-1221 13171:1222-1224 12503:1225-1321 1687:1322-1349 1449:1350-1457 2216:1458-1733 5560:1734-1767 5594:1768-1798 12589:1799-1800 12591:1801-1891 5715:1892-2323 12674:2324-2324 12675:2325-2615 3262:2616-2620 6430:2621-2641 6451:2642-2885 6692:2886-2990 2650:2991-3245 13223:3246-4217 8012:4218-4319 8113:4320-4830 2972:4831-4905 1712:4906-5055 512:5056-5274 @2576@!:5275-6146 9928:6147-6659]
+itr with hit = 437
+Query name = XM_011297415.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X9, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i3 len=4110 path=[2082:0-29 2112:30-53 10469:54-106 10521:107-116 2753:117-335 6692:336-440 2650:441-695 13223:696-1667 8012:1668-1769 8113:1770-2280 2972:2281-2355 1712:2356-2505 512:2506-2724 @2576@!:2725-3596 9928:3597-4109]
+itr with hit = 437
+Query name = XM_011297415.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X9, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i6 len=6695 path=[3813:0-288 12231:289-289 4099:290-556 2929:557-561 4369:562-668 462:669-696 12418:697-859 4663:860-884 11856:885-888 4692:889-1079 4883:1080-1256 13171:1257-1259 12503:1260-1356 1687:1357-1384 1449:1385-1492 2216:1493-1768 5560:1769-1802 5594:1803-1833 12589:1834-1835 12591:1836-1926 5715:1927-2358 12674:2359-2359 12675:2360-2650 3262:2651-2655 6430:2656-2676 6451:2677-2920 6692:2921-3025 2650:3026-3280 13223:3281-4252 8012:4253-4354 8113:4355-4865 2972:4866-4940 1712:4941-5090 512:5091-5309 @2576@!:5310-6181 9928:6182-6694]
+itr with hit = 438
+Query name = XM_005176236.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X8, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i5 len=6463 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 9928:5950-6462]
+itr with hit = 438
+Query name = XM_005176236.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X8, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i2 len=5972 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 13102:5950-5971]
+itr with hit = 438
+Query name = XM_005176236.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X8, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i1 len=6660 path=[204:0-56 12231:57-57 4099:58-324 11376:325-464 608:465-521 2929:522-526 4369:527-633 462:634-661 12418:662-824 4663:825-849 11856:850-853 4692:854-1044 4883:1045-1221 13171:1222-1224 12503:1225-1321 1687:1322-1349 1449:1350-1457 2216:1458-1733 5560:1734-1767 5594:1768-1798 12589:1799-1800 12591:1801-1891 5715:1892-2323 12674:2324-2324 12675:2325-2615 3262:2616-2620 6430:2621-2641 6451:2642-2885 6692:2886-2990 2650:2991-3245 13223:3246-4217 8012:4218-4319 8113:4320-4830 2972:4831-4905 1712:4906-5055 512:5056-5274 @2576@!:5275-6146 9928:6147-6659]
+itr with hit = 438
+Query name = XM_005176236.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X8, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i3 len=4110 path=[2082:0-29 2112:30-53 10469:54-106 10521:107-116 2753:117-335 6692:336-440 2650:441-695 13223:696-1667 8012:1668-1769 8113:1770-2280 2972:2281-2355 1712:2356-2505 512:2506-2724 @2576@!:2725-3596 9928:3597-4109]
+itr with hit = 438
+Query name = XM_005176236.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X8, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i6 len=6695 path=[3813:0-288 12231:289-289 4099:290-556 2929:557-561 4369:562-668 462:669-696 12418:697-859 4663:860-884 11856:885-888 4692:889-1079 4883:1080-1256 13171:1257-1259 12503:1260-1356 1687:1357-1384 1449:1385-1492 2216:1493-1768 5560:1769-1802 5594:1803-1833 12589:1834-1835 12591:1836-1926 5715:1927-2358 12674:2359-2359 12675:2360-2650 3262:2651-2655 6430:2656-2676 6451:2677-2920 6692:2921-3025 2650:3026-3280 13223:3281-4252 8012:4253-4354 8113:4355-4865 2972:4866-4940 1712:4941-5090 512:5091-5309 @2576@!:5310-6181 9928:6182-6694]
+itr with hit = 439
+Query name = XM_011297387.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X7, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i5 len=6463 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 9928:5950-6462]
+itr with hit = 439
+Query name = XM_011297387.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X7, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i2 len=5972 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 13102:5950-5971]
+itr with hit = 439
+Query name = XM_011297387.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X7, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i1 len=6660 path=[204:0-56 12231:57-57 4099:58-324 11376:325-464 608:465-521 2929:522-526 4369:527-633 462:634-661 12418:662-824 4663:825-849 11856:850-853 4692:854-1044 4883:1045-1221 13171:1222-1224 12503:1225-1321 1687:1322-1349 1449:1350-1457 2216:1458-1733 5560:1734-1767 5594:1768-1798 12589:1799-1800 12591:1801-1891 5715:1892-2323 12674:2324-2324 12675:2325-2615 3262:2616-2620 6430:2621-2641 6451:2642-2885 6692:2886-2990 2650:2991-3245 13223:3246-4217 8012:4218-4319 8113:4320-4830 2972:4831-4905 1712:4906-5055 512:5056-5274 @2576@!:5275-6146 9928:6147-6659]
+itr with hit = 439
+Query name = XM_011297387.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X7, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i3 len=4110 path=[2082:0-29 2112:30-53 10469:54-106 10521:107-116 2753:117-335 6692:336-440 2650:441-695 13223:696-1667 8012:1668-1769 8113:1770-2280 2972:2281-2355 1712:2356-2505 512:2506-2724 @2576@!:2725-3596 9928:3597-4109]
+itr with hit = 439
+Query name = XM_011297387.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X7, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i6 len=6695 path=[3813:0-288 12231:289-289 4099:290-556 2929:557-561 4369:562-668 462:669-696 12418:697-859 4663:860-884 11856:885-888 4692:889-1079 4883:1080-1256 13171:1257-1259 12503:1260-1356 1687:1357-1384 1449:1385-1492 2216:1493-1768 5560:1769-1802 5594:1803-1833 12589:1834-1835 12591:1836-1926 5715:1927-2358 12674:2359-2359 12675:2360-2650 3262:2651-2655 6430:2656-2676 6451:2677-2920 6692:2921-3025 2650:3026-3280 13223:3281-4252 8012:4253-4354 8113:4355-4865 2972:4866-4940 1712:4941-5090 512:5091-5309 @2576@!:5310-6181 9928:6182-6694]
+itr with hit = 440
+Query name = XM_011297397.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X5, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i5 len=6463 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 9928:5950-6462]
+itr with hit = 440
+Query name = XM_011297397.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X5, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i2 len=5972 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 13102:5950-5971]
+itr with hit = 440
+Query name = XM_011297397.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X5, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i1 len=6660 path=[204:0-56 12231:57-57 4099:58-324 11376:325-464 608:465-521 2929:522-526 4369:527-633 462:634-661 12418:662-824 4663:825-849 11856:850-853 4692:854-1044 4883:1045-1221 13171:1222-1224 12503:1225-1321 1687:1322-1349 1449:1350-1457 2216:1458-1733 5560:1734-1767 5594:1768-1798 12589:1799-1800 12591:1801-1891 5715:1892-2323 12674:2324-2324 12675:2325-2615 3262:2616-2620 6430:2621-2641 6451:2642-2885 6692:2886-2990 2650:2991-3245 13223:3246-4217 8012:4218-4319 8113:4320-4830 2972:4831-4905 1712:4906-5055 512:5056-5274 @2576@!:5275-6146 9928:6147-6659]
+itr with hit = 440
+Query name = XM_011297397.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X5, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i3 len=4110 path=[2082:0-29 2112:30-53 10469:54-106 10521:107-116 2753:117-335 6692:336-440 2650:441-695 13223:696-1667 8012:1668-1769 8113:1770-2280 2972:2281-2355 1712:2356-2505 512:2506-2724 @2576@!:2725-3596 9928:3597-4109]
+itr with hit = 440
+Query name = XM_011297397.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X5, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i6 len=6695 path=[3813:0-288 12231:289-289 4099:290-556 2929:557-561 4369:562-668 462:669-696 12418:697-859 4663:860-884 11856:885-888 4692:889-1079 4883:1080-1256 13171:1257-1259 12503:1260-1356 1687:1357-1384 1449:1385-1492 2216:1493-1768 5560:1769-1802 5594:1803-1833 12589:1834-1835 12591:1836-1926 5715:1927-2358 12674:2359-2359 12675:2360-2650 3262:2651-2655 6430:2656-2676 6451:2677-2920 6692:2921-3025 2650:3026-3280 13223:3281-4252 8012:4253-4354 8113:4355-4865 2972:4866-4940 1712:4941-5090 512:5091-5309 @2576@!:5310-6181 9928:6182-6694]
+itr with hit = 441
+Query name = XM_011297403.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X4, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i5 len=6463 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 9928:5950-6462]
+itr with hit = 441
+Query name = XM_011297403.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X4, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i2 len=5972 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 13102:5950-5971]
+itr with hit = 441
+Query name = XM_011297403.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X4, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i1 len=6660 path=[204:0-56 12231:57-57 4099:58-324 11376:325-464 608:465-521 2929:522-526 4369:527-633 462:634-661 12418:662-824 4663:825-849 11856:850-853 4692:854-1044 4883:1045-1221 13171:1222-1224 12503:1225-1321 1687:1322-1349 1449:1350-1457 2216:1458-1733 5560:1734-1767 5594:1768-1798 12589:1799-1800 12591:1801-1891 5715:1892-2323 12674:2324-2324 12675:2325-2615 3262:2616-2620 6430:2621-2641 6451:2642-2885 6692:2886-2990 2650:2991-3245 13223:3246-4217 8012:4218-4319 8113:4320-4830 2972:4831-4905 1712:4906-5055 512:5056-5274 @2576@!:5275-6146 9928:6147-6659]
+itr with hit = 441
+Query name = XM_011297403.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X4, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i3 len=4110 path=[2082:0-29 2112:30-53 10469:54-106 10521:107-116 2753:117-335 6692:336-440 2650:441-695 13223:696-1667 8012:1668-1769 8113:1770-2280 2972:2281-2355 1712:2356-2505 512:2506-2724 @2576@!:2725-3596 9928:3597-4109]
+itr with hit = 441
+Query name = XM_011297403.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X4, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i6 len=6695 path=[3813:0-288 12231:289-289 4099:290-556 2929:557-561 4369:562-668 462:669-696 12418:697-859 4663:860-884 11856:885-888 4692:889-1079 4883:1080-1256 13171:1257-1259 12503:1260-1356 1687:1357-1384 1449:1385-1492 2216:1493-1768 5560:1769-1802 5594:1803-1833 12589:1834-1835 12591:1836-1926 5715:1927-2358 12674:2359-2359 12675:2360-2650 3262:2651-2655 6430:2656-2676 6451:2677-2920 6692:2921-3025 2650:3026-3280 13223:3281-4252 8012:4253-4354 8113:4355-4865 2972:4866-4940 1712:4941-5090 512:5091-5309 @2576@!:5310-6181 9928:6182-6694]
+itr with hit = 442
+Query name = XM_011297392.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X3, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i5 len=6463 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 9928:5950-6462]
+itr with hit = 442
+Query name = XM_011297392.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X3, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i2 len=5972 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 13102:5950-5971]
+itr with hit = 442
+Query name = XM_011297392.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X3, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i1 len=6660 path=[204:0-56 12231:57-57 4099:58-324 11376:325-464 608:465-521 2929:522-526 4369:527-633 462:634-661 12418:662-824 4663:825-849 11856:850-853 4692:854-1044 4883:1045-1221 13171:1222-1224 12503:1225-1321 1687:1322-1349 1449:1350-1457 2216:1458-1733 5560:1734-1767 5594:1768-1798 12589:1799-1800 12591:1801-1891 5715:1892-2323 12674:2324-2324 12675:2325-2615 3262:2616-2620 6430:2621-2641 6451:2642-2885 6692:2886-2990 2650:2991-3245 13223:3246-4217 8012:4218-4319 8113:4320-4830 2972:4831-4905 1712:4906-5055 512:5056-5274 @2576@!:5275-6146 9928:6147-6659]
+itr with hit = 442
+Query name = XM_011297392.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X3, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i3 len=4110 path=[2082:0-29 2112:30-53 10469:54-106 10521:107-116 2753:117-335 6692:336-440 2650:441-695 13223:696-1667 8012:1668-1769 8113:1770-2280 2972:2281-2355 1712:2356-2505 512:2506-2724 @2576@!:2725-3596 9928:3597-4109]
+itr with hit = 442
+Query name = XM_011297392.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X3, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i6 len=6695 path=[3813:0-288 12231:289-289 4099:290-556 2929:557-561 4369:562-668 462:669-696 12418:697-859 4663:860-884 11856:885-888 4692:889-1079 4883:1080-1256 13171:1257-1259 12503:1260-1356 1687:1357-1384 1449:1385-1492 2216:1493-1768 5560:1769-1802 5594:1803-1833 12589:1834-1835 12591:1836-1926 5715:1927-2358 12674:2359-2359 12675:2360-2650 3262:2651-2655 6430:2656-2676 6451:2677-2920 6692:2921-3025 2650:3026-3280 13223:3281-4252 8012:4253-4354 8113:4355-4865 2972:4866-4940 1712:4941-5090 512:5091-5309 @2576@!:5310-6181 9928:6182-6694]
+itr with hit = 443
+Query name = XM_011297385.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X2, mRNA
+Query length = 6851
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i5 len=6463 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 9928:5950-6462]
+itr with hit = 443
+Query name = XM_011297385.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X2, mRNA
+Query length = 6851
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i2 len=5972 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 13102:5950-5971]
+itr with hit = 443
+Query name = XM_011297385.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X2, mRNA
+Query length = 6851
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i1 len=6660 path=[204:0-56 12231:57-57 4099:58-324 11376:325-464 608:465-521 2929:522-526 4369:527-633 462:634-661 12418:662-824 4663:825-849 11856:850-853 4692:854-1044 4883:1045-1221 13171:1222-1224 12503:1225-1321 1687:1322-1349 1449:1350-1457 2216:1458-1733 5560:1734-1767 5594:1768-1798 12589:1799-1800 12591:1801-1891 5715:1892-2323 12674:2324-2324 12675:2325-2615 3262:2616-2620 6430:2621-2641 6451:2642-2885 6692:2886-2990 2650:2991-3245 13223:3246-4217 8012:4218-4319 8113:4320-4830 2972:4831-4905 1712:4906-5055 512:5056-5274 @2576@!:5275-6146 9928:6147-6659]
+itr with hit = 443
+Query name = XM_011297385.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X2, mRNA
+Query length = 6851
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i3 len=4110 path=[2082:0-29 2112:30-53 10469:54-106 10521:107-116 2753:117-335 6692:336-440 2650:441-695 13223:696-1667 8012:1668-1769 8113:1770-2280 2972:2281-2355 1712:2356-2505 512:2506-2724 @2576@!:2725-3596 9928:3597-4109]
+itr with hit = 443
+Query name = XM_011297385.2 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X2, mRNA
+Query length = 6851
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i6 len=6695 path=[3813:0-288 12231:289-289 4099:290-556 2929:557-561 4369:562-668 462:669-696 12418:697-859 4663:860-884 11856:885-888 4692:889-1079 4883:1080-1256 13171:1257-1259 12503:1260-1356 1687:1357-1384 1449:1385-1492 2216:1493-1768 5560:1769-1802 5594:1803-1833 12589:1834-1835 12591:1836-1926 5715:1927-2358 12674:2359-2359 12675:2360-2650 3262:2651-2655 6430:2656-2676 6451:2677-2920 6692:2921-3025 2650:3026-3280 13223:3281-4252 8012:4253-4354 8113:4355-4865 2972:4866-4940 1712:4941-5090 512:5091-5309 @2576@!:5310-6181 9928:6182-6694]
+itr with hit = 444
+Query name = XM_005176234.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X1, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i5 len=6463 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 9928:5950-6462]
+itr with hit = 444
+Query name = XM_005176234.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X1, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i2 len=5972 path=[204:0-56 12231:57-57 4099:58-324 2929:325-329 4369:330-436 462:437-464 12418:465-627 4663:628-652 11856:653-656 4692:657-847 4883:848-1024 13171:1025-1027 12503:1028-1124 1687:1125-1152 1449:1153-1260 2216:1261-1536 5560:1537-1570 5594:1571-1601 12589:1602-1603 12591:1604-1694 5715:1695-2126 12674:2127-2127 12675:2128-2418 3262:2419-2423 6430:2424-2444 6451:2445-2688 6692:2689-2793 2650:2794-3048 13223:3049-4020 8012:4021-4122 8113:4123-4633 2972:4634-4708 1712:4709-4858 512:4859-5077 @2576@!:5078-5949 13102:5950-5971]
+itr with hit = 444
+Query name = XM_005176234.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X1, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i1 len=6660 path=[204:0-56 12231:57-57 4099:58-324 11376:325-464 608:465-521 2929:522-526 4369:527-633 462:634-661 12418:662-824 4663:825-849 11856:850-853 4692:854-1044 4883:1045-1221 13171:1222-1224 12503:1225-1321 1687:1322-1349 1449:1350-1457 2216:1458-1733 5560:1734-1767 5594:1768-1798 12589:1799-1800 12591:1801-1891 5715:1892-2323 12674:2324-2324 12675:2325-2615 3262:2616-2620 6430:2621-2641 6451:2642-2885 6692:2886-2990 2650:2991-3245 13223:3246-4217 8012:4218-4319 8113:4320-4830 2972:4831-4905 1712:4906-5055 512:5056-5274 @2576@!:5275-6146 9928:6147-6659]
+itr with hit = 444
+Query name = XM_005176234.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X1, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c221395_g2_i3 len=4110 path=[2082:0-29 2112:30-53 10469:54-106 10521:107-116 2753:117-335 6692:336-440 2650:441-695 13223:696-1667 8012:1668-1769 8113:1770-2280 2972:2281-2355 1712:2356-2505 512:2506-2724 @2576@!:2725-3596 9928:3597-4109]
+itr with hit = 444
+Query name = XM_005176234.3 PREDICTED: Musca domestica myosin heavy chain, muscle (LOC101893508), transcript variant X1, mRNA
+Query length = 6725
+E-value = 0
+=============================
+Hit_def (fasta name in db) = isotig09084  gene=isogroup05308  length=2363  numContigs=1
+itr with hit = 466
+Query name = XM_011334369.2 PREDICTED: Cerapachys biroi eukaryotic translation initiation factor 3 subunit D (LOC105276605), transcript variant X1, mRNA
+Query length = 1917
+E-value = 7.39541e-115
+=============================
+Hit_def (fasta name in db) = GAIZ01016147.1 TSA: Gryllus firmus Locus_921_Transcript_1/1_Confidence_1.000_Length_2349 transcribed RNA sequence
+itr with hit = 466
+Query name = XM_011334369.2 PREDICTED: Cerapachys biroi eukaryotic translation initiation factor 3 subunit D (LOC105276605), transcript variant X1, mRNA
+Query length = 1917
+E-value = 3.44075e-113
+=============================
+Hit_def (fasta name in db) = c192893_g1_i5 len=2323 path=[1:0-966 4114:967-967 969:968-1311 1313:1312-2219 2221:2220-2322]
+itr with hit = 466
+Query name = XM_011334369.2 PREDICTED: Cerapachys biroi eukaryotic translation initiation factor 3 subunit D (LOC105276605), transcript variant X1, mRNA
+Query length = 1917
+E-value = 7.44792e-110
+=============================
+Hit_def (fasta name in db) = c192893_g1_i1 len=1182 path=[1:0-966 4114:967-967 3038:968-1112 3182:1113-1113 3014:1114-1181]
+itr with hit = 466
+Query name = XM_011334369.2 PREDICTED: Cerapachys biroi eukaryotic translation initiation factor 3 subunit D (LOC105276605), transcript variant X1, mRNA
+Query length = 1917
+E-value = 6.35704e-41
+=============================
+Hit_def (fasta name in db) = GAIZ01017574.1 TSA: Gryllus firmus Locus_3775_Transcript_1/1_Confidence_1.000_Length_1347 transcribed RNA sequence
+itr with hit = 499
+Query name = XM_011268828.2 PREDICTED: Camponotus floridanus eukaryotic translation initiation factor 2 subunit 1 (LOC105257899), transcript variant X2, mRNA
+Query length = 1310
+E-value = 5.24839e-85
+=============================
+Hit_def (fasta name in db) = isotig09743  gene=isogroup05967  length=1930  numContigs=1
+itr with hit = 499
+Query name = XM_011268828.2 PREDICTED: Camponotus floridanus eukaryotic translation initiation factor 2 subunit 1 (LOC105257899), transcript variant X2, mRNA
+Query length = 1310
+E-value = 2.44184e-83
+=============================
+Hit_def (fasta name in db) = c188107_g1_i2 len=1548 path=[79:0-633 713:634-1547]
+itr with hit = 499
+Query name = XM_011268828.2 PREDICTED: Camponotus floridanus eukaryotic translation initiation factor 2 subunit 1 (LOC105257899), transcript variant X2, mRNA
+Query length = 1310
+E-value = 2.44184e-83
+=============================
+Hit_def (fasta name in db) = c188107_g1_i1 len=2633 path=[79:0-633 1621:634-1718 713:1719-2632]
+itr with hit = 499
+Query name = XM_011268828.2 PREDICTED: Camponotus floridanus eukaryotic translation initiation factor 2 subunit 1 (LOC105257899), transcript variant X2, mRNA
+Query length = 1310
+E-value = 2.44184e-83
+=============================
+Hit_def (fasta name in db) = c188107_g1_i2 len=1548 path=[79:0-633 713:634-1547]
+itr with hit = 500
+Query name = XM_011268827.2 PREDICTED: Camponotus floridanus eukaryotic translation initiation factor 2 subunit 1 (LOC105257899), transcript variant X1, mRNA
+Query length = 1376
+E-value = 8.60382e-133
+=============================
+Hit_def (fasta name in db) = GAIZ01017574.1 TSA: Gryllus firmus Locus_3775_Transcript_1/1_Confidence_1.000_Length_1347 transcribed RNA sequence
+itr with hit = 500
+Query name = XM_011268827.2 PREDICTED: Camponotus floridanus eukaryotic translation initiation factor 2 subunit 1 (LOC105257899), transcript variant X1, mRNA
+Query length = 1376
+E-value = 1.8624e-129
+=============================
+Hit_def (fasta name in db) = isotig09743  gene=isogroup05967  length=1930  numContigs=1
+itr with hit = 500
+Query name = XM_011268827.2 PREDICTED: Camponotus floridanus eukaryotic translation initiation factor 2 subunit 1 (LOC105257899), transcript variant X1, mRNA
+Query length = 1376
+E-value = 8.6649e-128
+=============================
+Hit_def (fasta name in db) = c188107_g1_i1 len=2633 path=[79:0-633 1621:634-1718 713:1719-2632]
+itr with hit = 500
+Query name = XM_011268827.2 PREDICTED: Camponotus floridanus eukaryotic translation initiation factor 2 subunit 1 (LOC105257899), transcript variant X1, mRNA
+Query length = 1376
+E-value = 4.26613e-86
+=============================
+Hit_def (fasta name in db) = GAIZ01018941.1 TSA: Gryllus firmus Locus_11894_Transcript_1/1_Confidence_1.000_Length_737 transcribed RNA sequence
+itr with hit = 697
+Query name = XM_008481203.1 PREDICTED: Diaphorina citri spectrin alpha chain-like (LOC103516243), partial mRNA
+Query length = 1047
+E-value = 3.56067e-16
+=============================
+Hit_def (fasta name in db) = GAIZ01016147.1 TSA: Gryllus firmus Locus_921_Transcript_1/1_Confidence_1.000_Length_2349 transcribed RNA sequence
+itr with hit = 715
+Query name = XM_017056059.1 PREDICTED: Apis cerana eukaryotic translation initiation factor 3 subunit D-like (LOC107997453), mRNA
+Query length = 2033
+E-value = 0
+=============================
+Hit_def (fasta name in db) = isotig09084  gene=isogroup05308  length=2363  numContigs=1
+itr with hit = 715
+Query name = XM_017056059.1 PREDICTED: Apis cerana eukaryotic translation initiation factor 3 subunit D-like (LOC107997453), mRNA
+Query length = 2033
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c192893_g1_i5 len=2323 path=[1:0-966 4114:967-967 969:968-1311 1313:1312-2219 2221:2220-2322]
+itr with hit = 715
+Query name = XM_017056059.1 PREDICTED: Apis cerana eukaryotic translation initiation factor 3 subunit D-like (LOC107997453), mRNA
+Query length = 2033
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c192893_g1_i6 len=1918 path=[3271:0-561 4114:562-562 969:563-906 1313:907-1814 2221:1815-1917]
+itr with hit = 715
+Query name = XM_017056059.1 PREDICTED: Apis cerana eukaryotic translation initiation factor 3 subunit D-like (LOC107997453), mRNA
+Query length = 2033
+E-value = 1.2769e-132
+=============================
+Hit_def (fasta name in db) = GAIZ01009757.1 TSA: Gryllus firmus Locus_32109_Transcript_1/1_Confidence_1.000_Length_259 transcribed RNA sequence
+itr with hit = 715
+Query name = XM_017056059.1 PREDICTED: Apis cerana eukaryotic translation initiation factor 3 subunit D-like (LOC107997453), mRNA
+Query length = 2033
+E-value = 1.97134e-06
+=============================
+Hit_def (fasta name in db) = GAIZ01016147.1 TSA: Gryllus firmus Locus_921_Transcript_1/1_Confidence_1.000_Length_2349 transcribed RNA sequence
+itr with hit = 779
+Query name = XM_006563695.2 PREDICTED: Apis mellifera eukaryotic translation initiation factor 3 subunit D (LOC409550), mRNA
+Query length = 1910
+E-value = 0
+=============================
+Hit_def (fasta name in db) = isotig09084  gene=isogroup05308  length=2363  numContigs=1
+itr with hit = 779
+Query name = XM_006563695.2 PREDICTED: Apis mellifera eukaryotic translation initiation factor 3 subunit D (LOC409550), mRNA
+Query length = 1910
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c192893_g1_i5 len=2323 path=[1:0-966 4114:967-967 969:968-1311 1313:1312-2219 2221:2220-2322]
+itr with hit = 779
+Query name = XM_006563695.2 PREDICTED: Apis mellifera eukaryotic translation initiation factor 3 subunit D (LOC409550), mRNA
+Query length = 1910
+E-value = 0
+=============================
+Hit_def (fasta name in db) = c192893_g1_i6 len=1918 path=[3271:0-561 4114:562-562 969:563-906 1313:907-1814 2221:1815-1917]
+itr with hit = 779
+Query name = XM_006563695.2 PREDICTED: Apis mellifera eukaryotic translation initiation factor 3 subunit D (LOC409550), mRNA
+Query length = 1910
+E-value = 2.5579e-139
+=============================
+Hit_def (fasta name in db) = c179468_g3_i1 len=2004 path=[1949:0-730 @2982@!:731-1635 914:1636-1637 916:1638-2003]
+itr with hit = 923
+Query name = GDHC01008306.1 TSA: Lygus hesperus c87355_g3_i1 transcribed RNA sequence
+Query length = 2702
+E-value = 2.6109e-11
+=============================
+Hit_def (fasta name in db) = c179468_g3_i1 len=2004 path=[1949:0-730 @2982@!:731-1635 914:1636-1637 916:1638-2003]
+itr with hit = 928
+Query name = GDHC01014561.1 TSA: Lygus hesperus c87355_g3_i3 transcribed RNA sequence
+Query length = 2601
+E-value = 2.51224e-11
+=============================
+Hit_def (fasta name in db) = c49322_g1_i1 len=208 path=[1:0-110 112:111-129 131:130-207]
+itr with hit = 954
+Query name = XM_015928062.1 PREDICTED: Tetranychus urticae eukaryotic translation initiation factor 5-like (LOC107361275), mRNA
+Query length = 2649
+E-value = 9.13937e-16
+=============================
+Hit_def (fasta name in db) = c220437_g1_i4 len=4980 path=[1:0-1529 9147:1530-1596 8144:1597-1609 @1598@!:1610-2578 2567:2579-2591 2580:2592-2832 9419:2833-2839 2831:2840-2849 2841:2850-3379 3371:3380-3527 3519:3528-3530 3522:3531-3554 3546:3555-3575 @3567@!:3576-4073 9706:4074-4075 9708:4076-4088 4080:4089-4089 4081:4090-4113 @9740@!:4114-4493 9995:4494-4609 10065:4610-4620 6276:4621-4621 4613:4622-4623 10080:4624-4624 4616:4625-4630 4622:4631-4645 4637:4646-4677 4669:4678-4678 4670:4679-4765 6146:4766-4770 6151:4771-4789 4781:4790-4979]
+itr with hit = 966
+Query name = XM_015749474.1 PREDICTED: Cephus cinctus eukaryotic translation initiation factor 5A (LOC107272375), transcript variant X2, mRNA
+Query length = 3200
+E-value = 5.98701e-88
+=============================
+Hit_def (fasta name in db) = c220437_g1_i3 len=6108 path=[1:0-1529 9147:1530-1596 @1598@!:1597-2565 2567:2566-2578 2580:2579-2819 9419:2820-2826 2831:2827-2836 2841:2837-3366 3371:3367-3514 3519:3515-3517 3522:3518-3541 3546:3542-3562 @3567@!:3563-4060 9706:4061-4062 9708:4063-4075 4080:4076-4076 4081:4077-4100 @9740@!:4101-4480 9995:4481-4596 4601:4597-4608 4613:4609-4610 10080:4611-4611 4616:4612-4617 4622:4618-4632 4637:4633-4664 8427:4665-4665 4670:4666-4752 10135:4753-4756 4761:4757-4776 4781:4777-4966 10230:4967-4970 4975:4971-4971 4976:4972-5035 10279:5036-5036 10280:5037-5171 5176:5172-5172 5177:5173-5203 5208:5204-5214 @5219@!:5215-5363 5368:5364-5367 5372:5368-5423 8096:5424-5448 5462:5449-5500 7732:5501-5512 5524:5513-5664 10618:5665-5761 5773:5762-5876 5888:5877-5881 5893:5882-5977 5992:5978-6107]
+itr with hit = 966
+Query name = XM_015749474.1 PREDICTED: Cephus cinctus eukaryotic translation initiation factor 5A (LOC107272375), transcript variant X2, mRNA
+Query length = 3200
+E-value = 5.98701e-88
+=============================
+Hit_def (fasta name in db) = c220437_g1_i2 len=5376 path=[1:0-1529 9147:1530-1596 @1598@!:1597-2565 2567:2566-2578 2580:2579-2819 9419:2820-2826 2831:2827-2836 2841:2837-3366 3371:3367-3514 3519:3515-3517 8256:3518-3541 3546:3542-3562 @3567@!:3563-4060 9706:4061-4062 9708:4063-4075 4080:4076-4076 4081:4077-4100 @9740@!:4101-4480 9995:4481-4596 4601:4597-4608 4613:4609-4610 10080:4611-4611 4616:4612-4617 4622:4618-4632 4637:4633-4664 8427:4665-4665 4670:4666-4752 10135:4753-4756 4761:4757-4776 4781:4777-4966 10230:4967-4970 4975:4971-4971 4976:4972-5035 10279:5036-5036 10280:5037-5171 5176:5172-5172 5177:5173-5203 6552:5204-5226 @5219@!:5227-5375]
+itr with hit = 966
+Query name = XM_015749474.1 PREDICTED: Cephus cinctus eukaryotic translation initiation factor 5A (LOC107272375), transcript variant X2, mRNA
+Query length = 3200
+E-value = 5.98701e-88
+=============================
+Hit_def (fasta name in db) = c220437_g1_i1 len=5672 path=[1:0-1529 9147:1530-1596 @1598@!:1597-2565 2567:2566-2578 2580:2579-2819 9419:2820-2826 2831:2827-2836 2841:2837-3366 3371:3367-3514 3519:3515-3517 8256:3518-3541 3546:3542-3562 @3567@!:3563-4060 9706:4061-4062 9708:4063-4075 4080:4076-4076 4081:4077-4100 @9740@!:4101-4480 9995:4481-4596 4601:4597-4608 4613:4609-4610 10080:4611-4611 4616:4612-4617 4622:4618-4632 4637:4633-4664 8427:4665-4665 4670:4666-4752 10135:4753-4756 4761:4757-4776 4781:4777-4966 10230:4967-4970 4975:4971-4971 4976:4972-5035 10279:5036-5036 10280:5037-5171 5176:5172-5172 5177:5173-5203 5208:5204-5214 @5219@!:5215-5363 5368:5364-5367 5372:5368-5423 5428:5424-5456 5461:5457-5457 5462:5458-5509 5514:5510-5519 5524:5520-5671]
+itr with hit = 966
+Query name = XM_015749474.1 PREDICTED: Cephus cinctus eukaryotic translation initiation factor 5A (LOC107272375), transcript variant X2, mRNA
+Query length = 3200
+E-value = 5.98701e-88
+=============================
+Hit_def (fasta name in db) = GAIZ01016930.1 TSA: Gryllus firmus Locus_2178_Transcript_1/2_Confidence_0.750_Length_3625 transcribed RNA sequence
+itr with hit = 966
+Query name = XM_015749474.1 PREDICTED: Cephus cinctus eukaryotic translation initiation factor 5A (LOC107272375), transcript variant X2, mRNA
+Query length = 3200
+E-value = 5.98701e-88
+=============================
+Hit_def (fasta name in db) = isotig14579  gene=isogroup10803  length=761  numContigs=1
+itr with hit = 966
+Query name = XM_015749474.1 PREDICTED: Cephus cinctus eukaryotic translation initiation factor 5A (LOC107272375), transcript variant X2, mRNA
+Query length = 3200
+E-value = 2.1995e-72
+=============================
+Hit_def (fasta name in db) = isotig19548  gene=isogroup15772  length=376  numContigs=1
+itr with hit = 966
+Query name = XM_015749474.1 PREDICTED: Cephus cinctus eukaryotic translation initiation factor 5A (LOC107272375), transcript variant X2, mRNA
+Query length = 3200
+E-value = 4.79488e-64
+=============================
+Hit_def (fasta name in db) = GFJY65E01C6LE3 length=249
+itr with hit = 966
+Query name = XM_015749474.1 PREDICTED: Cephus cinctus eukaryotic translation initiation factor 5A (LOC107272375), transcript variant X2, mRNA
+Query length = 3200
+E-value = 5.1101e-19
+=============================
+Hit_def (fasta name in db) = GFJY65E02G7YYU length=250
+itr with hit = 966
+Query name = XM_015749474.1 PREDICTED: Cephus cinctus eukaryotic translation initiation factor 5A (LOC107272375), transcript variant X2, mRNA
+Query length = 3200
+E-value = 8.55101e-17
+=============================
+Hit_def (fasta name in db) = c220437_g1_i4 len=4980 path=[1:0-1529 9147:1530-1596 8144:1597-1609 @1598@!:1610-2578 2567:2579-2591 2580:2592-2832 9419:2833-2839 2831:2840-2849 2841:2850-3379 3371:3380-3527 3519:3528-3530 3522:3531-3554 3546:3555-3575 @3567@!:3576-4073 9706:4074-4075 9708:4076-4088 4080:4089-4089 4081:4090-4113 @9740@!:4114-4493 9995:4494-4609 10065:4610-4620 6276:4621-4621 4613:4622-4623 10080:4624-4624 4616:4625-4630 4622:4631-4645 4637:4646-4677 4669:4678-4678 4670:4679-4765 6146:4766-4770 6151:4771-4789 4781:4790-4979]
+itr with hit = 967
+Query name = XM_015749473.1 PREDICTED: Cephus cinctus eukaryotic translation initiation factor 5A (LOC107272375), transcript variant X1, mRNA
+Query length = 3238
+E-value = 6.05875e-88
+=============================
+Hit_def (fasta name in db) = c220437_g1_i3 len=6108 path=[1:0-1529 9147:1530-1596 @1598@!:1597-2565 2567:2566-2578 2580:2579-2819 9419:2820-2826 2831:2827-2836 2841:2837-3366 3371:3367-3514 3519:3515-3517 3522:3518-3541 3546:3542-3562 @3567@!:3563-4060 9706:4061-4062 9708:4063-4075 4080:4076-4076 4081:4077-4100 @9740@!:4101-4480 9995:4481-4596 4601:4597-4608 4613:4609-4610 10080:4611-4611 4616:4612-4617 4622:4618-4632 4637:4633-4664 8427:4665-4665 4670:4666-4752 10135:4753-4756 4761:4757-4776 4781:4777-4966 10230:4967-4970 4975:4971-4971 4976:4972-5035 10279:5036-5036 10280:5037-5171 5176:5172-5172 5177:5173-5203 5208:5204-5214 @5219@!:5215-5363 5368:5364-5367 5372:5368-5423 8096:5424-5448 5462:5449-5500 7732:5501-5512 5524:5513-5664 10618:5665-5761 5773:5762-5876 5888:5877-5881 5893:5882-5977 5992:5978-6107]
+itr with hit = 967
+Query name = XM_015749473.1 PREDICTED: Cephus cinctus eukaryotic translation initiation factor 5A (LOC107272375), transcript variant X1, mRNA
+Query length = 3238
+E-value = 6.05875e-88
+=============================
+Hit_def (fasta name in db) = c220437_g1_i2 len=5376 path=[1:0-1529 9147:1530-1596 @1598@!:1597-2565 2567:2566-2578 2580:2579-2819 9419:2820-2826 2831:2827-2836 2841:2837-3366 3371:3367-3514 3519:3515-3517 8256:3518-3541 3546:3542-3562 @3567@!:3563-4060 9706:4061-4062 9708:4063-4075 4080:4076-4076 4081:4077-4100 @9740@!:4101-4480 9995:4481-4596 4601:4597-4608 4613:4609-4610 10080:4611-4611 4616:4612-4617 4622:4618-4632 4637:4633-4664 8427:4665-4665 4670:4666-4752 10135:4753-4756 4761:4757-4776 4781:4777-4966 10230:4967-4970 4975:4971-4971 4976:4972-5035 10279:5036-5036 10280:5037-5171 5176:5172-5172 5177:5173-5203 6552:5204-5226 @5219@!:5227-5375]
+itr with hit = 967
+Query name = XM_015749473.1 PREDICTED: Cephus cinctus eukaryotic translation initiation factor 5A (LOC107272375), transcript variant X1, mRNA
+Query length = 3238
+E-value = 6.05875e-88
+=============================
+Hit_def (fasta name in db) = c220437_g1_i1 len=5672 path=[1:0-1529 9147:1530-1596 @1598@!:1597-2565 2567:2566-2578 2580:2579-2819 9419:2820-2826 2831:2827-2836 2841:2837-3366 3371:3367-3514 3519:3515-3517 8256:3518-3541 3546:3542-3562 @3567@!:3563-4060 9706:4061-4062 9708:4063-4075 4080:4076-4076 4081:4077-4100 @9740@!:4101-4480 9995:4481-4596 4601:4597-4608 4613:4609-4610 10080:4611-4611 4616:4612-4617 4622:4618-4632 4637:4633-4664 8427:4665-4665 4670:4666-4752 10135:4753-4756 4761:4757-4776 4781:4777-4966 10230:4967-4970 4975:4971-4971 4976:4972-5035 10279:5036-5036 10280:5037-5171 5176:5172-5172 5177:5173-5203 5208:5204-5214 @5219@!:5215-5363 5368:5364-5367 5372:5368-5423 5428:5424-5456 5461:5457-5457 5462:5458-5509 5514:5510-5519 5524:5520-5671]
+itr with hit = 967
+Query name = XM_015749473.1 PREDICTED: Cephus cinctus eukaryotic translation initiation factor 5A (LOC107272375), transcript variant X1, mRNA
+Query length = 3238
+E-value = 6.05875e-88
+=============================
+Hit_def (fasta name in db) = GAIZ01016930.1 TSA: Gryllus firmus Locus_2178_Transcript_1/2_Confidence_0.750_Length_3625 transcribed RNA sequence
+itr with hit = 967
+Query name = XM_015749473.1 PREDICTED: Cephus cinctus eukaryotic translation initiation factor 5A (LOC107272375), transcript variant X1, mRNA
+Query length = 3238
+E-value = 6.05875e-88
+=============================
+Hit_def (fasta name in db) = isotig14579  gene=isogroup10803  length=761  numContigs=1
+itr with hit = 967
+Query name = XM_015749473.1 PREDICTED: Cephus cinctus eukaryotic translation initiation factor 5A (LOC107272375), transcript variant X1, mRNA
+Query length = 3238
+E-value = 2.22586e-72
+=============================
+Hit_def (fasta name in db) = isotig19548  gene=isogroup15772  length=376  numContigs=1
+itr with hit = 967
+Query name = XM_015749473.1 PREDICTED: Cephus cinctus eukaryotic translation initiation factor 5A (LOC107272375), transcript variant X1, mRNA
+Query length = 3238
+E-value = 4.85234e-64
+=============================
+Hit_def (fasta name in db) = GFJY65E01C6LE3 length=249
+itr with hit = 967
+Query name = XM_015749473.1 PREDICTED: Cephus cinctus eukaryotic translation initiation factor 5A (LOC107272375), transcript variant X1, mRNA
+Query length = 3238
+E-value = 5.17134e-19
+=============================
+Hit_def (fasta name in db) = GFJY65E02G7YYU length=250
+itr with hit = 967
+Query name = XM_015749473.1 PREDICTED: Cephus cinctus eukaryotic translation initiation factor 5A (LOC107272375), transcript variant X1, mRNA
+Query length = 3238
+E-value = 8.65348e-17
+=============================

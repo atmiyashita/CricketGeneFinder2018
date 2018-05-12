@@ -1,0 +1,876 @@
+Hit_def (fasta name in db) = c216116_g2_i2 len=899 path=[7274:0-6 7281:7-18 1983:19-138 7544:139-139 2486:140-238 @3322@!:239-772 1356:773-898]
+itr with hit = 20
+Query name = KY080991.1 Archaeoprepona demophon voucher LEP11380 glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 523
+E-value = 1.25044e-67
+=============================
+Hit_def (fasta name in db) = c216116_g2_i1 len=910 path=[3072:0-249 @3322@!:250-783 1356:784-909]
+itr with hit = 20
+Query name = KY080991.1 Archaeoprepona demophon voucher LEP11380 glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 523
+E-value = 1.25044e-67
+=============================
+Hit_def (fasta name in db) = isotig15802  gene=isogroup12026  length=673  numContigs=1
+itr with hit = 20
+Query name = KY080991.1 Archaeoprepona demophon voucher LEP11380 glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 523
+E-value = 5.81773e-66
+=============================
+Hit_def (fasta name in db) = contig12545  gene=isogroup00156  length=813  
+itr with hit = 20
+Query name = KY080991.1 Archaeoprepona demophon voucher LEP11380 glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 523
+E-value = 5.81773e-66
+=============================
+Hit_def (fasta name in db) = c214343_g1_i1 len=590 path=[2797:0-586 4388:587-589]
+itr with hit = 81
+Query name = KX950303.1 Loxaspilates fixseni voucher 16307 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 4.89057e-33
+=============================
+Hit_def (fasta name in db) = c184663_g2_i1 len=536 path=[339:0-192 532:193-263 1031:264-291 1059:292-386 583:387-429 626:430-535]
+itr with hit = 84
+Query name = KX950300.1 Semiothisa sp. NJ-2017 voucher 16070 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 4.82186e-43
+=============================
+Hit_def (fasta name in db) = c214343_g1_i1 len=590 path=[2797:0-586 4388:587-589]
+itr with hit = 87
+Query name = KX950297.1 Hirasa scripturaria voucher 14497 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 2.27536e-31
+=============================
+Hit_def (fasta name in db) = c214343_g1_i1 len=590 path=[2797:0-586 4388:587-589]
+itr with hit = 90
+Query name = KX950294.1 Arichanna sinica voucher 14444 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 2.29151e-26
+=============================
+Hit_def (fasta name in db) = c188855_g1_i1 len=1389 path=[77:0-1388]
+itr with hit = 92
+Query name = KX950292.1 Xenoplia foraria voucher 14213 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 672
+E-value = 1.04298e-19
+=============================
+Hit_def (fasta name in db) = c29610_g1_i1 len=641 path=[1:0-640]
+itr with hit = 92
+Query name = KX950292.1 Xenoplia foraria voucher 14213 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 672
+E-value = 6.36659e-07
+=============================
+Hit_def (fasta name in db) = c214343_g1_i1 len=590 path=[2797:0-586 4388:587-589]
+itr with hit = 93
+Query name = KX950291.1 Arichanna tientsuena voucher 14023 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 4.92529e-28
+=============================
+Hit_def (fasta name in db) = c214343_g1_i1 len=590 path=[2797:0-586 4388:587-589]
+itr with hit = 94
+Query name = KX950290.1 Monocerotesa sp. NJ-2017 voucher 13856 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 1.06614e-24
+=============================
+Hit_def (fasta name in db) = c214343_g1_i1 len=590 path=[2797:0-586 4388:587-589]
+itr with hit = 99
+Query name = KX950285.1 Lassaba contaminata voucher 13524 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 1.38893e-18
+=============================
+Hit_def (fasta name in db) = c214343_g1_i1 len=590 path=[2797:0-586 4388:587-589]
+itr with hit = 101
+Query name = KX950283.1 Monocerotesa abraxides voucher 12898 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 2.27536e-31
+=============================
+Hit_def (fasta name in db) = c214343_g1_i1 len=590 path=[2797:0-586 4388:587-589]
+itr with hit = 102
+Query name = KX950282.1 Milionia basalis voucher 11835 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 2.27536e-31
+=============================
+Hit_def (fasta name in db) = c184663_g2_i2 len=683 path=[627:0-140 767:141-148 338:149-339 532:340-410 1031:411-438 1059:439-533 1153:534-576 626:577-682]
+itr with hit = 104
+Query name = KX950280.1 Pogonopygia nigralbata voucher 11681 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 4.52442e-88
+=============================
+Hit_def (fasta name in db) = c214343_g1_i1 len=590 path=[2797:0-586 4388:587-589]
+itr with hit = 108
+Query name = KX950276.1 Calicha nooraria voucher 11203 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 2.27536e-31
+=============================
+Hit_def (fasta name in db) = c184663_g2_i2 len=683 path=[627:0-140 767:141-148 338:149-339 532:340-410 1031:411-438 1059:439-533 1153:534-576 626:577-682]
+itr with hit = 111
+Query name = KX950273.1 Racotis boarmiaria voucher 10858 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 2.15016e-71
+=============================
+Hit_def (fasta name in db) = c188855_g1_i1 len=1389 path=[77:0-1388]
+itr with hit = 114
+Query name = KX950270.1 Ectropis sp. NJ-2017 voucher 10821 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 8.47831e-06
+=============================
+Hit_def (fasta name in db) = c214343_g1_i1 len=590 path=[2797:0-586 4388:587-589]
+itr with hit = 118
+Query name = KX950266.1 Coremecis leukohyperythra voucher 10549 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 1.36941e-28
+=============================
+Hit_def (fasta name in db) = c29610_g1_i1 len=641 path=[1:0-640]
+itr with hit = 120
+Query name = KX950264.1 Krananda lucidaria voucher 10531 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 8.47831e-06
+=============================
+Hit_def (fasta name in db) = c214343_g1_i1 len=590 path=[2797:0-586 4388:587-589]
+itr with hit = 121
+Query name = KX950263.1 Xandrames latiferaria voucher 10529 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 2.27536e-31
+=============================
+Hit_def (fasta name in db) = c214343_g1_i1 len=590 path=[2797:0-586 4388:587-589]
+itr with hit = 127
+Query name = KX950257.1 Lassaba albidaria voucher 10133 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 2.98531e-20
+=============================
+Hit_def (fasta name in db) = c214343_g1_i1 len=590 path=[2797:0-586 4388:587-589]
+itr with hit = 128
+Query name = KX950256.1 Percnia fumidaria voucher 10127 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 1.08133e-14
+=============================
+Hit_def (fasta name in db) = c214343_g1_i1 len=590 path=[2797:0-586 4388:587-589]
+itr with hit = 129
+Query name = KX950255.1 Ectropis excellens voucher 10120 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 4.89057e-33
+=============================
+Hit_def (fasta name in db) = c214343_g1_i1 len=590 path=[2797:0-586 4388:587-589]
+itr with hit = 131
+Query name = KX950253.1 Coremecis nigrovittata voucher 10062 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 1.36941e-28
+=============================
+Hit_def (fasta name in db) = c29610_g1_i1 len=641 path=[1:0-640]
+itr with hit = 136
+Query name = KX950248.1 Lophobates yazakii voucher 10010 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 1.07371e-19
+=============================
+Hit_def (fasta name in db) = c29610_g1_i1 len=641 path=[1:0-640]
+itr with hit = 137
+Query name = KX950247.1 Biston panterinaria voucher 10001 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 3.88915e-14
+=============================
+Hit_def (fasta name in db) = c214343_g1_i1 len=590 path=[2797:0-586 4388:587-589]
+itr with hit = 139
+Query name = KX950245.1 Erebomorpha fulguraria voucher 09879 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 1.06614e-24
+=============================
+Hit_def (fasta name in db) = c214343_g1_i1 len=590 path=[2797:0-586 4388:587-589]
+itr with hit = 141
+Query name = KX950243.1 Apocheima cinerarius voucher 07923 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 1.05862e-29
+=============================
+Hit_def (fasta name in db) = c184663_g2_i2 len=683 path=[627:0-140 767:141-148 338:149-339 532:340-410 1031:411-438 1059:439-533 1153:534-576 626:577-682]
+itr with hit = 142
+Query name = KX950242.1 Cleora fraterna voucher 07157 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 3.54743e-79
+=============================
+Hit_def (fasta name in db) = c216116_g2_i2 len=899 path=[7274:0-6 7281:7-18 1983:19-138 7544:139-139 2486:140-238 @3322@!:239-772 1356:773-898]
+itr with hit = 147
+Query name = KX950237.1 Amraica asahinai voucher 05807 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 1.69783e-57
+=============================
+Hit_def (fasta name in db) = c216116_g2_i1 len=910 path=[3072:0-249 @3322@!:250-783 1356:784-909]
+itr with hit = 147
+Query name = KX950237.1 Amraica asahinai voucher 05807 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 1.69783e-57
+=============================
+Hit_def (fasta name in db) = contig12545  gene=isogroup00156  length=813  
+itr with hit = 147
+Query name = KX950237.1 Amraica asahinai voucher 05807 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 1.02183e-54
+=============================
+Hit_def (fasta name in db) = isotig15802  gene=isogroup12026  length=673  numContigs=1
+itr with hit = 147
+Query name = KX950237.1 Amraica asahinai voucher 05807 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 4.75411e-53
+=============================
+Hit_def (fasta name in db) = c216116_g2_i2 len=899 path=[7274:0-6 7281:7-18 1983:19-138 7544:139-139 2486:140-238 @3322@!:239-772 1356:773-898]
+itr with hit = 150
+Query name = KX950234.1 Hyposidra infixaria voucher 02461 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 7.95532e-51
+=============================
+Hit_def (fasta name in db) = c216116_g2_i1 len=910 path=[3072:0-249 @3322@!:250-783 1356:784-909]
+itr with hit = 150
+Query name = KX950234.1 Hyposidra infixaria voucher 02461 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 7.95532e-51
+=============================
+Hit_def (fasta name in db) = c185393_g2_i1 len=451 path=[698:0-152 848:153-159 104:160-206 19:207-230 924:231-233 46:234-450]
+itr with hit = 157
+Query name = KX950227.1 Hypomecis catharma voucher 01219 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 8.35919e-16
+=============================
+Hit_def (fasta name in db) = c214343_g1_i1 len=590 path=[2797:0-586 4388:587-589]
+itr with hit = 161
+Query name = KX950223.1 Blepharoctenucha virescens voucher 00655 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 2.29151e-26
+=============================
+Hit_def (fasta name in db) = c214343_g1_i1 len=590 path=[2797:0-586 4388:587-589]
+itr with hit = 162
+Query name = KX950222.1 Chorodna fulgurita voucher 00625 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 2.27536e-31
+=============================
+Hit_def (fasta name in db) = c214343_g1_i1 len=590 path=[2797:0-586 4388:587-589]
+itr with hit = 164
+Query name = KX950220.1 Alcis decussata voucher 00563 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 2.25932e-36
+=============================
+Hit_def (fasta name in db) = c214343_g1_i1 len=590 path=[2797:0-586 4388:587-589]
+itr with hit = 165
+Query name = KX950219.1 Chorodna mauraria voucher 00526 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 4.92529e-28
+=============================
+Hit_def (fasta name in db) = c214343_g1_i1 len=590 path=[2797:0-586 4388:587-589]
+itr with hit = 167
+Query name = KX950217.1 Gasterocome pannosaria voucher 00334 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 2.94336e-30
+=============================
+Hit_def (fasta name in db) = isotig15802  gene=isogroup12026  length=673  numContigs=1
+itr with hit = 238
+Query name = MF555293.1 Meza meza voucher VSR_ABRI_hsp_25 GAPDH (GAPDH) gene, partial cds
+Query length = 638
+E-value = 9.53667e-45
+=============================
+Hit_def (fasta name in db) = contig12545  gene=isogroup00156  length=813  
+itr with hit = 238
+Query name = MF555293.1 Meza meza voucher VSR_ABRI_hsp_25 GAPDH (GAPDH) gene, partial cds
+Query length = 638
+E-value = 9.53667e-45
+=============================
+Hit_def (fasta name in db) = c216116_g2_i2 len=899 path=[7274:0-6 7281:7-18 1983:19-138 7544:139-139 2486:140-238 @3322@!:239-772 1356:773-898]
+itr with hit = 238
+Query name = MF555293.1 Meza meza voucher VSR_ABRI_hsp_25 GAPDH (GAPDH) gene, partial cds
+Query length = 638
+E-value = 9.53667e-45
+=============================
+Hit_def (fasta name in db) = c216116_g2_i1 len=910 path=[3072:0-249 @3322@!:250-783 1356:784-909]
+itr with hit = 238
+Query name = MF555293.1 Meza meza voucher VSR_ABRI_hsp_25 GAPDH (GAPDH) gene, partial cds
+Query length = 638
+E-value = 9.53667e-45
+=============================
+Hit_def (fasta name in db) = c214343_g2_i3 len=1137 path=[1:0-150 3812:151-170 3832:171-174 3836:175-188 190:189-201 3856:202-218 3407:219-219 2595:220-278 2650:279-300 3944:301-329 331:330-330 332:331-333 335:334-395 3996:396-402 4003:403-413 4074:414-414 4015:415-426 4027:427-428 4029:429-441 4042:442-470 472:471-501 503:502-507 4105:508-572 574:573-591 593:592-629 2304:630-639 641:640-643 4574:644-677 4221:678-681 4225:682-720 4256:721-734 1806:735-759 4285:760-765 4291:766-783 1855:784-798 4315:799-815 817:816-845 2259:846-846 848:847-885 4388:886-888 4391:889-896 1916:897-960 4431:961-986 4457:987-990 4461:991-998 4469:999-1004 1188:1005-1049 4504:1050-1052 1054:1053-1055 1057:1056-1072 4537:1073-1085 4612:1086-1096 4562:1097-1107 1109:1108-1136]
+itr with hit = 241
+Query name = MF555290.1 Fresna nyassae voucher VSR_ABRI_hsp_21 GAPDH (GAPDH) gene, partial cds
+Query length = 565
+E-value = 3.15115e-14
+=============================
+Hit_def (fasta name in db) = c214343_g2_i3 len=1137 path=[1:0-150 3812:151-170 3832:171-174 3836:175-188 190:189-201 3856:202-218 3407:219-219 2595:220-278 2650:279-300 3944:301-329 331:330-330 332:331-333 335:334-395 3996:396-402 4003:403-413 4074:414-414 4015:415-426 4027:427-428 4029:429-441 4042:442-470 472:471-501 503:502-507 4105:508-572 574:573-591 593:592-629 2304:630-639 641:640-643 4574:644-677 4221:678-681 4225:682-720 4256:721-734 1806:735-759 4285:760-765 4291:766-783 1855:784-798 4315:799-815 817:816-845 2259:846-846 848:847-885 4388:886-888 4391:889-896 1916:897-960 4431:961-986 4457:987-990 4461:991-998 4469:999-1004 1188:1005-1049 4504:1050-1052 1054:1053-1055 1057:1056-1072 4537:1073-1085 4612:1086-1096 4562:1097-1107 1109:1108-1136]
+itr with hit = 249
+Query name = MF555282.1 Fresna nyassae voucher VSR_ABRI_hsp_13 GAPDH (GAPDH) gene, partial cds
+Query length = 565
+E-value = 3.15115e-14
+=============================
+Hit_def (fasta name in db) = c4674_g1_i1 len=256 path=[1:0-173 175:174-195 197:196-255]
+itr with hit = 258
+Query name = KY558637.1 Liriomyza trifolii glyceraldehyde-3-phosphate dehydrogenase (gapdh) gene, partial cds
+Query length = 996
+E-value = 1.58488e-09
+=============================
+Hit_def (fasta name in db) = c29610_g1_i1 len=641 path=[1:0-640]
+itr with hit = 317
+Query name = KX930081.1 Bicyclus funebris voucher SZS-KW-003 glyceraldehyde 3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 2.32417e-16
+=============================
+Hit_def (fasta name in db) = c184663_g2_i2 len=683 path=[627:0-140 767:141-148 338:149-339 532:340-410 1031:411-438 1059:439-533 1153:534-576 626:577-682]
+itr with hit = 474
+Query name = KY848293.1 Operophtera bruceata voucher E. Ounap 1138 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 679
+E-value = 7.48691e-81
+=============================
+Hit_def (fasta name in db) = c214343_g1_i1 len=590 path=[2797:0-586 4388:587-589]
+itr with hit = 476
+Query name = KT991373.1 Ectropis obliqua putative glyceraldehyde-3-phosphate dehydrogenase (GAPDH) mRNA, complete cds
+Query length = 999
+E-value = 1.54543e-29
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 482
+Query name = KR476355.1 Steromapedaliodes albarregas albarregas voucher 50G glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 704
+E-value = 2.08634e-106
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 483
+Query name = KR476354.1 Steromapedaliodes albonotata ssp. 3 TP-2013 voucher 28G glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 704
+E-value = 9.63835e-110
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 484
+Query name = KR476353.1 Steromapedaliodes albonotata ssp. 4 TP-2013 voucher 26G glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 704
+E-value = 4.48429e-108
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 485
+Query name = KR476352.1 Steromapedaliodes schuberti voucher 16G glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 704
+E-value = 2.08634e-106
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 486
+Query name = KR476351.1 Steromapedaliodes albonotata ssp. 2 TP-2013 voucher 14G glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 704
+E-value = 9.70678e-105
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 487
+Query name = KR476350.1 Redonda sp. 1 TP-2013 voucher 46G glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 704
+E-value = 2.08634e-106
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 489
+Query name = KR476348.1 Redonda sp. 3 ssp. 3 TP-2013 voucher Lag. Mucubaji glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 704
+E-value = 2.08634e-106
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 490
+Query name = KR476347.1 Redonda sp. 3 ssp. 1 TP-2013 voucher 4G glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 704
+E-value = 2.08634e-106
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 491
+Query name = KR476346.1 Redonda sp. 1 TP-2013 voucher 6G glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 704
+E-value = 9.70678e-105
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 492
+Query name = KR476345.1 Redonda bordoni voucher 12G glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 704
+E-value = 2.08634e-106
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 493
+Query name = KR476344.1 Redonda bordoni voucher 7G glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 704
+E-value = 2.08634e-106
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 494
+Query name = KR476343.1 Redonda sp. 2 TP-2013 voucher 58G glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 704
+E-value = 9.70678e-105
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 495
+Query name = KR476342.1 Redonda sp. 2 TP-2013 voucher 57G glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 704
+E-value = 4.51612e-103
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 496
+Query name = KR476341.1 Redonda sp. 2 TP-2013 voucher 56G glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 704
+E-value = 9.70678e-105
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 497
+Query name = KR476340.1 Redonda empetrus ssp. 1 TP-2013 voucher 38G glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 704
+E-value = 9.70678e-105
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 498
+Query name = KR476339.1 Redonda empetrus bolivari voucher 45G glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 704
+E-value = 2.08634e-106
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 499
+Query name = KR476338.1 Redonda empetrus empetrus voucher 10G glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 651
+E-value = 3.26372e-94
+=============================
+Hit_def (fasta name in db) = c214343_g2_i3 len=1137 path=[1:0-150 3812:151-170 3832:171-174 3836:175-188 190:189-201 3856:202-218 3407:219-219 2595:220-278 2650:279-300 3944:301-329 331:330-330 332:331-333 335:334-395 3996:396-402 4003:403-413 4074:414-414 4015:415-426 4027:427-428 4029:429-441 4042:442-470 472:471-501 503:502-507 4105:508-572 574:573-591 593:592-629 2304:630-639 641:640-643 4574:644-677 4221:678-681 4225:682-720 4256:721-734 1806:735-759 4285:760-765 4291:766-783 1855:784-798 4315:799-815 817:816-845 2259:846-846 848:847-885 4388:886-888 4391:889-896 1916:897-960 4431:961-986 4457:987-990 4461:991-998 4469:999-1004 1188:1005-1049 4504:1050-1052 1054:1053-1055 1057:1056-1072 4537:1073-1085 4612:1086-1096 4562:1097-1107 1109:1108-1136]
+itr with hit = 506
+Query name = NM_001038847.2 Drosophila melanogaster glyceraldehyde 3 phosphate dehydrogenase 1, transcript variant B (Gapdh1), mRNA
+Query length = 1330
+E-value = 4.32974e-51
+=============================
+Hit_def (fasta name in db) = c214343_g2_i3 len=1137 path=[1:0-150 3812:151-170 3832:171-174 3836:175-188 190:189-201 3856:202-218 3407:219-219 2595:220-278 2650:279-300 3944:301-329 331:330-330 332:331-333 335:334-395 3996:396-402 4003:403-413 4074:414-414 4015:415-426 4027:427-428 4029:429-441 4042:442-470 472:471-501 503:502-507 4105:508-572 574:573-591 593:592-629 2304:630-639 641:640-643 4574:644-677 4221:678-681 4225:682-720 4256:721-734 1806:735-759 4285:760-765 4291:766-783 1855:784-798 4315:799-815 817:816-845 2259:846-846 848:847-885 4388:886-888 4391:889-896 1916:897-960 4431:961-986 4457:987-990 4461:991-998 4469:999-1004 1188:1005-1049 4504:1050-1052 1054:1053-1055 1057:1056-1072 4537:1073-1085 4612:1086-1096 4562:1097-1107 1109:1108-1136]
+itr with hit = 507
+Query name = NM_080369.3 Drosophila melanogaster glyceraldehyde 3 phosphate dehydrogenase 1, transcript variant A (Gapdh1), mRNA
+Query length = 1480
+E-value = 4.82856e-51
+=============================
+Hit_def (fasta name in db) = c216116_g2_i2 len=899 path=[7274:0-6 7281:7-18 1983:19-138 7544:139-139 2486:140-238 @3322@!:239-772 1356:773-898]
+itr with hit = 576
+Query name = KX300578.1 Evius hippia voucher MZ125 glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 477
+E-value = 2.4557e-64
+=============================
+Hit_def (fasta name in db) = c216116_g2_i1 len=910 path=[3072:0-249 @3322@!:250-783 1356:784-909]
+itr with hit = 576
+Query name = KX300578.1 Evius hippia voucher MZ125 glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 477
+E-value = 2.4557e-64
+=============================
+Hit_def (fasta name in db) = contig12545  gene=isogroup00156  length=813  
+itr with hit = 714
+Query name = EU141511.1 Anartia amathea voucher NW68-5 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 9.86317e-80
+=============================
+Hit_def (fasta name in db) = isotig15802  gene=isogroup12026  length=673  numContigs=1
+itr with hit = 714
+Query name = EU141511.1 Anartia amathea voucher NW68-5 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 4.58889e-78
+=============================
+Hit_def (fasta name in db) = c216116_g2_i2 len=899 path=[7274:0-6 7281:7-18 1983:19-138 7544:139-139 2486:140-238 @3322@!:239-772 1356:773-898]
+itr with hit = 714
+Query name = EU141511.1 Anartia amathea voucher NW68-5 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 1.65046e-77
+=============================
+Hit_def (fasta name in db) = c216116_g2_i1 len=910 path=[3072:0-249 @3322@!:250-783 1356:784-909]
+itr with hit = 714
+Query name = EU141511.1 Anartia amathea voucher NW68-5 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 1.65046e-77
+=============================
+Hit_def (fasta name in db) = c29610_g1_i1 len=641 path=[1:0-640]
+itr with hit = 714
+Query name = EU141511.1 Anartia amathea voucher NW68-5 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 1.06614e-24
+=============================
+Hit_def (fasta name in db) = c29610_g1_i1 len=641 path=[1:0-640]
+itr with hit = 740
+Query name = EU141485.1 Archiearis parthenias voucher NW107-1 glyceraldehyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 691
+E-value = 3.88915e-14
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 761
+Query name = KY027714.1 Viola minor voucher 342ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 660
+E-value = 5.65896e-77
+=============================
+Hit_def (fasta name in db) = contig12545  gene=isogroup00156  length=813  
+itr with hit = 767
+Query name = KY027708.1 Urbanus simplicius voucher 59ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 671
+E-value = 7.50042e-71
+=============================
+Hit_def (fasta name in db) = c216116_g2_i2 len=899 path=[7274:0-6 7281:7-18 1983:19-138 7544:139-139 2486:140-238 @3322@!:239-772 1356:773-898]
+itr with hit = 767
+Query name = KY027708.1 Urbanus simplicius voucher 59ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 671
+E-value = 7.50042e-71
+=============================
+Hit_def (fasta name in db) = c216116_g2_i1 len=910 path=[3072:0-249 @3322@!:250-783 1356:784-909]
+itr with hit = 767
+Query name = KY027708.1 Urbanus simplicius voucher 59ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 671
+E-value = 7.50042e-71
+=============================
+Hit_def (fasta name in db) = isotig15802  gene=isogroup12026  length=673  numContigs=1
+itr with hit = 767
+Query name = KY027708.1 Urbanus simplicius voucher 59ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 671
+E-value = 3.4896e-69
+=============================
+Hit_def (fasta name in db) = c216116_g2_i2 len=899 path=[7274:0-6 7281:7-18 1983:19-138 7544:139-139 2486:140-238 @3322@!:239-772 1356:773-898]
+itr with hit = 768
+Query name = KY027707.1 Urbanus dorantes voucher AW280 glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 644
+E-value = 7.23698e-66
+=============================
+Hit_def (fasta name in db) = c216116_g2_i1 len=910 path=[3072:0-249 @3322@!:250-783 1356:784-909]
+itr with hit = 768
+Query name = KY027707.1 Urbanus dorantes voucher AW280 glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 644
+E-value = 7.23698e-66
+=============================
+Hit_def (fasta name in db) = contig12545  gene=isogroup00156  length=813  
+itr with hit = 768
+Query name = KY027707.1 Urbanus dorantes voucher AW280 glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 644
+E-value = 1.211e-63
+=============================
+Hit_def (fasta name in db) = isotig15802  gene=isogroup12026  length=673  numContigs=1
+itr with hit = 768
+Query name = KY027707.1 Urbanus dorantes voucher AW280 glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 644
+E-value = 5.63425e-62
+=============================
+Hit_def (fasta name in db) = c214343_g1_i1 len=590 path=[2797:0-586 4388:587-589]
+itr with hit = 768
+Query name = KY027707.1 Urbanus dorantes voucher AW280 glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 644
+E-value = 2.12931e-26
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 770
+Query name = KY027705.1 Typhedanus ampyx voucher 143ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 584
+E-value = 2.97578e-79
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 779
+Query name = KY027696.1 Thorybes pylades voucher 27ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 665
+E-value = 1.18332e-103
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 788
+Query name = KY027687.1 Systasea zampa voucher 614MCZ glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 673
+E-value = 9.52815e-85
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 807
+Query name = KY027668.1 Salatis sp. UK75 glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 678
+E-value = 1.216e-98
+=============================
+Hit_def (fasta name in db) = contig12545  gene=isogroup00156  length=813  
+itr with hit = 807
+Query name = KY027668.1 Salatis sp. UK75 glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 678
+E-value = 4.59555e-63
+=============================
+Hit_def (fasta name in db) = isotig15802  gene=isogroup12026  length=673  numContigs=1
+itr with hit = 807
+Query name = KY027668.1 Salatis sp. UK75 glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 678
+E-value = 2.1381e-61
+=============================
+Hit_def (fasta name in db) = c216116_g2_i2 len=899 path=[7274:0-6 7281:7-18 1983:19-138 7544:139-139 2486:140-238 @3322@!:239-772 1356:773-898]
+itr with hit = 807
+Query name = KY027668.1 Salatis sp. UK75 glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 678
+E-value = 3.6032e-54
+=============================
+Hit_def (fasta name in db) = c216116_g2_i1 len=910 path=[3072:0-249 @3322@!:250-783 1356:784-909]
+itr with hit = 807
+Query name = KY027668.1 Salatis sp. UK75 glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 678
+E-value = 3.6032e-54
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 820
+Query name = KY027655.1 Pyrgus scriptura voucher 49ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 621
+E-value = 1.15764e-68
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 821
+Query name = KY027654.1 Pyrgus ruralis voucher 10ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 659
+E-value = 2.01778e-81
+=============================
+Hit_def (fasta name in db) = contig12545  gene=isogroup00156  length=813  
+itr with hit = 827
+Query name = KY027648.1 Proteides mercurius voucher 139ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 663
+E-value = 1.59208e-72
+=============================
+Hit_def (fasta name in db) = isotig15802  gene=isogroup12026  length=673  numContigs=1
+itr with hit = 827
+Query name = KY027648.1 Proteides mercurius voucher 139ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 663
+E-value = 7.40724e-71
+=============================
+Hit_def (fasta name in db) = c216116_g2_i2 len=899 path=[7274:0-6 7281:7-18 1983:19-138 7544:139-139 2486:140-238 @3322@!:239-772 1356:773-898]
+itr with hit = 827
+Query name = KY027648.1 Proteides mercurius voucher 139ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 663
+E-value = 9.58188e-70
+=============================
+Hit_def (fasta name in db) = c216116_g2_i1 len=910 path=[3072:0-249 @3322@!:250-783 1356:784-909]
+itr with hit = 827
+Query name = KY027648.1 Proteides mercurius voucher 139ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 663
+E-value = 9.58188e-70
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 828
+Query name = KY027647.1 Potamanaxas sp. UK54 glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 665
+E-value = 3.36064e-89
+=============================
+Hit_def (fasta name in db) = c214343_g1_i1 len=590 path=[2797:0-586 4388:587-589]
+itr with hit = 833
+Query name = KY027642.1 Polygonus leo voucher 147ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 661
+E-value = 1.69141e-27
+=============================
+Hit_def (fasta name in db) = c184663_g2_i2 len=683 path=[627:0-140 767:141-148 338:149-339 532:340-410 1031:411-438 1059:439-533 1153:534-576 626:577-682]
+itr with hit = 840
+Query name = KY027635.1 Phanus vitreus voucher UK29 glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 680
+E-value = 4.57717e-68
+=============================
+Hit_def (fasta name in db) = c216116_g2_i2 len=899 path=[7274:0-6 7281:7-18 1983:19-138 7544:139-139 2486:140-238 @3322@!:239-772 1356:773-898]
+itr with hit = 853
+Query name = KY027622.1 Ouleus narycus voucher UK41 glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 535
+E-value = 2.11294e-75
+=============================
+Hit_def (fasta name in db) = c216116_g2_i1 len=910 path=[3072:0-249 @3322@!:250-783 1356:784-909]
+itr with hit = 853
+Query name = KY027622.1 Ouleus narycus voucher UK41 glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 535
+E-value = 2.11294e-75
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 868
+Query name = KY027607.1 Pseudonascus paulliniae voucher 639ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 652
+E-value = 1.9674e-91
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 869
+Query name = KY027606.1 Narcosius colossus voucher 527ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 679
+E-value = 9.48154e-95
+=============================
+Hit_def (fasta name in db) = c29610_g1_i1 len=641 path=[1:0-640]
+itr with hit = 869
+Query name = KY027606.1 Narcosius colossus voucher 527ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 679
+E-value = 1.76422e-17
+=============================
+Hit_def (fasta name in db) = isotig15802  gene=isogroup12026  length=673  numContigs=1
+itr with hit = 883
+Query name = KY027592.1 Meza meza voucher 562ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 668
+E-value = 1.66237e-47
+=============================
+Hit_def (fasta name in db) = contig12545  gene=isogroup00156  length=813  
+itr with hit = 883
+Query name = KY027592.1 Meza meza voucher 562ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 668
+E-value = 1.66237e-47
+=============================
+Hit_def (fasta name in db) = c216116_g2_i2 len=899 path=[7274:0-6 7281:7-18 1983:19-138 7544:139-139 2486:140-238 @3322@!:239-772 1356:773-898]
+itr with hit = 883
+Query name = KY027592.1 Meza meza voucher 562ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 668
+E-value = 1.66237e-47
+=============================
+Hit_def (fasta name in db) = c216116_g2_i1 len=910 path=[3072:0-249 @3322@!:250-783 1356:784-909]
+itr with hit = 883
+Query name = KY027592.1 Meza meza voucher 562ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 668
+E-value = 1.66237e-47
+=============================
+Hit_def (fasta name in db) = contig12545  gene=isogroup00156  length=813  
+itr with hit = 889
+Query name = KY027586.1 Lobocla liliana voucher 597MCZ glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 679
+E-value = 2.71189e-75
+=============================
+Hit_def (fasta name in db) = isotig15802  gene=isogroup12026  length=673  numContigs=1
+itr with hit = 889
+Query name = KY027586.1 Lobocla liliana voucher 597MCZ glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 679
+E-value = 1.26172e-73
+=============================
+Hit_def (fasta name in db) = c216116_g2_i2 len=899 path=[7274:0-6 7281:7-18 1983:19-138 7544:139-139 2486:140-238 @3322@!:239-772 1356:773-898]
+itr with hit = 889
+Query name = KY027586.1 Lobocla liliana voucher 597MCZ glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 679
+E-value = 2.12629e-66
+=============================
+Hit_def (fasta name in db) = c216116_g2_i1 len=910 path=[3072:0-249 @3322@!:250-783 1356:784-909]
+itr with hit = 889
+Query name = KY027586.1 Lobocla liliana voucher 597MCZ glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 679
+E-value = 2.12629e-66
+=============================
+Hit_def (fasta name in db) = c185393_g2_i1 len=451 path=[698:0-152 848:153-159 104:160-206 19:207-230 924:231-233 46:234-450]
+itr with hit = 889
+Query name = KY027586.1 Lobocla liliana voucher 597MCZ glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 679
+E-value = 8.2664e-11
+=============================
+Hit_def (fasta name in db) = c184663_g2_i2 len=683 path=[627:0-140 767:141-148 338:149-339 532:340-410 1031:411-438 1059:439-533 1153:534-576 626:577-682]
+itr with hit = 900
+Query name = KY027575.1 Hylephila phyleus voucher 630AVZB glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 668
+E-value = 1.26704e-58
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 909
+Query name = KY027566.1 Helias phalaenoides voucher 435ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 665
+E-value = 1.22592e-78
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 924
+Query name = KY027551.1 Erynnis horatius voucher 40ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 672
+E-value = 1.21335e-93
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 925
+Query name = KY027550.1 Erynnis horatius voucher 39ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 672
+E-value = 7.25099e-96
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 934
+Query name = KY027541.1 Ebrietas anacreon voucher 485ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 672
+E-value = 1.58071e-87
+=============================
+Hit_def (fasta name in db) = c184663_g2_i2 len=683 path=[627:0-140 767:141-148 338:149-339 532:340-410 1031:411-438 1059:439-533 1153:534-576 626:577-682]
+itr with hit = 935
+Query name = KY027540.1 Achlyodes thraso voucher UK49 glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 637
+E-value = 9.32112e-60
+=============================
+Hit_def (fasta name in db) = c184663_g2_i2 len=683 path=[627:0-140 767:141-148 338:149-339 532:340-410 1031:411-438 1059:439-533 1153:534-576 626:577-682]
+itr with hit = 938
+Query name = KY027537.1 Drephalys kidonoi voucher 454ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 673
+E-value = 2.15191e-51
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 941
+Query name = KY027534.1 Darpa striata voucher 589MCZ glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 657
+E-value = 7.08236e-96
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 943
+Query name = KY027532.1 Dalla sp. UK40 glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 663
+E-value = 3.39784e-79
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 956
+Query name = KY027519.1 Cogia calchas voucher 78ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 673
+E-value = 1.53898e-107
+=============================
+Hit_def (fasta name in db) = contig12545  gene=isogroup00156  length=813  
+itr with hit = 959
+Query name = KY027516.1 Codatractus melon voucher 187ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 673
+E-value = 1.61712e-72
+=============================
+Hit_def (fasta name in db) = isotig15802  gene=isogroup12026  length=673  numContigs=1
+itr with hit = 959
+Query name = KY027516.1 Codatractus melon voucher 187ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 673
+E-value = 7.52371e-71
+=============================
+Hit_def (fasta name in db) = c216116_g2_i2 len=899 path=[7274:0-6 7281:7-18 1983:19-138 7544:139-139 2486:140-238 @3322@!:239-772 1356:773-898]
+itr with hit = 959
+Query name = KY027516.1 Codatractus melon voucher 187ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 673
+E-value = 5.85748e-67
+=============================
+Hit_def (fasta name in db) = c216116_g2_i1 len=910 path=[3072:0-249 @3322@!:250-783 1356:784-909]
+itr with hit = 959
+Query name = KY027516.1 Codatractus melon voucher 187ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 673
+E-value = 5.85748e-67
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 962
+Query name = KY027513.1 Chiomara georgina voucher ADW258 glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 552
+E-value = 4.62751e-87
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 971
+Query name = KY027504.1 Camptopleura auxo voucher 81ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 609
+E-value = 6.5892e-91
+=============================
+Hit_def (fasta name in db) = contig12545  gene=isogroup00156  length=813  
+itr with hit = 979
+Query name = KY027496.1 Cabares potrillo voucher 499ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 670
+E-value = 1.58699e-82
+=============================
+Hit_def (fasta name in db) = isotig15802  gene=isogroup12026  length=673  numContigs=1
+itr with hit = 979
+Query name = KY027496.1 Cabares potrillo voucher 499ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 670
+E-value = 7.38356e-81
+=============================
+Hit_def (fasta name in db) = c216116_g2_i2 len=899 path=[7274:0-6 7281:7-18 1983:19-138 7544:139-139 2486:140-238 @3322@!:239-772 1356:773-898]
+itr with hit = 979
+Query name = KY027496.1 Cabares potrillo voucher 499ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 670
+E-value = 1.23553e-78
+=============================
+Hit_def (fasta name in db) = c216116_g2_i1 len=910 path=[3072:0-249 @3322@!:250-783 1356:784-909]
+itr with hit = 979
+Query name = KY027496.1 Cabares potrillo voucher 499ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 670
+E-value = 1.23553e-78
+=============================
+Hit_def (fasta name in db) = GAIZ01014420.1 TSA: Gryllus firmus Locus_25742_Transcript_1/1_Confidence_1.000_Length_1041 transcribed RNA sequence
+itr with hit = 990
+Query name = KY027485.1 Astraptes fulgerator voucher 142ADW glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 671
+E-value = 9.29918e-100
+=============================
+Hit_def (fasta name in db) = c216116_g2_i2 len=899 path=[7274:0-6 7281:7-18 1983:19-138 7544:139-139 2486:140-238 @3322@!:239-772 1356:773-898]
+itr with hit = 999
+Query name = KY027476.1 Ancyloxypha numitor voucher 611MCZ glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 678
+E-value = 2.74631e-65
+=============================
+Hit_def (fasta name in db) = c216116_g2_i1 len=910 path=[3072:0-249 @3322@!:250-783 1356:784-909]
+itr with hit = 999
+Query name = KY027476.1 Ancyloxypha numitor voucher 611MCZ glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 678
+E-value = 2.74631e-65
+=============================
+Hit_def (fasta name in db) = contig12545  gene=isogroup00156  length=813  
+itr with hit = 999
+Query name = KY027476.1 Ancyloxypha numitor voucher 611MCZ glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 678
+E-value = 1.65285e-62
+=============================
+Hit_def (fasta name in db) = isotig15802  gene=isogroup12026  length=673  numContigs=1
+itr with hit = 999
+Query name = KY027476.1 Ancyloxypha numitor voucher 611MCZ glyceraldhyde-3-phosphate dehydrogenase (GAPDH) gene, partial cds
+Query length = 678
+E-value = 5.94472e-62
+=============================

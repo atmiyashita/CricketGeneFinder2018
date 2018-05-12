@@ -1,0 +1,90 @@
+Hit_def (fasta name in db) = isotig10581  gene=isogroup06805  length=1568  numContigs=1
+itr with hit = 494
+Query name = GEFM01006632.1 TSA: Ixodes ricinus Ir-107724 mRNA sequence
+Query length = 1518
+E-value = 2.83802e-83
+=============================
+Hit_def (fasta name in db) = c211921_g2_i2 len=2107 path=[1318:0-250 1569:251-341 1660:342-615 1934:616-1434 2751:1435-1667 2984:1668-2106]
+itr with hit = 494
+Query name = GEFM01006632.1 TSA: Ixodes ricinus Ir-107724 mRNA sequence
+Query length = 1518
+E-value = 1.32977e-76
+=============================
+Hit_def (fasta name in db) = GAIZ01014572.1 TSA: Gryllus firmus Locus_6537_Transcript_1/1_Confidence_1.000_Length_1761 transcribed RNA sequence
+itr with hit = 494
+Query name = GEFM01006632.1 TSA: Ixodes ricinus Ir-107724 mRNA sequence
+Query length = 1518
+E-value = 1.32977e-76
+=============================
+Hit_def (fasta name in db) = c211921_g2_i3 len=1850 path=[6075:0-227 6304:228-358 1934:359-1177 2751:1178-1410 2984:1411-1849]
+itr with hit = 494
+Query name = GEFM01006632.1 TSA: Ixodes ricinus Ir-107724 mRNA sequence
+Query length = 1518
+E-value = 1.75707e-60
+=============================
+Hit_def (fasta name in db) = isotig10581  gene=isogroup06805  length=1568  numContigs=1
+itr with hit = 502
+Query name = XM_015264871.1 PREDICTED: Diachasma alloeum catalase (LOC107043382), mRNA
+Query length = 1791
+E-value = 2.00675e-85
+=============================
+Hit_def (fasta name in db) = c211921_g2_i2 len=2107 path=[1318:0-250 1569:251-341 1660:342-615 1934:616-1434 2751:1435-1667 2984:1668-2106]
+itr with hit = 502
+Query name = XM_015264871.1 PREDICTED: Diachasma alloeum catalase (LOC107043382), mRNA
+Query length = 1791
+E-value = 4.34385e-82
+=============================
+Hit_def (fasta name in db) = GAIZ01014572.1 TSA: Gryllus firmus Locus_6537_Transcript_1/1_Confidence_1.000_Length_1761 transcribed RNA sequence
+itr with hit = 502
+Query name = XM_015264871.1 PREDICTED: Diachasma alloeum catalase (LOC107043382), mRNA
+Query length = 1791
+E-value = 2.021e-80
+=============================
+Hit_def (fasta name in db) = c211921_g2_i3 len=1850 path=[6075:0-227 6304:228-358 1934:359-1177 2751:1178-1410 2984:1411-1849]
+itr with hit = 502
+Query name = XM_015264871.1 PREDICTED: Diachasma alloeum catalase (LOC107043382), mRNA
+Query length = 1791
+E-value = 2.03534e-75
+=============================
+Hit_def (fasta name in db) = isotig10581  gene=isogroup06805  length=1568  numContigs=1
+itr with hit = 850
+Query name = KM063183.1 Achaea janata catalase mRNA, partial cds
+Query length = 513
+E-value = 3.47967e-53
+=============================
+Hit_def (fasta name in db) = c211921_g2_i3 len=1850 path=[6075:0-227 6304:228-358 1934:359-1177 2751:1178-1410 2984:1411-1849]
+itr with hit = 850
+Query name = KM063183.1 Achaea janata catalase mRNA, partial cds
+Query length = 513
+E-value = 3.47967e-53
+=============================
+Hit_def (fasta name in db) = c211921_g2_i2 len=2107 path=[1318:0-250 1569:251-341 1660:342-615 1934:616-1434 2751:1435-1667 2984:1668-2106]
+itr with hit = 850
+Query name = KM063183.1 Achaea janata catalase mRNA, partial cds
+Query length = 513
+E-value = 3.47967e-53
+=============================
+Hit_def (fasta name in db) = isotig10581  gene=isogroup06805  length=1568  numContigs=1
+itr with hit = 925
+Query name = GADI01003000.1 TSA: Ixodes ricinus Ir2-3438 mRNA sequence
+Query length = 1509
+E-value = 6.06307e-85
+=============================
+Hit_def (fasta name in db) = GAIZ01014572.1 TSA: Gryllus firmus Locus_6537_Transcript_1/1_Confidence_1.000_Length_1761 transcribed RNA sequence
+itr with hit = 925
+Query name = GADI01003000.1 TSA: Ixodes ricinus Ir2-3438 mRNA sequence
+Query length = 1509
+E-value = 1.31242e-81
+=============================
+Hit_def (fasta name in db) = c211921_g2_i2 len=2107 path=[1318:0-250 1569:251-341 1660:342-615 1934:616-1434 2751:1435-1667 2984:1668-2106]
+itr with hit = 925
+Query name = GADI01003000.1 TSA: Ixodes ricinus Ir2-3438 mRNA sequence
+Query length = 1509
+E-value = 2.8409e-78
+=============================
+Hit_def (fasta name in db) = c211921_g2_i3 len=1850 path=[6075:0-227 6304:228-358 1934:359-1177 2751:1178-1410 2984:1411-1849]
+itr with hit = 925
+Query name = GADI01003000.1 TSA: Ixodes ricinus Ir2-3438 mRNA sequence
+Query length = 1509
+E-value = 3.75377e-62
+=============================

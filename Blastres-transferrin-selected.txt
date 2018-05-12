@@ -1,0 +1,48 @@
+Hit_def (fasta name in db) = isotig07902  gene=isogroup04126  length=4246  numContigs=1
+itr with hit = 330
+Query name = XM_396618.5 PREDICTED: Apis mellifera melanotransferrin (LOC413167), mRNA
+Query length = 2998
+E-value = 2.03045e-82
+=============================
+Hit_def (fasta name in db) = c201038_g2_i2 len=6073 path=[1:0-1569 7060:1570-1570 1572:1571-2240 2242:2241-5340 5342:5341-5597 5599:5598-5600 5602:5601-6072]
+itr with hit = 382
+Query name = XM_015574014.1 PREDICTED: Dufourea novaeangliae melanotransferrin (LOC107186192), mRNA
+Query length = 2484
+E-value = 3.81876e-44
+=============================
+Hit_def (fasta name in db) = c201038_g2_i1 len=1612 path=[1:0-1569 7060:1570-1570 6661:1571-1611]
+itr with hit = 382
+Query name = XM_015574014.1 PREDICTED: Dufourea novaeangliae melanotransferrin (LOC107186192), mRNA
+Query length = 2484
+E-value = 3.81876e-44
+=============================
+Hit_def (fasta name in db) = isotig07902  gene=isogroup04126  length=4246  numContigs=1
+itr with hit = 382
+Query name = XM_015574014.1 PREDICTED: Dufourea novaeangliae melanotransferrin (LOC107186192), mRNA
+Query length = 2484
+E-value = 1.7767e-42
+=============================
+Hit_def (fasta name in db) = c221516_g1_i1 len=3114 path=[1252:0-33 1286:34-281 6756:282-289 1535:290-302 1548:303-547 1786:548-560 133:561-588 8062:589-721 6936:722-884 2120:885-1207 2439:1208-1238 2470:1239-1288 2519:1289-1289 980:1290-1313 7110:1314-1360 7134:1361-1363 5644:1364-1385 7154:1386-1386 7155:1387-1544 2772:1545-1576 2804:1577-1631 7231:1632-1652 95:1653-1792 7330:1793-1795 5531:1796-1796 4580:1797-1813 3038:1814-1855 7356:1856-1904 7380:1905-1938 6076:1939-1946 5742:1947-1953 7427:1954-1970 6107:1971-1971 3194:1972-2041 7487:2042-2043 7489:2044-2066 276:2067-2184 7594:2185-2211 751:2212-2327 7658:2328-2329 7660:2330-2442 7729:2443-2445 7732:2446-2447 7734:2448-2448 7735:2449-2452 3658:2453-2464 @3670@!:2465-2785 7854:2786-2807 226:2808-3017 8011:3018-3026 8021:3027-3033 4227:3034-3044 8033:3045-3113]
+itr with hit = 386
+Query name = KU218687.1 Melanoplus sanguinipes clone MS1628 transferrin mRNA, complete cds
+Query length = 1734
+E-value = 1.78382e-145
+=============================
+Hit_def (fasta name in db) = GAIZ01009235.1 TSA: Gryllus firmus Locus_14138_Transcript_1/1_Confidence_1.000_Length_882 transcribed RNA sequence
+itr with hit = 386
+Query name = KU218687.1 Melanoplus sanguinipes clone MS1628 transferrin mRNA, complete cds
+Query length = 1734
+E-value = 1.45927e-106
+=============================
+Hit_def (fasta name in db) = isotig07902  gene=isogroup04126  length=4246  numContigs=1
+itr with hit = 561
+Query name = XM_003695279.2 PREDICTED: Apis florea melanotransferrin (LOC100865800), mRNA
+Query length = 2893
+E-value = 1.93113e-92
+=============================
+Hit_def (fasta name in db) = isotig07902  gene=isogroup04126  length=4246  numContigs=1
+itr with hit = 692
+Query name = XM_006618271.1 PREDICTED: Apis dorsata melanotransferrin-like (LOC102678854), mRNA
+Query length = 3005
+E-value = 9.4023e-86
+=============================
