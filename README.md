@@ -7,3 +7,14 @@ The scheme of this program is
 1. Download all the sequence data from NCBI database associated with a gene name (protein name) of interest
 2. Run a BLAST search locally using your own database, such as a transcriptome dataset (in fasta format).
 3. Extract relevant informations from the output file (xml format)
+
+
+## Files to store in this repository 
+
+Due to the size limit in repositories in GitHub, I will not store large files (e.g. sequence database files) in this repository. They are saved locally or in Goole Drive.
+
+Currently, 
+
+ 1. 'xxx.py' files 
+ 
+is stored in this repository. Each '.py' files refer to Google Drive address in each code.
