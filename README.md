@@ -8,6 +8,11 @@ The scheme of this program is
 2. Run a BLAST search locally using your own database, such as a transcriptome dataset (in fasta format).
 3. Extract relevant informations from the output file (xml format)
 
+# The Main Function 
+
+The main function is in 'GeneFinder.py', where a function 'GeneFinder' is defined. You can always call this function by executing the following in your python console (remember to set the working directory appropreately).
+
+from GeneFinder import GeneFinder
 
 ## Files to store in this repository 
 
