@@ -14,7 +14,7 @@ os.getcwd()
 
 #####################################
                                     #
-SearchTerm = "yolk"                   #   <!---  ENTER THE SEARCH TERM (This is the only thing you need to do)
+SearchTerm = "yolk protein"                   #   <!---  ENTER THE SEARCH TERM (This is the only thing you need to do)
                                     # 
 #####################################
 

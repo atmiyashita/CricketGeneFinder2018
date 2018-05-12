@@ -14,7 +14,7 @@ os.getcwd()
 
 #####################################
                                     #
-SearchTerm = "vg"         #   <!---  ENTER THE SEARCH TERM (This is the only thing you need to do)
+SearchTerm = "vitellogenin"         #   <!---  ENTER THE SEARCH TERM (This is the only thing you need to do)
                                     # 
 #####################################
 
@@ -29,7 +29,7 @@ search_handle = Entrez.esearch(db="nucleotide",
                                term= '"' + SearchTerm 
                                + '"[PROTEINFULLNAME] AND "arthropods"[porgn] AND 0:30000[Sequence Length]',
                                usehistory="y", idtype="acc",
-                               RetMax=1000) 
+                               RetMax=3000) 
 search_record = Entrez.read(search_handle)              #store search record
 search_handle.close()       #close search
 print(search_record["Count"])
