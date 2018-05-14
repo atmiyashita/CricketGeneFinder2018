@@ -1,9 +1,10 @@
 def GeneFinder(ProteinName,
                wdir='/Users/atmiyashita/Google Drive/2017-18/Shelley/Primer Design/Python',
+               seqlenlimit = 30000
                ):
     # Setup 
     import os
-    os.getcwd()
+    currentdir = os.getcwd()
     os.chdir(wdir)  
     os.getcwd()
     
@@ -20,13 +21,27 @@ def GeneFinder(ProteinName,
     # open search and search taeget genes in arthropod (limit sequence length less than 10kbp)   
     search_handle = Entrez.esearch(db="nucleotide",
                                    term= '"' + SearchTerm 
-                                   + '"[PROTEINFULLNAME] AND "arthropods"[porgn] AND 0:30000[Sequence Length]',
+                                   + '"[PROTEINFULLNAME] AND "arthropods"[porgn] AND "' 
+                                   + '0:seqlenlimit' 
+                                   + '[Sequence Length]',
                                    usehistory="y", idtype="acc",
                                    RetMax=100) 
     search_record = Entrez.read(search_handle)              #store search record
     search_handle.close()       #close search
+    
     print("The number of genes found in NCBI database is " + search_record["Count"] + "...")
+    input_fetch_size = input("How many sequences do you want to download? Enter a positive integer: ")
     print("The sequence data is now being downloaded and stored in '" + ArthropodSeqFileName + "'...")
+    
+    # open search and search taeget genes in arthropod (limit sequence length less than 10kbp)   
+    search_handle = Entrez.esearch(db="nucleotide",
+                                   term= '"' + SearchTerm 
+                                   + '"[PROTEINFULLNAME] AND "arthropods"[porgn] AND 0:30000[Sequence Length]',
+                                   usehistory="y", idtype="acc",
+                                   RetMax=input_fetch_size) 
+    search_record = Entrez.read(search_handle)              #store search record
+    search_handle.close()       #close search
+    
     IDs = search_record["IdList"]       #NCBI IDs (nucleotide) to fetch later
     
     out_handle = open(ArthropodSeqFileName, "w+")       # open file where you save the result to      
@@ -37,6 +52,8 @@ def GeneFinder(ProteinName,
         fetch_handle.close()
         out_handle.write(data)    
     out_handle.close()
+    
+    del(IDs,ProteinName, input_fetch_size, search_record, seq_id)
     
     #   <<<<<<< BLAST, saving the result in a xml file  >>>>>>>>>>>>>>>>>> %% Currently not working -> command directily from terminal! 
     DatabaseName = 'Gryllus_rubens_bimac_firmus_TranscriptomeX3'
@@ -74,4 +91,8 @@ def GeneFinder(ProteinName,
                         res.write("=============================" +'\n')
     res.close()
     print("The selected sequence names in " + DatabaseName + " have been saved in " + SeqSelectedFilename)
-    print("End of the process. Congrats!.")
+    print("End of the process. Congrats!")
+    
+    # Change working directory as it was
+    os.chdir(currentdir) 
+    
