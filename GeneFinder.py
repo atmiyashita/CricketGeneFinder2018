@@ -22,7 +22,7 @@ def GeneFinder(ProteinName,
     # open search and search taeget genes in arthropod (limit sequence length less than 10kbp)   
     search_handle = Entrez.esearch(db="nucleotide",
                                    term= str('"' + SearchTerm 
-                                   + '"[Protein Name] AND "arthropods"[porgn] AND (biomol_mrna[PROP] '
+                                   + '"[All Fields] AND "arthropods"[porgn] AND (biomol_mrna[PROP] '
                                    + 'AND ("0"[SLEN] : '
                                    + '"' + str(seqlenlimit) + '"[SLEN]))'),
                                    usehistory="y", idtype="acc",
@@ -58,7 +58,7 @@ def GeneFinder(ProteinName,
     #   <<<<<<< BLAST, saving the result in a xml file  >>>>>>>>>>>>>>>>>> %% Currently not working -> command directily from terminal! 
     DatabaseName = db
     print("Executing local BLAST (blastn) with " + DatabaseName +".fasta ...")
-    BlastResXmlFileName = "Blastres-" + SearchTerm + "-TrX3.xml"
+    BlastResXmlFileName = "Blastres-" + SearchTerm + "_"+ db + ".xml"
     import subprocess
     cmd_list = ['/usr/local/ncbi/blast/bin/blastn','-db', DatabaseName,
                 '-query',ArthropodSeqFileName,
@@ -69,10 +69,10 @@ def GeneFinder(ProteinName,
     
     #  <<<<<  Filter BLAST result, saving to a text file >>>>>>>>
     import xml.etree.ElementTree as ET
-    tree = ET.parse("Blastres-" + SearchTerm + "-trX3.xml")
+    tree = ET.parse(BlastResXmlFileName)
     root = tree.getroot()
     query = root[8]     #assing new object 'query' to root[8] for convenience
-    SeqSelectedFilename = "Blastres-" + SearchTerm + "-selected.txt"
+    SeqSelectedFilename = "Blastres-SELECTED_" + SearchTerm + "_" + db + "-selected.txt"
     res = open(SeqSelectedFilename, "w+")
     for itr in range(0, len(query)):
         if (len(query[itr][4]) > 0):        # if there is one or more hits, and
