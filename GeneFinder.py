@@ -1,5 +1,6 @@
 def GeneFinder(ProteinName,
                wdir='/Users/atmiyashita/Google Drive/2017-18/Shelley/Primer Design/Python',
+               db = 'Gryllus_rubens_bimac_firmus_TranscriptomeX3',
                seqlenlimit = 30000
                ):
     # Setup 
@@ -20,15 +21,14 @@ def GeneFinder(ProteinName,
     Entrez.email ="atmiyashita@dal.ca"   # always tell NCBI who you are
     # open search and search taeget genes in arthropod (limit sequence length less than 10kbp)   
     search_handle = Entrez.esearch(db="nucleotide",
-                                   term= '"' + SearchTerm 
-                                   + '"[PROTEINFULLNAME] AND "arthropods"[porgn] AND "' 
-                                   + '0:seqlenlimit' 
-                                   + '[Sequence Length]',
+                                   term= str('"' + SearchTerm 
+                                   + '"[Protein Name] AND "arthropods"[porgn] AND (biomol_mrna[PROP] '
+                                   + 'AND ("0"[SLEN] : '
+                                   + '"' + str(seqlenlimit) + '"[SLEN]))'),
                                    usehistory="y", idtype="acc",
-                                   RetMax=100) 
+                                   RetMax=3000)                                 
     search_record = Entrez.read(search_handle)              #store search record
     search_handle.close()       #close search
-    
     print("The number of genes found in NCBI database is " + search_record["Count"] + "...")
     input_fetch_size = input("How many sequences do you want to download? Enter a positive integer: ")
     print("The sequence data is now being downloaded and stored in '" + ArthropodSeqFileName + "'...")
@@ -56,7 +56,7 @@ def GeneFinder(ProteinName,
     del(IDs,ProteinName, input_fetch_size, search_record, seq_id)
     
     #   <<<<<<< BLAST, saving the result in a xml file  >>>>>>>>>>>>>>>>>> %% Currently not working -> command directily from terminal! 
-    DatabaseName = 'Gryllus_rubens_bimac_firmus_TranscriptomeX3'
+    DatabaseName = db
     print("Executing local BLAST (blastn) with " + DatabaseName +".fasta ...")
     BlastResXmlFileName = "Blastres-" + SearchTerm + "-TrX3.xml"
     import subprocess
@@ -95,4 +95,3 @@ def GeneFinder(ProteinName,
     
     # Change working directory as it was
     os.chdir(currentdir) 
-    
