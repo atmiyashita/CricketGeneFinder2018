@@ -57,7 +57,7 @@ def GeneFinder(ProteinName,
     
     #   <<<<<<< BLAST, saving the result in a xml file  >>>>>>>>>>>>>>>>>> %% Currently not working -> command directily from terminal! 
     DatabaseName = db
-    print("Executing local BLAST (blastn) with " + DatabaseName +".fasta ...")
+    print("Executing local BLAST (blastn) with " + DatabaseName +"...")
     BlastResXmlFileName = "Blastres-" + SearchTerm + "_"+ db + ".xml"
     import subprocess
     cmd_list = ['/usr/local/ncbi/blast/bin/blastn','-db', DatabaseName,
@@ -77,12 +77,13 @@ def GeneFinder(ProteinName,
     for itr in range(0, len(query)):
         if (len(query[itr][4]) > 0):        # if there is one or more hits, and
             query_hits = query[itr][4]
-            if (int(query[itr][3].text) < 10000):   #if query length is less than 10000
+            if (int(query[itr][3].text) < 100000):   #if query length is less than 100000
                 for Hits_i in range(0, len(query_hits)):
                     query_hits_i = query_hits[Hits_i]
                     query_hits_i_hsps_Hsp =query_hits_i[5][0]
                     Eval = query_hits_i_hsps_Hsp[3].text #e-value
                     if float(Eval) < 1e-05:
+                        res.write("Hit_id (fasta name in db) = " + query_hits_i[1].text +'\n') # print name of gene (fasta name) in database they the query sequence was matched to
                         res.write("Hit_def (fasta name in db) = " + query_hits_i[2].text +'\n') # print name of gene (fasta name) in database they the query sequence was matched to 
                         res.write("itr with hit = " + str(itr) +'\n' ) # print query number
                         res.write("Query name = " + query[itr][2].text +'\n')   # print name of the query (gene name)
