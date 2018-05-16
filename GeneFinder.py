@@ -94,5 +94,6 @@ def GeneFinder(ProteinName,
     print("The selected sequence names in " + DatabaseName + " have been saved in " + SeqSelectedFilename)
     print("End of the process. Congrats!")
     
+
     # Change working directory as it was
     os.chdir(currentdir) 
