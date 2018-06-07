@@ -75,6 +75,8 @@ GeneFinder_tblastx(ProteinName="vitellogenin", db = "SRR6761207_TrinityAssembled
                                     res.write("Query length = " + query[itr][3].text +'\n') # print query length
                                     res.write("E-value = " + Eval +'\n') #print E-value
                                     res.write("=============================" +'\n')
+                                
+                                
     res.close()
     
 
